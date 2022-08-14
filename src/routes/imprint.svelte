@@ -46,7 +46,7 @@
     <div class="py-8 text-center text-2xl">Data privacy notice:</div>
     <div class="py-4 text-lg ">This is a notice to indicate that for reasons of system security and overview of user behavior, personal data of users of this website (visiting period, operating system, browser version, browser resolution, country of origin, number of visits) will be stored using cookies and Matomo tracking. Data will be stored until further notice. Data will not be disseminated without your explicit consent.</div>
     <div class="py-4 text-lg ">By using this website, you agree to the manner and purposes of data processing. You can disable cookies in your browser settings. However, this might limit functionality of this website.</div>
-    <div class="py-4 text-lg ">Please find the OEAW's detailed data privacy statement here. The contact data published in the context of the imprint duty may not be used to send promotional or informational material not explicitly requested. We explicitly disagree with this usage.</div>
+    <div class="py-4 text-lg ">Please find the OEAW's detailed data privacy statement <a rel="external" href="https://www.oeaw.ac.at/en/oeaw/data-protection/" class="text-teal-400">here</a>. The contact data published in the context of the imprint duty may not be used to send promotional or informational material not explicitly requested. We explicitly disagree with this usage.</div>
 
     <!--german-->
     <div class="py-8 text-center text-3xl">Offenlegung gemäß §§ 24, 25 Mediengesetz und § 5 E-Commerce-Gesetz:</div>
