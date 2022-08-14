@@ -269,7 +269,7 @@
               </a>
             {/each}
 
-            <a href="/" class="text-base font-medium text-gray-900 hover:text-gray-700"> Kontakt </a>
+            <a href="/contact" class="text-base font-medium text-gray-900 hover:text-gray-700"> Kontakt </a>
           </div>
         </div>
       </div>
