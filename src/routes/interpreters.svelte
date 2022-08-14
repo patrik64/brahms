@@ -3,7 +3,7 @@
     <div class="text-center text-4xl">Brahms-Interpret*innen</div>
     <div class="py-4">Ähnlich wie für Franz Schubert, dessen Lieder durch den Sänger Joseph Michael Vogl erst so richtig populär wurden, finden sich auch bei Brahms Künstler, die sich mehr als andere in den Dienst seiner Musik gestellt haben. Ohne Anspruch auf Vollständigkeit seien hier einige von ihnen in alphabetischer Reihenfolge näher vorgestellt.</div>
 
-    <div class="pt-8 flex-1 flex items-center">
+    <!--div class="pt-8 flex-1 flex items-center">
       <div class="mx-auto w-auto relative z-0 inline-flex shadow-sm rounded-md">
         <a href="#barbi" class="relative inline-flex items-center px-4 py-2 rounded-l-md border border-gray-300 bg-white text-sm font-medium text-teal-400 hover:bg-gray-50 focus:z-10 focus:outline-none">Alice Barbi</a>
         <a href="#baumayer" class="-ml-px relative inline-flex items-center px-4 py-2 border border-gray-300 bg-white text-sm font-medium text-teal-400 hover:bg-gray-50 focus:z-10 focus:outline-none">Marie Baumayer</a>
@@ -23,7 +23,119 @@
         <a href="#soldat" class="-ml-px relative inline-flex items-center px-4 py-2 border border-gray-300 bg-white text-sm font-medium text-teal-400 hover:bg-gray-50 focus:z-10 focus:outline-none">Marie Soldat-Roeger</a>
         <a href="#walter" class="-ml-px relative inline-flex items-center px-4 py-2 rounded-r-md border border-gray-300 bg-white text-sm font-medium text-teal-400 hover:bg-gray-50 focus:z-10 focus:outline-none">Gustav Walter</a>
       </div>
-    </div>
+    </div-->
+
+    <ul class="py-12 mx-auto grid grid-cols-2 gap-x-4 gap-y-8 sm:grid-cols-4 md:gap-x-6 lg:max-w-5xl lg:gap-x-8 lg:gap-y-12 xl:grid-cols-6">
+      <li>
+        <a href="#barbi" class="space-y-4">
+          <img class="mx-auto h-20 w-20 rounded-full lg:w-24 lg:h-24 object-cover" src="/images/iterpreters/thumbs/barbi.png" alt="barbi" />
+          <div class="space-y-2">
+            <div class="text-xs font-medium lg:text-sm text-center">
+              <h3>
+                <div class="text-teal-400">Alice Barbi</div>
+              </h3>
+            </div>
+          </div>
+        </a>
+      </li>
+      <li>
+        <a href="#baumayer" class="space-y-4">
+          <img class="mx-auto h-20 w-20 rounded-full lg:w-24 lg:h-24 object-cover" src="/images/iterpreters/thumbs/baumayer.png" alt="baumayer" />
+          <div class="space-y-2">
+            <div class="text-xs font-medium lg:text-sm text-center">
+              <h3>
+                <div class="text-teal-400">Marie Baumayer</div>
+              </h3>
+            </div>
+          </div>
+        </a>
+      </li>
+      <li>
+        <a href="#brull" class="space-y-4">
+          <img class="mx-auto h-20 w-20 rounded-full lg:w-24 lg:h-24 object-cover" src="/images/iterpreters/thumbs/brull.png" alt="brull" />
+          <div class="space-y-2">
+            <div class="text-xs font-medium lg:text-sm text-center">
+              <h3>
+                <div class="text-teal-400">Ignaz Brüll</div>
+              </h3>
+            </div>
+          </div>
+        </a>
+      </li>
+      <li>
+        <a href="#hellmesberger" class="space-y-4">
+          <img class="mx-auto h-20 w-20 rounded-full lg:w-24 lg:h-24 object-cover" src="/images/iterpreters/hellmesberger-quartett-2.jpg" alt="hellmesberger" />
+          <div class="space-y-2">
+            <div class="text-xs font-medium lg:text-sm text-center">
+              <h3>
+                <div class="text-teal-400">Hellmesberger-Quartett</div>
+              </h3>
+            </div>
+          </div>
+        </a>
+      </li>
+      <li>
+        <a href="#joachim" class="space-y-4">
+          <img class="mx-auto h-20 w-20 rounded-full lg:w-24 lg:h-24 object-cover" src="/images/iterpreters/joachim-quartett.jpg" alt="joachim" />
+          <div class="space-y-2">
+            <div class="text-xs font-medium lg:text-sm text-center">
+              <h3>
+                <div class="text-teal-400">Joachim-Quartett</div>
+              </h3>
+            </div>
+          </div>
+        </a>
+      </li>
+      <li>
+        <a href="#rose" class="space-y-4">
+          <img class="mx-auto h-20 w-20 rounded-full lg:w-24 lg:h-24 object-cover" src="/images/iterpreters/rose-quartett.jpg" alt="rose" />
+          <div class="space-y-2">
+            <div class="text-xs font-medium lg:text-sm text-center">
+              <h3>
+                <div class="text-teal-400">Rosé-Quartett</div>
+              </h3>
+            </div>
+          </div>
+        </a>
+      </li>
+      <li>
+        <a href="#sistermans" class="space-y-4">
+          <img class="mx-auto h-20 w-20 rounded-full lg:w-24 lg:h-24 object-cover" src="/images/iterpreters/thumbs/sistermans.png" alt="sistermans" />
+          <div class="space-y-2">
+            <div class="text-xs font-medium lg:text-sm text-center">
+              <h3>
+                <div class="text-teal-400">Anton Sistermans</div>
+              </h3>
+            </div>
+          </div>
+        </a>
+      </li>
+      <li>
+        <a href="#soldat" class="space-y-4">
+          <img class="mx-auto h-20 w-20 rounded-full lg:w-24 lg:h-24 object-cover" src="/images/iterpreters/thumbs/soldat.png" alt="soldat" />
+          <div class="space-y-2">
+            <div class="text-xs font-medium lg:text-sm text-center">
+              <h3>
+                <div class="text-teal-400">Marie Soldat-Roeger</div>
+              </h3>
+            </div>
+          </div>
+        </a>
+      </li>
+      <li>
+        <a href="#walter" class="space-y-4">
+          <img class="mx-auto h-20 w-20 rounded-full lg:w-24 lg:h-24 object-cover" src="/images/iterpreters/thumbs/walter.png" alt="walter" />
+          <div class="space-y-2">
+            <div class="text-xs font-medium lg:text-sm text-center">
+              <h3>
+                <div class="text-teal-400">Gustav Walter</div>
+              </h3>
+            </div>
+          </div>
+        </a>
+      </li>
+    </ul>
+
 
     <!--barbi-->
     <div id="barbi" class="py-4 text-center text-3xl">Alice Barbi (1858-1948)</div>
