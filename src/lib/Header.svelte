@@ -269,7 +269,7 @@
               </a>
             {/each}
 
-            <a href="/contact" class="text-base font-medium text-gray-900 hover:text-gray-700"> Kontakt </a>
+            <PopoverButton as="a" href="/contact" class="text-base font-medium text-gray-900 hover:text-gray-700">Kontakt</PopoverButton>
           </div>
         </div>
       </div>
