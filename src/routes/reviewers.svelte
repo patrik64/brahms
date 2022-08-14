@@ -5,7 +5,7 @@
     <ul class="mx-auto grid grid-cols-2 gap-x-4 gap-y-8 sm:grid-cols-4 md:gap-x-6 lg:max-w-5xl lg:gap-x-8 lg:gap-y-12 xl:grid-cols-6">
       <li>
         <a href="#ambros" class="space-y-4">
-          <img class="mx-auto h-20 w-20 rounded-full lg:w-24 lg:h-24 object-cover" src="/images/reviewers/ambros-august-wilhelm.jpg" alt="ambros" />
+          <img class="mx-auto h-20 w-20 rounded-full lg:w-24 lg:h-24 object-cover" src="/images/reviewers/thumbs/ambros.png" alt="ambros" />
           <div class="space-y-2">
             <div class="text-xs font-medium lg:text-sm text-center">
               <h3>
@@ -17,7 +17,7 @@
       </li>
       <li>
         <a href="#bruyck" class="space-y-4">
-          <img class="mx-auto h-20 w-20 rounded-full lg:w-24 lg:h-24 object-cover" src="/images/reviewers/debrois-van-bruyck.jpg" alt="bruyck" />
+          <img class="mx-auto h-20 w-20 rounded-full lg:w-24 lg:h-24 object-cover" src="/images/reviewers/thumbs/bruyck.png" alt="bruyck" />
           <div class="space-y-2">
             <div class="text-xs font-medium lg:text-sm text-center">
               <h3>
@@ -29,7 +29,7 @@
       </li>
       <li>
         <a href="#frey" class="space-y-4">
-          <img class="mx-auto h-20 w-20 rounded-full lg:w-24 lg:h-24 object-cover" src="/images/reviewers/frey-wilhelm.jpg" alt="frey" />
+          <img class="mx-auto h-20 w-20 rounded-full lg:w-24 lg:h-24 object-cover" src="/images/reviewers/thumbs/frey.png" alt="frey" />
           <div class="space-y-2">
             <div class="text-xs font-medium lg:text-sm text-center">
               <h3>
@@ -55,7 +55,7 @@
       </li>
       <li>
         <a href="#gollerich" class="space-y-4">
-          <img class="mx-auto h-20 w-20 rounded-full lg:w-24 lg:h-24 object-cover" src="/images/reviewers/goellerich-august.jpg" alt="gollerich" />
+          <img class="mx-auto h-20 w-20 rounded-full lg:w-24 lg:h-24 object-cover" src="/images/reviewers/thumbs/gollerich.png" alt="gollerich" />
           <div class="space-y-2">
             <div class="text-xs font-medium lg:text-sm text-center">
               <h3>
@@ -67,11 +67,35 @@
       </li>
       <li>
         <a href="#hahn" class="space-y-4">
-          <img class="mx-auto h-20 w-20 rounded-full lg:w-24 lg:h-24 object-cover" src="/images/reviewers/hahn-ludwig-benedikt.jpg" alt="hahn" />
+          <img class="mx-auto h-20 w-20 rounded-full lg:w-24 lg:h-24 object-cover" src="/images/reviewers/thumbs/hahn.png" alt="hahn" />
           <div class="space-y-2">
             <div class="text-xs font-medium lg:text-sm text-center">
               <h3>
                 <div class="text-teal-400">Ludwig Benedikt Hahn</div>
+              </h3>
+            </div>
+          </div>
+        </a>
+      </li>
+      <li>
+        <a href="#hanslick" class="space-y-4">
+          <img class="mx-auto h-20 w-20 rounded-full lg:w-24 lg:h-24 object-cover" src="/images/reviewers/thumbs/hanslick.png" alt="hanslick" />
+          <div class="space-y-2">
+            <div class="text-xs font-medium lg:text-sm text-center">
+              <h3>
+                <div class="text-teal-400">Eduard Hanslick</div>
+              </h3>
+            </div>
+          </div>
+        </a>
+      </li>
+      <li>
+        <a href="#hirsch" class="space-y-4">
+          <img class="mx-auto h-20 w-20 rounded-full lg:w-24 lg:h-24 object-cover" src="/images/reviewers/thumbs/hirsch.png" alt="hirsch" />
+          <div class="space-y-2">
+            <div class="text-xs font-medium lg:text-sm text-center">
+              <h3>
+                <div class="text-teal-400">Rudolf Hirsch</div>
               </h3>
             </div>
           </div>
@@ -87,7 +111,7 @@
         <img class=" object-contain" src="/images/reviewers/ambros-august-wilhelm.jpg" alt="ambros" />
         <div class="text-xs">Ambros, 1862 &copy; Wikipedia</div>
       </div>
-      <p class="text-justify">Musikhistoriker, Musikkritiker und Komponist. Neffe des Wiener Musikforschers Raphael Georg Kiesewetter, trotz juristischer Studien den Künsten zugetan. Unter dem Namen „Flamin“ Mitglied des von ihm mitgegründeten Prager „Davidsbundes“, dem auch Eduard Hanslick (als „Renatus“) angehörte. Sein musikalisches und journalistisches Vorbild fand Ambros in Robert Schumann, mit dem er von 1845 bis 1850 auch korrespondierte. Sein Werk <i>Die Grenzen der Musik und Poesie. Eine Studie zur Ästhetik der Tonkunst</i> (Prag 1856) entstand als Antwort auf Eduard Hanslicks Schrift <i>Vom Musikalisch-Schönen</i>, seinen Durchbruch als einer der bedeutendsten Musikgelehrten seiner Zeit hatte Ambros aber mit seiner (unvollendet gebliebenen) dreibändigen <i>Geschichte der Musik</i> (1862–1868). 1869 wurde er Professor für Musiktheorie an der Universität Prag, 1872 wechselte er als Kunst- und Musikgeschichtelehrer Erzherzog Rudolfs nach Wien, wo er auch am Konservatorium unterrichtete.</p>
+      <p class="text-justify">Musikhistoriker, Musikkritiker und Komponist. Neffe des Wiener Musikforschers Raphael Georg Kiesewetter, trotz juristischer Studien den Künsten zugetan. Unter dem Namen „Flamin“ Mitglied des von ihm mitgegründeten Prager „Davidsbundes“, dem auch Eduard Hanslick (als „Renatus“) angehörte. Sein musikalisches und journalistisches Vorbild fand Ambros in Robert Schumann, mit dem er von 1845 bis 1850 auch korrespondierte. Sein Werk <i>Die Grenzen der Musik und Poesie. Eine Studie zur Ästhetik der Tonkunst</i> (Prag 1856) entstand als Antwort auf Eduard Hanslicks Schrift <i>Vom Musikalisch-Schönen</i>, seinen Durchbruch als einer der bedeutendsten Musikgelehrten seiner Zeit hatte Ambros aber mit seiner (unvollendet gebliebenen) dreibändigen <i>Geschichte der Musik</i> (1862-1868). 1869 wurde er Professor für Musiktheorie an der Universität Prag, 1872 wechselte er als Kunst- und Musikgeschichtelehrer Erzherzog Rudolfs nach Wien, wo er auch am Konservatorium unterrichtete.</p>
     </div>
     <div class="py-2 text-justify">In seinen ästhetischen Urteilen stimmte er zu Beginn in vielen Dingen mit seinem Jugendfreund Hanslick überein, vertrat allerdings später auch andere Standpunkte. Er prägte seine Zeitgenossen v. a. durch zahlreiche Vorträge in Wien und auswärts, als Vorstand musikalischer Vereine und insbesondere als Musikkritiker und Redaktionsmitglied der <i>Wiener Zeitung</i> und der <i>Wiener Abendpost</i> sowie als Korrespondent auswärtiger Blätter.</div>
     <br />
@@ -107,7 +131,7 @@
         <img class="object-contain" src="/images/reviewers/debrois-van-bruyck.jpg" alt="bruyck" />
         <div class="text-xs">&copy; Uwe Harten</div>
       </div>
-      <p class="text-justify">Musikschriftsteller und Komponist. 1850 Kompositionsunterricht bei Johann Rufinatscha, 1853-1868 als Musikschriftsteller für mehrere Zeitschriften in Österreich und Deutschland tätig, darunter 1856–1863 als Nachfolger seines Freundes Eduard Hanslick für die Wiener Zeitung. Als überzeugter Gegner der Neudeutschen propagierte er als einer der Ersten in Wien die Werke Robert Schumanns und jene von Johannes Brahms. Mit beiden soll er auch in näherem Kontakt gestanden haben. In der Folge beschäftigte er sich längere Zeit mit musikhistorischen und philosophischen Studien und übersiedelte 1874 nach Waidhofen/Ybbs, wo er sich v. a. seinem kompositorischen Schaffen und einem umfangreichen Briefwechsel mit Schriftstellern (u. a. Paul Heyse, Robert Hamerling) und Musikern widmete.</p>
+      <p class="text-justify">Musikschriftsteller und Komponist. 1850 Kompositionsunterricht bei Johann Rufinatscha, 1853-1868 als Musikschriftsteller für mehrere Zeitschriften in Österreich und Deutschland tätig, darunter 1856-1863 als Nachfolger seines Freundes Eduard Hanslick für die Wiener Zeitung. Als überzeugter Gegner der Neudeutschen propagierte er als einer der Ersten in Wien die Werke Robert Schumanns und jene von Johannes Brahms. Mit beiden soll er auch in näherem Kontakt gestanden haben. In der Folge beschäftigte er sich längere Zeit mit musikhistorischen und philosophischen Studien und übersiedelte 1874 nach Waidhofen/Ybbs, wo er sich v. a. seinem kompositorischen Schaffen und einem umfangreichen Briefwechsel mit Schriftstellern (u. a. Paul Heyse, Robert Hamerling) und Musikern widmete.</p>
     </div>
 
     <div class="text-sm py-2">Quellen: Uwe Harten, Art. „Debrois van Bruyck, Carl‟, in: Oesterreichisches Musiklexikon online, Zugriff: 6.4.2021; Linzer Tages-Post, Jg. 38, Nr. 182, 8. August 1902, S. 3.</div>
@@ -155,7 +179,7 @@
       <p class="text-justify">Musikschriftsteller. In Wien Studium an der Technischen Hochschule sowie bei Anton Bruckner. 1884 Bekanntschaft mit Franz Liszt, der ihn als Klavierschüler aufnahm und dessen Sekretär Göllerich bis zu Liszts Tod 1886 war. Danach in Wien Musikkritiker, der sich besonders für das Werk Bruckners und Wagners einsetzte. 1890 an der Ramannschen Musikschule in Nürnberg tätig, 1896 Wechsel als Musikdirektor nach Linz, wo Göllerich das Linzer Musikleben wesentlich beeinflusste und förderte, u. a. als Leiter von Sängerbund und Frohsinn sowie von ihm veranstalteten Konzerten. Autor einer grundlegenden Bruckner-Biographie, deren problematisches Bruckner-Bild (Musikant Gottes, „Deutscher Michel“) bis heute nachwirkt.</p>
       <p class="py-4 text-justify">Göllerich prägte für Brahms u. a. die Floskel „Meister der musikalischen Nüchternheit“, die in der Folge auch von dessen Nachfolger beim Deutschen Volksblatt, Hans Puchstein, gerne zitiert wurde.</p>
     </div>
-    <div class="text-sm">Quellen: Elisabeth Th. Hilscher, Art. „Göllerich, Familie‟, in: Oesterreichisches Musiklexikon online, Zugriff: 12.4.2021; Jerger, Veit Wilhelm: „August Göllerich (1859–1923). Eine biographische Skizze“, in: Oberösterreichische Heimatblätter, 29. Jg., Heft 1/2 (1975), S. 38-46.</div>
+    <div class="text-sm">Quellen: Elisabeth Th. Hilscher, Art. „Göllerich, Familie‟, in: Oesterreichisches Musiklexikon online, Zugriff: 12.4.2021; Jerger, Veit Wilhelm: „August Göllerich (1859-1923). Eine biographische Skizze“, in: Oberösterreichische Heimatblätter, 29. Jg., Heft 1/2 (1975), S. 38-46.</div>
     <br />
     <br />
     <br />
@@ -163,7 +187,6 @@
     <br />
     <br />
     <br />
-    
 
     <!--hahn-->
     <div id="hahn" class="py-4 text-center text-2xl">Ludwig Benedikt Hahn</div>
@@ -180,6 +203,43 @@
     <div class="text-sm">Quelle: <i>Neue Freie Presse</i>, 3. Mai 1923, S. 7.</div>
     <br />
     <br />
+    <br />
+    <br />
+    
+    <!--hanslick-->
+    <div id="hanslick" class="py-4 text-center text-2xl">Eduard Hanslick</div>
+    <div class="py-2">*11.09.1825 Prag, †06.08.1904 Baden bei Wien</div>
+    <div>
+      <div class="float-left p-2 flex-1 flex-col">
+        <img class="object-contain" src="/images/reviewers/hanslick-eduard.jpg" alt="hahn" />
+        <div class="text-xs">&copy; ÖNB / Löwy</div>
+      </div>
+      <p class="text-justify">Musikästhetiker, Musikkritiker, „Meister des Feuilletons“ (Robert Hirschfeld über Hanslick in: Wiener Abendpost, 11. August 1904, S. [1]). Ab 1843 Klavier-, Theorie- und Kompositionsunterricht bei Wenzel Johann Tomaschek, ab 1844 Jusstudium in Prag bzw. ab 1846 in Wien. Promotion 1849, danach Beamter, u.a. am Kultusministerium in Wien.</p>
+      <p class="py-4 text-justify">Hanslick war ab 1846 bei der Wiener Allgemeinen Musik-Zeitung, ab 1848 bei der Wiener Zeitung, ab 1855 bei der Presse und von 1864 bis 1904 bei der Neuen Freien Presse tätig (bis 1901 im Musikreferat, das in der Folge von Richard Heuberger bzw. Julius Korngold übernommen wurde) und stieg im Laufe der Jahre zu einem der einflussreichsten Musikkritiker seiner Zeit auf. 1854 erreichte er große Publizität mit seiner Schrift Vom Musikalisch-Schönen, die 1856 von der Wiener Universität als Habilitationsschrift anerkannt wurde und ihn zum Privatdozenten „für Geschichte und Ästhetik der Tonkunst“ machte. 1861 erhielt Hanslick eine Professur, die er bis zu seiner Emeritierung 1895 innehatte.</p>
+      <p class="py-4 text-justify">Verankerung im Wiener Musikleben, u. a. als staatlicher Berater für die Vergabe von Musikstipendien (Einsatz für Antonín Dvořák) oder als offizieller Berichterstatter für Instrumentenbau bei den Weltausstellungen in London (1862), Paris (1867, 1878) und Wien (1873) sowie als Juror bei Musikwettbewerben, 1885 als Teilnehmer an der Wiener Stimmtonkonferenz. Von 1893 bis 1897 Präsident der Gesellschaft zur Herausgabe von Denkmälern der Tonkunst in Österreich und ab 1884 Mitarbeit am sogenannten „Kronprinzenwerk“.</p>
+      <p class="py-4 text-justify">Hanslick hatte Kontakte zu zahlreichen Musikern und zählte zum Freundeskreis von Johannes Brahms und Theodor Billroth. </p>
+    </div>
+    <div class="text-sm">Quellen: Barbara Boisits, Art. „Hanslick, Eduard‟, in: Oesterreichisches Musiklexikon online, Zugriff: 30.4.2021; Neue Freie Presse, 07. August 1904, S. 7-9; r. h. [= Robert Hirschfeld]: Nachruf, in: Wiener Abendpost, 11. August 1904, S. [1f.].</div>
+    <br />
+    <br />
+
+    <!--hirsch-->
+    <div id="hirsch" class="py-4 text-center text-2xl">Rudolf Hirsch</div>
+    <div class="py-2">*01.02.1816 Napajedl/Mähren, †10.03.1872 Wien</div>
+    <div>
+      <div class="float-right p-2 flex-1 flex-col">
+        <img class="object-contain" src="/images/reviewers/hirsch-rudolf.jpg" alt="hirsch" />
+        <div class="text-xs">&copy; ÖNB</div>
+      </div>
+      <p class="text-justify">Schriftsteller und Musiker, studierte Philosophie und Jus, wirkte ab 1843 im österreichischen Staatsdienst. 1850 Umsiedelung nach Wien, ab 1852 als Hofkonzipist der k. k. obersten Polizeihofstelle und Leiter der Amtsbibliothek tätig, 1861-1870 als Ministerialsekretär. Nebenbei Beschäftigung mit Poesie (besonderen Erfolg hatte er mit Irrgarten der Liebe, Wien 1850) und Musik (er vertonte ca. 100 Lieder). </p>
+      <p class="py-4 text-justify">1863-1872 schrieb er als Musikreferent für die Wiener Zeitung. Zusätzlich verfasste er unter dem Pseudonym „Dr. Schütze“ Musikberichte für die Vorstadt-Zeitung. </p>
+      
+    </div>
+    <div class="text-sm">Quellen: Andrea Harrandt, Art. „Hirsch, Rudolf‟, in: Oesterreichisches Musiklexikon online, Zugriff: 8.4.2021; Beilage zu Nr. 69 des Neuen Wiener Tagblatt, 11.3.1872.</div>
+    <br />
+    <br />
+
+    
 
     <div class="h-96" />
   </div>

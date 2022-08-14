@@ -10,11 +10,18 @@
         <a href="#brull" class="-ml-px relative inline-flex items-center px-4 py-2 rounded-r-md border border-gray-300 bg-white text-sm font-medium text-teal-400 hover:bg-gray-50 focus:z-10 focus:outline-none">Ignaz Brüll</a>
       </div>
     </div>
-    <div class="pt-1 pb-8 flex-1 flex items-center">
+    <div class="pt-1 flex-1 flex items-center">
       <div class="mx-auto w-auto relative z-0 inline-flex shadow-sm rounded-md">
         <a href="#hellmesberger" class="relative inline-flex items-center px-4 py-2 rounded-l-md border border-gray-300 bg-white text-sm font-medium text-teal-400 hover:bg-gray-50 focus:z-10 focus:outline-none">Hellmesberger-Quartett</a>
         <a href="#joachim" class="-ml-px relative inline-flex items-center px-4 py-2 border border-gray-300 bg-white text-sm font-medium text-teal-400 hover:bg-gray-50 focus:z-10 focus:outline-none">Joachim-Quartett</a>
         <a href="#rose" class="-ml-px relative inline-flex items-center px-4 py-2 rounded-r-md border border-gray-300 bg-white text-sm font-medium text-teal-400 hover:bg-gray-50 focus:z-10 focus:outline-none">Rosé-Quartett</a>
+      </div>
+    </div>
+    <div class="pt-1 pb-8 flex-1 flex items-center">
+      <div class="mx-auto w-auto relative z-0 inline-flex shadow-sm rounded-md">
+        <a href="#sistermans" class="relative inline-flex items-center px-4 py-2 rounded-l-md border border-gray-300 bg-white text-sm font-medium text-teal-400 hover:bg-gray-50 focus:z-10 focus:outline-none">Anton Sistermans</a>
+        <a href="#soldat" class="-ml-px relative inline-flex items-center px-4 py-2 border border-gray-300 bg-white text-sm font-medium text-teal-400 hover:bg-gray-50 focus:z-10 focus:outline-none">Marie Soldat-Roeger</a>
+        <a href="#walter" class="-ml-px relative inline-flex items-center px-4 py-2 rounded-r-md border border-gray-300 bg-white text-sm font-medium text-teal-400 hover:bg-gray-50 focus:z-10 focus:outline-none">Gustav Walter</a>
       </div>
     </div>
 
@@ -132,5 +139,74 @@
     </div>
     <br />
     <br />
+
+    <!--sistermans-->
+    <div id="sistermans" class="py-8 text-center text-3xl">Anton Sistermans (1865-1926)</div>
+    <div>
+      <div class="float-left p-2 flex-1 flex-col">
+        <img class="border-solid border border-black object-contain" src="/images/iterpreters/sistermans-anton.jpg" alt="sistermans" />
+        <div class="text-xs">&copy; ÖNB</div>
+      </div>
+      <p>Der niederländische Bariton galt neben Gustav Walter, Johannes Messchaert und Raymund von Zur Mühlen (alle drei Schüler des „Vaters des Liederrezitals“ Julius Stockhausen) als einer der bedeutendsten Liedersänger seiner Zeit. Er war zwar kein in Wien ansäßiger Sänger, konnte sich aber bei seinen regelmäßigen Gastauftritten insbesondere als Brahms-Interpret etablieren, wobei er auch zahlreiche von dessen Liedern zur Uraufführung brachte, darunter die Vier ernsten Gesänge, op. 121 am 9. November 1896 im Saal Bösendorfer.</p>
+      <p class="py-4">Welcher Komponist Anton Sistermans' (Lieder-)Herzen am nächsten stand offenbart ein Blick auf dessen Aufnahmen, wo ausschließlich Lieder eines einzigen Komponisten verewigt wurden: Johannes Brahms.</p>
+    </div>
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+
+    <!--soldat-->
+    <div id="soldat" class="py-8 text-center text-3xl">Marie Soldat-Roeger (1863-1955)</div>
+    <div>
+      <div class="float-right p-2 flex-1 flex-col">
+        <img class="border-solid border border-black object-contain" src="/images/iterpreters/soldat-roeger-marie.jpg" alt="soldat" />
+        <div class="text-xs">&copy; Maria Fellinger</div>
+      </div>
+      <p>1874 feierte Marie Soldat ihr Debüt als Violinistin, 1879 lernte sie Brahms in Pörtschach kennen, der sie an seinen Freund Joseph Joachim in Berlin empfahl, wo sie bis 1889 an der Königlichen Hochschule für Musik studierte. Sie war 1885 die erste Frau, die Brahms‘ Violinkonzert D-Dur, op. 77 spielte – und sollte für viele Jahre auch die einzige Frau bleiben, die sich an dieses Werk heranwagte.</p>
+      <p class="py-4">1895 debütierte im Bösendorfer-Saal ein von ihr gegründetes Damen-Streichquartett (Marie Soldat-Roeger: 1. Violine, Ella Finger-Bailetti bzw. ab 1898 Elsa Edle von Planck: 2. Violine, Natalie Bauer-Lechner: Viola und Lucy Herbert-Campbell bzw. ab 1903 Leontine Gärtner: Violoncello), mit dem sie auch häufig Werke von Brahms aufführte. Sie sollte übrigens auch die letzte Künstlerin sein, die Brahms spielen hörte: am 21. März 1897, also nur wenige Tage vor seinem Tod, besuchte Brahms eine private Musikdarbietung des Soldat-Roeger-Damen-Streichquartetts gemeinsam mit dem Klarinettisten Richard Mühlfeld. Statt des ursprünglich geplanten Brahms’schen Klarinettenquintetts soll dabei auf Brahms‘ eigenen Wunsch hin Carl Maria von Webers B-Dur-Klarinettenquintett gespielt worden sein – Argument: sein eigenes Werk habe er schon oft genug gehört... (Quelle: "Brahms & a Few More Friends: Part 2")</p>
+    </div>
+    <br />
+    <br />
+
+    <!--walter-->
+    <div id="walter" class="py-8 text-center text-3xl">Gustav Walter (1834-1910)</div>
+    <div>
+      <div class="float-left p-2 flex-1 flex-col">
+        <img class="border-solid border border-black object-contain" src="/images/iterpreters/walter-gustav.jpg" alt="walter" />
+        <div class="text-xs">&copy; Josef Székely, ÖNB</div>
+      </div>
+      <p>Der aus Böhmen stammende lyrische Tenor war von seinem Debüt 1856 an der Wiener Hofoper bis zu seinem Rücktritt 1887 ein gefeierter Publikumsliebling. Neben seiner Opernkarriere etablierte sich Walter auch als Liedsänger, der insbesondere mit Werken von Schubert, Dvořák und Brahms reüssieren konnte.</p>
+    </div>
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <p class="py-4">Gustav Walter zählte nicht nur zu Brahms' Freundeskreis, sondern brachte auch eine Reihe von dessen Vokalwerken zur Uraufführung, wie zum Beispiel:</p>
+    <ul class="pl-8" style="list-style-type: circle;">
+      <li class="pt-2">Rinaldo, op. 50 (28. Februar 1869, Großer Redoutensaal der Wiener Hofburg, Leitung: Johannes Brahms)</li>
+      <li class="pt-2">Liebeslieder-Walzer, op. 52 (5. Januar 1870, Kleiner Redoutensaal, Mitwirkende: Brahms und Clara Schumann am Klavier sowie Louise Dustmann-Meyer, Rosa Girzick und Emil Krauss)</li>
+      <li class="pt-2">Feldeinsamkeit, op. 86, Nr. 2 (23. Februar 1883, Saal Bösendorfer; Klavier: Brahms).</li>
+    </ul>
+    
+
   </div>
 </div>
