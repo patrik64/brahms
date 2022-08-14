@@ -127,6 +127,30 @@
           </div>
         </a>
       </li>
+      <li>
+        <a href="#kalbeck" class="space-y-4">
+          <img class="mx-auto h-20 w-20 rounded-full lg:w-24 lg:h-24 object-cover" src="/images/reviewers/thumbs/kalbeck.png" alt="kalbeck" />
+          <div class="space-y-2">
+            <div class="text-xs font-medium lg:text-sm text-center">
+              <h3>
+                <div class="text-teal-400">Max Kalbeck</div>
+              </h3>
+            </div>
+          </div>
+        </a>
+      </li>
+      <li>
+        <a href="#kulke" class="space-y-4">
+          <img class="mx-auto h-20 w-20 rounded-full lg:w-24 lg:h-24 object-cover" src="/images/reviewers/thumbs/kulke.png" alt="kulke" />
+          <div class="space-y-2">
+            <div class="text-xs font-medium lg:text-sm text-center">
+              <h3>
+                <div class="text-teal-400">Eduard Kulke</div>
+              </h3>
+            </div>
+          </div>
+        </a>
+      </li>
     </ul>
 
     <br />
@@ -286,7 +310,7 @@
     <div class="py-2 text-justify">Hirschfeld war Anhänger von Richard Wagner, Bruckner, Brahms und Hugo Wolf und galt als „kampffreudige Natur“. Diesen Ruf hatte er nicht zuletzt mit seiner 1885 erschienenen Streitschrift Das kritische Verfahren Eduard Hanslick’s begründet, in der er „gegen den damals führenden Tageskritiker die Axt erhob“ und sich dabei „als gewandter und scharfer Gegner bewiesen“ habe. Weiters heißt es in den Signalen für die musikalische Welt vom 8. April 1914: „Der Angriff war seine liebste Kampfmethode, und er führte seine Deduktionen mit einer gewissen Leidenschaft, der man schwer widerstehen konnte, zum Kampfe. In seinem Kunstgeschmack war er der gerade Gegenpol Hanslick’s, den mehr das Zierliche, Sinnliche in der Musik reizte, während Hirschfeld immer das Grosse, mochte es auch ungeglättet sein, verteidigte.“</div>
     <div class="py-2 text-justify">Hirschfeld war 1894 vom Judentum zur Evangelischen Kirche konvertiert; verheiratet mit der Opernsängerin Emma (Emmy) Karlona.</div>
     
-    <div class="text-sm">Quellen: Uwe Harten, Art. „Hirschfeld, Robert (Pseud. L. A. Terne)‟, in: Oesterreichisches Musiklexikon online, Zugriff: 8.4.2021; Hofinger, Johannes: „Robert Hirschfeld – Schulleiter für 32 Tage“, in: Hinterberger, Julia (Hrsg.): Von der Musikschule zum Konservatorium. Das Mozarteum 1841–1922, S. 352-365; Signale für die musikalische Welt, 8. April 1914, S. 588; Wiener Abendpost, Beilage zur Wiener Zeitung, 2. April 1914, S. 4-5; Arbeiter-Zeitung, Morgenblatt, 3. April 1914, S. 1-2; Neues Wiener Journal, 3. April 1914, S. 6.</div>
+    <div class="text-sm">Quellen: Uwe Harten, Art. „Hirschfeld, Robert (Pseud. L. A. Terne)‟, in: Oesterreichisches Musiklexikon online, Zugriff: 8.4.2021; Hofinger, Johannes: „Robert Hirschfeld - Schulleiter für 32 Tage“, in: Hinterberger, Julia (Hrsg.): Von der Musikschule zum Konservatorium. Das Mozarteum 1841-1922, S. 352-365; Signale für die musikalische Welt, 8. April 1914, S. 588; Wiener Abendpost, Beilage zur Wiener Zeitung, 2. April 1914, S. 4-5; Arbeiter-Zeitung, Morgenblatt, 3. April 1914, S. 1-2; Neues Wiener Journal, 3. April 1914, S. 6.</div>
     <br />
     <br />
 
@@ -295,16 +319,69 @@
     <div class="py-2">*29.12.1860 Reichenberg/Böhmen, †03.09.1941 Wien</div>
     <div>
       <div class="float-left p-2 flex-1 flex-col">
-        <img class="object-contain" src="/images/reviewers/horn-camillo.jpg" alt="frey" />
+        <img class="object-contain" src="/images/reviewers/horn-camillo.jpg" alt="horn" />
         <div class="text-xs">Camillo Horn, um 1920 &copy; Wienbibliothek im Rathaus,</div>
         <div class="text-xs">Tagblattarchiv: Fotosammlung, TF-004365</div>
       </div>
-      <p class="text-justify">Komponist, Musiker, Musikkritiker. Studierte Harfe am Prager Konservatorium, dreijähriger Militärdienst im Infanterie-Regiment 34 in Wien, Privatschüler Anton Bruckners. 1885 Staatsprüfung für Musik, danach als Chorleiter, Dirigent und Gesangslehrer in Wien tätig, u. a. als Leiter des Musikvereins „Haydn“, wo er sich für Wagner, Liszt und Bruckner einsetzte. Gesangslehrer am Wiener Piaristengymnasium, 1910–1916 am Neuen Wiener Konservatorium, 1916–1931 Professor für Harmonielehre an der Wiener Akademie für Musik und darstellende Kunst.</p>
+      <p class="text-justify">Komponist, Musiker, Musikkritiker. Studierte Harfe am Prager Konservatorium, dreijähriger Militärdienst im Infanterie-Regiment 34 in Wien, Privatschüler Anton Bruckners. 1885 Staatsprüfung für Musik, danach als Chorleiter, Dirigent und Gesangslehrer in Wien tätig, u. a. als Leiter des Musikvereins „Haydn“, wo er sich für Wagner, Liszt und Bruckner einsetzte. Gesangslehrer am Wiener Piaristengymnasium, 1910-1916 am Neuen Wiener Konservatorium, 1916-1931 Professor für Harmonielehre an der Wiener Akademie für Musik und darstellende Kunst.</p>
       <p class="py-4 text-justify">Horn, ein glühender Deutschnationaler, war zudem Musikkritiker beim Deutschen Volksblatt. Sein eigenes, deutsch-national geprägtes Werk (großteils Vokalmusik) steht unter dem Einfluss von Wagner und Bruckner. Über seine geistig-politische Ausrichtung gibt ein Nachruf im Völkischen Beobachter Aufschluss:</p>
     </div>
     <br />
     <br />
     <div class="text-sm">Quellen: Andrea Harrandt, Art. „Horn, Camillo (Kamillo Andreas)‟, in: Oesterreichisches Musiklexikon online, Zugriff: 12.4.2021; Völkischer Beobachter, 4. September 1941, S. 5.</div>
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+
+    <!--kalbeck-->
+    <div id="kalbeck" class="py-4 text-center text-2xl">Max Kalbeck</div>
+    <div class="py-2">*04.01.1850 Breslau, †04.05.1921 Wien</div>
+    <div>
+      <div class="float-right p-2 flex-1 flex-col">
+        <img class="object-contain" src="/images/reviewers/kalbeck-max.jpg" alt="kalbeck" />
+        <div class="text-xs">&copy; ÖNB / Hans</div>
+      </div>
+      <p class="text-justify">Musikschriftsteller, Musikkritiker und Übersetzer. 1861 Sängerknabe in Breslau unter Leopold Damrosch. Studium der Rechtswissenschaften, ab 1873 Münchener Musikschule, wo er u. a. bei Joseph Rheinberger Komposition studierte. 1880 kam Kalbeck auf Empfehlung Hanslicks nach Wien, wo er bei verschiedenen Zeitungen tätig war: als Musikreferent bis 1883 bei der Wiener Allgemeinen Zeitung, 1883-1890 bei der Presse, 1890-1895 bei der Montags-Revue sowie ab Ende 1895 beim Neuen Wiener Tagblatt, bei der er bereits ab 1886 als Theaterrezensent gewesen war.</p>
+      <p class="py-4 text-justify">Kalbeck wurde neben Hanslick zu einem der einflussreichsten Kritiker in Österreich, wobei er wie dieser ein heftiger Gegner der Musik von Richard Wagner, Anton Bruckner und Hugo Wolf war. Wie Hanslick wurde auch Kalbeck ein Freund und Parteigänger von Brahms, den er 1874 kennenlernte und dessen Biographie (4 Bde., 1904-1914) trotz der teils sehr subjektiven Darstellungsweise eine der wichtigsten musikhistorischen Quellen der Brahms-Biographik darstellt.</p>
+    </div>
+    <br />
+    <br />
+    <div class="text-sm">Quellen: Uwe Harten, Art. „Kalbeck, Julius Max Heinrich (Pseud. Jeremias Deutlich)‟, in: Oesterreichisches Musiklexikon online, Zugriff: 30.4.2021.</div>
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+
+    <!--kulke-->
+    <div id="kulke" class="py-4 text-center text-2xl">Eduard Kulke</div>
+    <div class="py-2">*28.05.1831 Nikolsburg, †20.03.1897 Wien</div>
+    <div>
+      <div class="float-left p-2 flex-1 flex-col">
+        <img class="object-contain" src="/images/reviewers/kulke-eduard.jpg" alt="kulke" />
+        <div class="text-xs">&copy; Wikipedia</div>
+      </div>
+      <p class="text-justify">Journalist und Schriftsteller, Sohn eines Rabbiners, ab 1853 Studium in Wien und ab 1854 in Prag am Polytechnikum Mathematik, Physik und später deutsche Sprache und Literatur. Studienabbruch, Arbeit 1858/59 als Lehrer an der israelitischen Schule in Pécs, ab 1859 Tätigkeit als Journalist und Schriftsteller in Wien, u. a. für die Allgemeine Zeitung des Judentums und dem Wiener Jahrbuch für Israeliten.</p>
+      <p class="py-4 text-justify">Im Pester Lloyd vom 24. März 1897 finden sich Angaben zu Kulkes Tätigkeit als Musikkritiker:</p>
+      <p class="py-4 text-justify">Weiters war Kulke langjähriges Mitglied des Journalisten- und Schriftstellervereins „Concordia“, der auch für die Todesanzeige in der Wiener Zeitung verantwortlich zeichnete (vgl. Wiener Abendpost, Beilage zur Wiener Zeitung, Nr. 66, 22.03.1897, S. 3).</p>
+      <p class="py-4 text-justify">Kürzel: Ed. K.</p>
+    </div>
+    <br />
+    <br />
+    <div class="text-sm">Quellen: Ludwig Julius Fränkel: Kulke, Eduard. In: Allgemeine Deutsche Biographie (ADB). Band 51, Duncker & Humblot, Leipzig 1906, S. 436–438, Wikipedia. Nachruf, in: Pester Lloyd, Jg. 42, Nr. 71, 24.03.1897, 1. Beilage, S. [1], Nachruf, in: Die Neuzeit, Jg. 37, Nr. 13, 26.03.1897, S. 133.</div>
+    <br />
+    <br />
+    <br />
+    <br />
     <br />
     <br />
 
