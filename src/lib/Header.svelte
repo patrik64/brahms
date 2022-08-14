@@ -37,19 +37,19 @@
     {
       name: 'Brahms in Wien',
       href: '/vienna',
-      description: 'Brahms in Wien',
+      description: 'Brahms in Vienna',
       icon: HomeIcon
     },
     {
       name: 'Aufführungsorte',
       href: '/venues',
-      description: 'Aufführungsorte',
+      description: 'Venues',
       icon: LibraryIcon
     },
     {
       name: 'Brahms-Interpret*innen',
       href: '/interpreters',
-      description: 'Brahms-Interpret*innen',
+      description: 'Brahms-Perfor*mers',
       icon: TranslateIcon
     }
   ];
@@ -58,26 +58,35 @@
     {
       name: 'Benutzerhinweise',
       href: '/usernotes',
-      description: 'Benutzerhinweise',
+      description: 'User Notes',
       icon: CloudIcon
     },
     {
       name: 'Suche',
       href: '/search',
-      description: 'Suche',
+      description: 'Search',
       icon: SearchIcon
     },
     {
       name: 'Personen',
       href: '/people',
-      description: 'Personen',
+      description: 'Persons',
       icon: UsersIcon
     },
     {
       name: 'Werke',
       href: '/works',
-      description: 'Werke',
+      description: 'Works',
       icon: BriefcaseIcon
+    }
+  ];
+
+  const research = [
+    {
+      name: 'Literatur',
+      href: '/literature',
+      description: 'Literature',
+      icon: BookOpenIcon
     }
   ];
 </script>
@@ -185,7 +194,36 @@
           </Transition>
         </Popover>
 
-        <a href="/" class="text-base font-medium text-gray-500 hover:text-gray-900"> Kontakt </a>
+        <Popover class="relative" let:open>
+          <PopoverButton class="{open ? 'text-gray-900' : 'text-gray-500'} group bg-white rounded-md inline-flex items-center text-base font-medium hover:text-gray-900 focus:outline-none">
+            <span>Forschung</span>
+            <ChevronDownIcon class="{open ? 'text-gray-600' : 'text-gray-400'} ml-2 h-5 w-5 group-hover:text-gray-500" aria-hidden="true" />
+          </PopoverButton>
+
+          <Transition enter="transition ease-out duration-200" enterFrom="opacity-0 translate-y-1" enterTo="opacity-100 translate-y-0" leave="transition ease-in duration-150" leaveFrom="opacity-100 translate-y-0" leaveTo="opacity-0 translate-y-1">
+            <PopoverPanel class="absolute -ml-4 mt-3 transform z-10 px-2 w-screen max-w-md sm:px-0 lg:ml-0 lg:left-1/2 lg:-translate-x-1/2">
+              <div class="rounded-lg shadow-lg ring-1 ring-black ring-opacity-5 overflow-hidden">
+                <div class="relative grid gap-6 bg-white px-5 py-6 sm:gap-8 sm:p-8">
+                  {#each research as item}
+                    <PopoverButton as="a" href={item.href} class="-m-3 p-3 flex items-start rounded-lg hover:bg-gray-50">
+                      <svelte:component this={item.icon} class="flex-shrink-0 h-6 w-6 text-teal-600" aria-hidden="true" />
+                      <div class="ml-4">
+                        <p class="text-base font-medium text-gray-900">
+                          {item.name}
+                        </p>
+                        <p class="mt-1 text-sm text-gray-500">
+                          {item.description}
+                        </p>
+                      </div>
+                    </PopoverButton>
+                  {/each}
+                </div>
+              </div>
+            </PopoverPanel>
+          </Transition>
+        </Popover>
+
+        <a href="/contact" class="text-base font-medium text-gray-500 hover:text-gray-900"> Kontakt </a>
       </PopoverGroup>
       <div class="hidden md:flex items-center justify-end md:flex-1 lg:w-0">
         <!--a href="/" class="whitespace-nowrap text-base font-medium text-gray-500 hover:text-gray-900"> Sign in </a>
