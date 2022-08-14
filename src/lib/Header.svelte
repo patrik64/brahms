@@ -260,16 +260,40 @@
               {/each}
             </nav>
           </div>
+          <div class="mt-6">
+            <nav class="grid gap-y-8">
+              {#each brahmswien as item}
+                <PopoverButton as="a" href={item.href} class="-m-3 p-3 flex items-center rounded-md hover:bg-gray-50">
+                  <svelte:component this={item.icon} class="flex-shrink-0 h-6 w-6 text-teal-600" aria-hidden="true" />
+                  <span class="ml-3 text-base font-medium text-gray-900">
+                    {item.name}
+                  </span>
+                </PopoverButton>
+              {/each}
+            </nav>
+          </div>
+          <div class="mt-6">
+            <nav class="grid gap-y-8">
+              {#each database as item}
+                <PopoverButton as="a" href={item.href} class="-m-3 p-3 flex items-center rounded-md hover:bg-gray-50">
+                  <svelte:component this={item.icon} class="flex-shrink-0 h-6 w-6 text-teal-600" aria-hidden="true" />
+                  <span class="ml-3 text-base font-medium text-gray-900">
+                    {item.name}
+                  </span>
+                </PopoverButton>
+              {/each}
+              
+              <PopoverButton as="a" href="/literature" class="-m-3 p-3 flex items-center rounded-md hover:bg-gray-50">
+                <svelte:component this={BookOpenIcon} class="flex-shrink-0 h-6 w-6 text-teal-600" aria-hidden="true" />
+                  <span class="ml-3 text-base font-medium text-gray-900">
+                    Literatur
+                  </span>
+              </PopoverButton>
+            </nav>
+          </div>
         </div>
         <div class="py-6 px-5 space-y-6">
           <div class="grid grid-cols-1 gap-y-4 gap-x-8">
-            {#each brahmswien as { name, href }}
-              <a {href} class="text-base font-medium text-gray-900 hover:text-gray-700">
-                {name}
-              </a>
-            {/each}
-
-            <PopoverButton as="a" href="/literature" class="text-base font-medium text-gray-900 hover:text-gray-700">Literatur</PopoverButton>
             <PopoverButton as="a" href="/contact" class="text-base font-medium text-gray-900 hover:text-gray-700">Kontakt</PopoverButton>
           </div>
         </div>
