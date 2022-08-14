@@ -7,7 +7,7 @@
         <li>
           <div class="space-y-4 sm:grid sm:grid-cols-5 sm:items-start sm:gap-3 sm:space-y-0">
             <div class="py-4">
-              <img class="mx-auto h-20 w-20 rounded-full lg:w-32 lg:h-32 object-cover" src="/images/contact/papadopoulou.jpg" alt="" />
+              <img class="mx-auto h-20 w-20 rounded-full lg:w-32 lg:h-32 object-cover" src="/images/contact/papadopoulou.png" alt="" />
             </div>
             <div class="sm:col-span-2 py-10">
               <div class="space-y-4">
@@ -26,7 +26,7 @@
         <li>
           <div class="sm:grid sm:grid-cols-5 sm:items-start sm:gap-3 sm:space-y-0">
             <div class="py-4">
-              <img class="mx-auto h-20 w-20 rounded-full lg:w-32 lg:h-32 object-cover" src="/images/contact/jaros.jpg" alt="" />
+              <img class="mx-auto h-20 w-20 rounded-full lg:w-32 lg:h-32 object-cover" src="/images/contact/jaros.png" alt="" />
             </div>
             <div class="sm:col-span-2 py-10">
               <div class="space-y-4">
@@ -45,7 +45,7 @@
         <li>
           <div class="sm:grid sm:grid-cols-5 sm:items-start sm:gap-3 sm:space-y-0">
             <div class="py-4">
-              <img class="mx-auto h-20 w-20 rounded-full lg:w-32 lg:h-32 object-cover" src="/images/contact/weber.jpg" alt="" />
+              <img class="mx-auto h-20 w-20 rounded-full lg:w-32 lg:h-32 object-cover" src="/images/contact/weber.png" alt="" />
             </div>
             <div class="sm:col-span-2 py-10">
               <div class="space-y-4">
