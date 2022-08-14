@@ -5,14 +5,7 @@ module.exports = {
   content: ["./src/**/*.{html,js,svelte,ts}"],
   theme: {
     fontFamily: {
-      sans: [
-        "Ubuntu",
-        "Poppins",
-        "Nunito Sans",
-        "Quicksand",
-        "Sans-serif",
-        "Germania One",
-      ],
+      sans: ["Ubuntu", "Poppins", "Nunito Sans", "Quicksand", "Sans-serif", "Germania One"]
     },
     fontSize: {
       xs: ".75rem",
@@ -26,17 +19,17 @@ module.exports = {
       "4xl": "2.25rem",
       "5xl": "3rem",
       "6xl": "4rem",
-      "7xl": "5rem",
+      "7xl": "5rem"
     },
     extend: {
       inset: {
         "-0.5": "-0.125rem",
-        "-1": "-0.25rem",
+        "-1": "-0.25rem"
       },
       aspectRatio: {
         1: "1",
         7: "7",
-        10: "10",
+        10: "10"
       },
       colors: {
         sky: colors.sky,
@@ -55,7 +48,7 @@ module.exports = {
           600: "#008982",
           700: "#005B56",
           800: "#004441",
-          900: "#002E2B",
+          900: "#002E2B"
         },
         secondary: {
           100: "#F0F1F1",
@@ -66,7 +59,7 @@ module.exports = {
           600: "#626366",
           700: "#414244",
           800: "#313233",
-          900: "#212122",
+          900: "#212122"
         },
         tertiary: {
           100: "#E6F1F0",
@@ -77,7 +70,7 @@ module.exports = {
           600: "#006862",
           700: "#004641",
           800: "#003431",
-          900: "#002321",
+          900: "#002321"
         },
         success: {
           100: "#F5FAF8",
@@ -88,7 +81,7 @@ module.exports = {
           600: "#8DB6A7",
           700: "#5E7970",
           800: "#475B54",
-          900: "#2F3D38",
+          900: "#2F3D38"
         },
         warning: {
           100: "#FDF7EA",
@@ -99,7 +92,7 @@ module.exports = {
           600: "#CF9F29",
           700: "#8A6A1C",
           800: "#685015",
-          900: "#45350E",
+          900: "#45350E"
         },
         danger: {
           100: "#F7EBEA",
@@ -110,7 +103,7 @@ module.exports = {
           600: "#9E352C",
           700: "#6A231D",
           800: "#4F1B16",
-          900: "#35120F",
+          900: "#35120F"
         },
         dark: {
           100: "#E6ECEC",
@@ -121,7 +114,7 @@ module.exports = {
           600: "#003B37",
           700: "#002825",
           800: "#001E1B",
-          900: "#001412",
+          900: "#001412"
         },
         medium: {
           100: "#F8F9F9",
@@ -132,7 +125,7 @@ module.exports = {
           600: "#A8B0B0",
           700: "#707675",
           800: "#545858",
-          900: "#383B3B",
+          900: "#383B3B"
         },
         light: {
           100: "#FDFEFE",
@@ -143,15 +136,10 @@ module.exports = {
           600: "#D3D8D8",
           700: "#8C9090",
           800: "#696C6C",
-          900: "#464848",
-        },
-      },
-    },
+          900: "#464848"
+        }
+      }
+    }
   },
-  plugins: [
-    require("@tailwindcss/forms"),
-    require("@tailwindcss/aspect-ratio"),
-    require("@tailwindcss/line-clamp"),
-    require("@tailwindcss/typography"),
-  ],
+  plugins: [require("@tailwindcss/forms"), require("@tailwindcss/aspect-ratio"), require("@tailwindcss/line-clamp"), require("@tailwindcss/typography")]
 };
