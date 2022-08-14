@@ -2,7 +2,6 @@
   <div class="max-w-7xl mx-auto text-gray-600">
     <div class="bg-gray-50 text-center text-4xl ">Impressum</div>
 
-
     <!--english-->
     <div class="text-center text-3xl ">Legal disclosure according to §§ 24, 25 Austrian media law and § 5 E-Commerce law:</div>
 
@@ -90,6 +89,5 @@
     <div class="py-4 text-lg ">Wir weisen darauf hin, dass zum Zwecke der Systemsicherheit und der Übersicht über das Nutzungsverhalten der Besuchenden im Rahmen von Cookies diverse personenbezogene Daten (Besuchszeitraum, Betriebssystem, Browserversion, innere Auflösung des Browserfensters, Herkunft nach Land, wievielter Besuch seit Beginn der Aufzeichnung) mittels Matomo-Tracking gespeichert werden. Die Daten werden bis auf weiteres gespeichert. Soweit dies erfolgt, werden diese Daten nicht ohne Ihre ausdrückliche Zustimmung an Dritte weitergegeben.</div>
     <div class="py-4 text-lg ">Durch die Nutzung der Website erklären Sie sich mit der Art und Weise sowie dem Zweck der Datenverarbeitung einverstanden. Durch eine entsprechende Einstellung in Ihrem Browser können Sie die Speicherung der Cookies verhindern. In diesem Fall stehen Ihnen aber gegebenenfalls nicht alle Funktionen der Website zur Verfügung.</div>
     <div class="py-4 text-lg ">Die ausführliche Datenschutzerklärung der ÖAW finden Sie <a rel="external" href="https://www.oeaw.ac.at/oeaw/datenschutz" class="text-teal-400">hier</a>. Die im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten dürfen von Dritten nicht zur Übersendung von nicht ausdrücklich angeforderter Werbung und Informationsmaterialien verwendet werden. Einer derartigen Verwendung wird hiermit ausdrücklich widersprochen.</div>
-    
   </div>
 </div>
