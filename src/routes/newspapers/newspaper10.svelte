@@ -1,4 +1,4 @@
-<div class="my-10 mx-auto w-1/2 bg-white shadow overflow-hidden sm:rounded-lg">
+<div class="my-10 mx-auto lg:w-1/2 bg-white shadow overflow-hidden sm:rounded-lg">
   <div class="px-4 py-5 sm:px-6">
     <a rel="external" href="https://anno.onb.ac.at/info/wrz_info.htm" class="text-2xl leading-6 font-medium text-teal-400">Wiener Zeitung</a>
     <img class="my-4 object-contain" src="/images/newspapers/wiener-zeitung.jpg" alt="" />

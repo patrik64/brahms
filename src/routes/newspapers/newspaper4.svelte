@@ -1,4 +1,4 @@
-<div class="my-10 mx-auto w-1/2 bg-white shadow overflow-hidden sm:rounded-lg">
+<div class="my-10 mx-auto lg:w-1/2 bg-white shadow overflow-hidden sm:rounded-lg">
   <div class="px-4 py-5 sm:px-6">
     <a rel="external" href="https://anno.onb.ac.at/info/nfb_info.htm" class="text-2xl leading-6 font-medium text-teal-400">Neues Fremden-Blatt</a>
     <img class="my-4 object-contain" src="/images/newspapers/neues-fremden-blatt.jpg" alt="" />

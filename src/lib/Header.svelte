@@ -2,8 +2,7 @@
 <script>
   import { Popover, PopoverButton, PopoverGroup, PopoverPanel, Transition } from "@rgossiaux/svelte-headlessui";
 
-  import { AcademicCapIcon, ViewListIcon, BookOpenIcon, UserCircleIcon, HomeIcon, NewspaperIcon, SearchIcon, ScaleIcon, UsersIcon, UserIcon, BriefcaseIcon, LibraryIcon, MenuIcon, XIcon } from "@rgossiaux/svelte-heroicons/outline";
-import ViewList from "@rgossiaux/svelte-heroicons/outline/ViewList";
+  import { ViewListIcon, BookOpenIcon, UserCircleIcon, HomeIcon, NewspaperIcon, SearchIcon, ScaleIcon, UsersIcon, UserIcon, BriefcaseIcon, LibraryIcon, MenuIcon, XIcon } from "@rgossiaux/svelte-heroicons/outline";
 
   import { ChevronDownIcon } from "@rgossiaux/svelte-heroicons/solid";
 
