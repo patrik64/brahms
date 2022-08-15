@@ -189,6 +189,27 @@
   },
   {
     "id": 10,
+    "surname": "Epstein",
+    "name": "Richard",
+    "birthdate": "26.01.1869",
+    "birthplace": "Wien",
+    "deathdate": "01.08.1919",
+    "deathplace": "New York",
+    "function": "Pianist_in",
+    "role": "",
+    "links": [
+      {
+        "lkey": "OeML",
+        "lvalue": "https://www.musiklexikon.ac.at/ml/musik_E/Epstein_Familie.xml"
+      },
+      {
+        "lkey": "OeBL",
+        "lvalue": "https://www.biographien.ac.at/oebl/oebl_E/Epstein_Richard_1869_1919.xml"}
+    ],
+    "image": ""
+  },
+  {
+    "id": 11,
     "surname": "Geisler-Schubert",
     "name": "Caroline",
     "birthdate": "18.05.1856",
@@ -201,7 +222,7 @@
     "image": "geisler-schubert.jpg"
   },
   {
-    "id": 11,
+    "id": 12,
     "surname": "Hellmesberger",
     "name": "Joseph",
     "birthdate": "09.04.1855",
@@ -222,7 +243,7 @@
     "image": "hellmesberger-junior.jpg"
   },
   {
-    "id": 12,
+    "id": 13,
     "surname": "Hellmesberger",
     "name": "Joseph",
     "birthdate": "03.11.1828",
@@ -240,7 +261,7 @@
     "image": "hellmesberger-senior.jpg"
   },
   {
-    "id": 13,
+    "id": 14,
     "surname": "Heuberger",
     "name": "Richard Franz Joseph",
     "birthdate": "18.06.1850",
@@ -260,7 +281,7 @@
     "image": "richard-heuberger.jpg"
   },
   {
-    "id": 14,
+    "id": 15,
     "surname": "Krämer",
     "name": "August",
     "birthdate": "21.08.1841",
@@ -277,7 +298,7 @@
     "image": ""
   },
   {
-    "id": 15,
+    "id": 16,
     "surname": "Kwast",
     "name": "James",
     "birthdate": "23.11.1852",
@@ -290,7 +311,7 @@
     "image": "james-kwast.jpg"
   },
   {
-    "id": 16,
+    "id": 17,
     "surname": "Lehmann",
     "name": "Lilli",
     "birthdate": "24.11.1848",
@@ -313,7 +334,7 @@
     "image": "lilli-lehmann.jpg"
   },
   {
-    "id": 17,
+    "id": 18,
     "surname": "Liebling",
     "name": "Georg Lothar",
     "birthdate": "22.01.1865",
@@ -331,7 +352,7 @@
     "image": "georg-liebling.jpg"
   },
   {
-    "id": 18,
+    "id": 19,
     "surname": "Papier-Paumgartner",
     "name": "Rosa",
     "birthdate": "18.09.1858",
@@ -353,7 +374,7 @@
     "image": "rosa-papier.jpg"
   },
   {
-    "id": 19,
+    "id": 20,
     "surname": "Popper",
     "name": "David",
     "birthdate": "18.06.1843",
@@ -375,7 +396,7 @@
     "image": "david-popper.jpg"
   },
   {
-    "id": 20,
+    "id": 21,
     "surname": "Reichmann",
     "name": "Theodor",
     "birthdate": "15.03.1849",
@@ -401,7 +422,7 @@
     "image": "theodor-reichmann.jpg"
   },
   {
-    "id": 21,
+    "id": 22,
     "surname": "Rosé",
     "name": "Arnold",
     "birthdate": "24.10.1863",
@@ -427,7 +448,7 @@
     "image": "arnold-rose.jpg"
   },
   {
-    "id": 22,
+    "id": 23,
     "surname": "Rouland",
     "name": "Carl",
     "birthdate": "18.10.1865",
@@ -440,7 +461,7 @@
     "image": ""
   },
   {
-    "id": 23,
+    "id": 24,
     "surname": "Röntgen",
     "name": "Julius",
     "birthdate": "09.05.1855",
@@ -453,7 +474,7 @@
     "image": "julius-rontgen.jpg"
   },
   {
-    "id": 24,
+    "id": 25,
     "surname": "Rückauf",
     "name": "Anton",
     "birthdate": "13.03.1855",
@@ -473,5 +494,226 @@
       }
   ],
     "image": "anton-ruckauf.jpg"
+  },
+  {
+    "id": 26,
+    "surname": "Sauer",
+    "name": "Emil von",
+    "birthdate": "08.10.1862",
+    "birthplace": "Hamburg",
+    "deathdate": "27.04.1942",
+    "deathplace": "Wien",
+    "function": "Pianist_in",
+    "role": "",
+    "links": [
+      {
+        "lkey": "OeML",
+        "lvalue": "https://www.musiklexikon.ac.at/ml/musik_S/Sauer_Emil.xml"
+      },
+      {
+        "lkey": "OeBL",
+        "lvalue": "https://www.biographien.ac.at/oebl/oebl_S/Sauer-Aichried_Emil-Georg_1862_1942.xml"
+      }
+  ],
+    "image": "emil-sauer.jpg"
+  },
+  {
+    "id": 27,
+    "surname": "Schantl",
+    "name": "Josef",
+    "birthdate": "08.02.1842",
+    "birthplace": "Graz",
+    "deathdate": "22.03.1902",
+    "deathplace": "Viehdorf",
+    "function": "Hornist_in",
+    "role": "",
+    "links": [
+      {
+        "lkey": "OeML",
+        "lvalue": "https://www.musiklexikon.ac.at/ml/musik_S/Schantl_Familie.xml"
+      },
+      {
+        "lkey": "OeBL",
+        "lvalue": "https://www.biographien.ac.at/oebl/oebl_S/Schantl_Josef-Hermann_1842_1902.xml"
+      }
+  ],
+    "image": "josef-schantl.jpg"
+  },
+  {
+    "id": 28,
+    "surname": "Schmidt",
+    "name": "Marie",
+    "birthdate": "04.05.1856",
+    "birthplace": "Köln",
+    "deathdate": "09.09.1893",
+    "deathplace": "Berlin",
+    "function": "Sänger_in",
+    "role": "",
+    "links": [
+      {
+        "lkey": "BMLO",
+        "lvalue": "https://bmlo.de/b0172"
+      }
+  ],
+    "image": "marie-schmidt.jpg"
+  },
+  {
+    "id": 29,
+    "surname": "Sistermans",
+    "name": "Anton",
+    "birthdate": "05.08.1867",
+    "birthplace": "'s-Hertogenbosch",
+    "deathdate": "06.03.1926",
+    "deathplace": "Den Haag",
+    "function": "Sänger_in",
+    "role": "",
+    "links": [
+      {
+        "lkey": "BMLO",
+        "lvalue": "https://bmlo.de/s2823"
+      }
+  ],
+    "image": "anton-sistermans.jpg"
+  },
+  {
+    "id": 30,
+    "surname": "Soldat-Röger",
+    "name": "Marie",
+    "birthdate": "25.03.1863",
+    "birthplace": "Geidorf",
+    "deathdate": "30.09.1955",
+    "deathplace": "Graz",
+    "function": "",
+    "role": "",
+    "links": [
+      {
+        "lkey": "OeML",
+        "lvalue": "https://www.musiklexikon.ac.at/ml/musik_S/Soldat-Roeger_Marie.xml"
+      }
+  ],
+    "image": "soldat-roger.jpg"
+  },
+  {
+    "id": 31,
+    "surname": "Spányi",
+    "name": "Irma de",
+    "birthdate": "1860",
+    "birthplace": "Bratislava",
+    "deathdate": "1932",
+    "deathplace": "Bratislava",
+    "function": "Sänger_in",
+    "role": "Mezzosopranist_in",
+    "links": [],
+    "image": "irma-spanyi.jpg"
+  },
+  {
+    "id": 32,
+    "surname": "Stavenhagen",
+    "name": "Bernhard",
+    "birthdate": "24.11.1862",
+    "birthplace": "Greiz",
+    "deathdate": "25.12.1914",
+    "deathplace": "Genf",
+    "function": "Dirigent_in",
+    "role": "",
+    "links": [
+      {
+        "lkey": "BMLO",
+        "lvalue": "https://bmlo.de/s1713"
+      }
+  ],
+    "image": "bernhard-stavenhagen.jpg"
+  },
+  {
+    "id": 33,
+    "surname": "Strakosch",
+    "name": "Ludwig",
+    "birthdate": "01.11.1855",
+    "birthplace": "Brünn Brno",
+    "deathdate": "14.10.1919",
+    "deathplace": "Hamburg",
+    "function": "Sänger_in",
+    "role": "",
+    "links": [
+      {
+        "lkey": "OeML",
+        "lvalue": "https://www.musiklexikon.ac.at/ml/musik_S/Strakosch_Familie.xml"
+      },
+      {
+        "lkey": "OeBL",
+        "lvalue": "https://www.biographien.ac.at/oebl/oebl_S/Strakosch_Ludwig_1855_1919.xml"
+      }
+  ],
+    "image": "ludwig-strakosch.jpg"
+  },
+  {
+    "id": 34,
+    "surname": "Türk-Rohn",
+    "name": "Olga von",
+    "birthdate": "03.06.1874",
+    "birthplace": "Wien",
+    "deathdate": "26.02.1940",
+    "deathplace": "New York",
+    "function": "Sänger_in",
+    "role": "",
+    "links": [],
+    "image": ""
+  },
+  {
+    "id": 35,
+    "surname": "Vrabély",
+    "name": "Seraphine von",
+    "birthdate": "26.07.1840",
+    "birthplace": "Bratislava",
+    "deathdate": "02.09.1931",
+    "deathplace": "Dresden",
+    "function": "Pianist_in",
+    "role": "",
+    "links": [],
+    "image": "seraphina-vrabely.jpg"
+  },
+  {
+    "id": 36,
+    "surname": "Waldner",
+    "name": "Joseph",
+    "birthdate": "21.10.1892",
+    "birthplace": "München",
+    "deathdate": "11.07.1942",
+    "deathplace": "Terezín Theresienstadt",
+    "function": "Sänger_in",
+    "role": "",
+    "links": [
+      {
+        "lkey": "BMLO",
+        "lvalue": "https://bmlo.de/w1419"
+      }
+    ],
+    "image": ""
+  },
+  {
+    "id": 37,
+    "surname": "Wirth",
+    "name": "Emanuel",
+    "birthdate": "18.10.1842",
+    "birthplace": "Luditz (Böhmen)",
+    "deathdate": "05.01.1923",
+    "deathplace": "Berlin",
+    "function": "Violinist_in",
+    "role": "",
+    "links": [],
+    "image": "emanuel-wirth.jpg"
+  },
+  {
+    "id": 38,
+    "surname": "Wurm",
+    "name": "Mary",
+    "birthdate": "18.05.1860",
+    "birthplace": "Southampton",
+    "deathdate": "21.01.1938",
+    "deathplace": "München",
+    "function": "Pianist_in",
+    "role": "",
+    "links": [],
+    "image": "mary-wurm.jpg"
   }
 ]
