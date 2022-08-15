@@ -3,210 +3,282 @@
     "id": 1,
     "surname": "Baier",
     "name": "Anna",
-    "birthday": "28.04.1858",
+    "birthdate": "28.04.1858",
     "birthplace": "Wien",
-    "deathday": "04.06.1935",
+    "deathdate": "04.06.1935",
     "deathplace": "Wien",
     "function": "Sänger_in",
     "role": "", 
-    "links": [{"OeML": "https://www.musiklexikon.ac.at/ml/musik_L/Liebhardt_Ida.xml"}]
+    "links": [
+        { 
+            "lkey": "OeML",
+            "lvalue" : "https://www.musiklexikon.ac.at/ml/musik_L/Liebhardt_Ida.xml"
+        }
+    ],
+    "image": "anna-baier.jpg"
   },
   {
     "id": 2,
     "surname": "Barbi",
     "name": "Alice",
-    "birthday": "01.06.1858",
+    "birthdate": "01.06.1858",
     "birthplace": "Modena",
-    "deathday": "04.09.1948",
+    "deathdate": "04.09.1948",
     "deathplace": "Rom",
     "function": "Sänger_in",
     "role": "",
-    "links": []
+    "links": [],
+    "image": "alice-barbi.jpg"
   },
   {
     "id": 3,
     "surname": "Baumeyer",
     "name": "Marie",
-    "birthday": "12.07.1851",
+    "birthdate": "12.07.1851",
     "birthplace": "Celje Cilli",
-    "deathday": "23.01.1931",
+    "deathdate": "23.01.1931",
     "deathplace": "Wien",
     "function": "Sänger_in",
     "role": "",
     "links": [
-      {"OeML": "https://www.musiklexikon.ac.at/ml/musik_B/Baumayer_Marie.xml"}, 
-      {"OeBL": "https://biographien.ac.at/ID-0.3020920-1"}
-    ]
+      {
+        "lkey": "OeML", 
+        "lvalue": "https://www.musiklexikon.ac.at/ml/musik_B/Baumayer_Marie.xml"
+      }, 
+      {
+        "lkey": "OeBL",
+        "lvalue": "https://biographien.ac.at/ID-0.3020920-1"
+      }
+    ],
+    "image": "marie-baumayer.jpg"
   },
   {
     "id": 4,
     "surname": "Brahms",
     "name": "Johannes",
-    "birthday": "07.05.1833",
+    "birthdate": "07.05.1833",
     "birthplace": "Hamburg",
-    "deathday": "03.04.1897",
+    "deathdate": "03.04.1897",
     "deathplace": "Wien",
     "function": "Pianist_in",
     "role": "",
     "links": [
-      {"OeML": "https://www.musiklexikon.ac.at/ml/musik_B/Brahms_Johannes.xml"}, 
-      {"OeBL": "https://biographien.ac.at/ID-0.3020920-1"},
-      {"BMLO": "https://bmlo.de/Q/GND=118514253"},
-      {"ABLO": "http://www.bruckner-online.at/ABLO_d1e619" }
-    ]
+      {
+        "lkey": "OeML",
+        "lvalue": "https://www.musiklexikon.ac.at/ml/musik_B/Brahms_Johannes.xml"
+      }, 
+      {
+        "lkey": "OeBL",
+        "lvalue": "https://biographien.ac.at/ID-0.3020920-1"
+      },
+      {
+        "lkey": "BMLO",
+        "lvalue": "https://bmlo.de/Q/GND=118514253"
+      },
+      {
+        "lkey": "ABLO",
+        "lvalue": "http://www.bruckner-online.at/ABLO_d1e619" 
+      }
+    ],
+    "image": "johannes-brahms.jpg"
   },
   {
     "id": 5,
     "surname": "Brüll",
     "name": "Ignaz",
-    "birthday": "07.11.1846",
+    "birthdate": "07.11.1846",
     "birthplace": "Proßnitz/Mähren Prostějov",
-    "deathday": "17.09.1907",
+    "deathdate": "17.09.1907",
     "deathplace": "Wien",
     "function": "Pianist_in",
     "role": "",
     "links": [
-      {"OeML": "https://www.musiklexikon.ac.at/ml/musik_B/Bruell_Ignaz.xml"}, 
-      {"OeBL": "https://www.biographien.ac.at/oebl/oebl_B/Bruell_Ignaz_1846_1907.xml"},
-      {"BMLO": "https://bmlo.de/Q/GND=118660284"}
-    ]
+      {
+        "lkey": "OeML",
+        "lvalue": "https://www.musiklexikon.ac.at/ml/musik_B/Bruell_Ignaz.xml"}, 
+      {
+        "lkey": "OeBL",
+        "lvalue": "https://www.biographien.ac.at/oebl/oebl_B/Bruell_Ignaz_1846_1907.xml"
+      },
+      {
+        "lkey": "BMLO",
+        "lvalue": "https://bmlo.de/Q/GND=118660284"
+      }
+    ],
+    "image": "ignaz-brull.jpg"
   },
   {
     "id": 6,
     "surname": "Bulß",
     "name": "Paul",
-    "birthday": "19.12.1847",
+    "birthdate": "19.12.1847",
     "birthplace": "Birkholz (Landkreis Westprignitz)",
-    "deathday": "19.03.1902",
+    "deathdate": "19.03.1902",
     "deathplace": "Temesvar Timișoara",
     "function": "Sänger_in",
     "role": "Bariton",
     "links": [
-      {"OeML": "https://www.musiklexikon.ac.at/ml/musik_B/Bruell_Ignaz.xml"}, 
-      {"OeBL": "https://www.biographien.ac.at/oebl/oebl_B/Bruell_Ignaz_1846_1907.xml"},
-      {"BMLO": "https://bmlo.de/Q/GND=118660284"}
-    ]
+      {
+        "lkey": "OeML",
+        "lvalue": "https://www.musiklexikon.ac.at/ml/musik_B/Bruell_Ignaz.xml"}, 
+      {
+        "lkey": "OeBL",
+        "lvalue": "https://www.biographien.ac.at/oebl/oebl_B/Bruell_Ignaz_1846_1907.xml"
+      },
+      {
+        "lkey": "BMLO",
+        "lvalue": "https://bmlo.de/Q/GND=118660284"
+      }
+    ],
+    "image": "paul-bulss.jpg"
   },
   {
     "id": 7,
     "surname": "Door",
     "name": "Anton",
-    "birthday": "20.06.1833",
+    "birthdate": "20.06.1833",
     "birthplace": "Wien",
-    "deathday": "07.11.1919",
+    "deathdate": "07.11.1919",
     "deathplace": "Wien",
     "function": "Pianist_in",
     "role": "",
     "links": [
-      {"OeML": "https://www.musiklexikon.ac.at/ml/musik_D/Door_Anton.xml"}
-    ]
+      {
+        "lkey": "OeML",
+        "lvalue": "https://www.musiklexikon.ac.at/ml/musik_D/Door_Anton.xml"
+      }
+    ],
+    "image": "anton-door.jpg"
   },
   {
     "id": 8,
     "surname": "Dustmann",
     "name": "Luise",
-    "birthday": "22.08.1831",
+    "birthdate": "22.08.1831",
     "birthplace": "Aachen",
-    "deathday": "02.03.1899",
+    "deathdate": "02.03.1899",
     "deathplace": "Berlin (Charlottenburg)",
     "function": "Sänger_in",
     "role": "Sopranist_in",
     "links": [
-      {"OeML": "https://www.musiklexikon.ac.at/ml/musik_D/Dustmann-Meyer_Marie.xml"}
-    ]
+      {
+        "lkey": "OeML",
+        "lvalue": "https://www.musiklexikon.ac.at/ml/musik_D/Dustmann-Meyer_Marie.xml"}
+    ],
+    "image": "luise-dustmann.jpg"
   },
   {
     "id": 9,
     "surname": "Epstein",
     "name": "Julius",
-    "birthday": "07.08.1832",
+    "birthdate": "07.08.1832",
     "birthplace": "Agram (Zagreb)",
-    "deathday": "02.03.1926",
+    "deathdate": "02.03.1926",
     "deathplace": "Wien",
     "function": "Pianist_in",
     "role": "",
     "links": [
-      {"OeML": "https://www.musiklexikon.ac.at/ml/musik_E/Epstein_Familie.xml"},
-      {"OeBL ": "https://www.biographien.ac.at/oebl/oebl_E/Epstein_Julius_1832_1926.xml"}
-    ]
+      {
+        "lkey": "OeML",
+        "lvalue": "https://www.musiklexikon.ac.at/ml/musik_E/Epstein_Familie.xml"},
+      {
+        "lkey": "OeBL",
+        "lvalue": "https://www.biographien.ac.at/oebl/oebl_E/Epstein_Julius_1832_1926.xml"}
+    ],
+    "image": "julius-epstein.jpg"
   },
   {
     "id": 10,
     "surname": "Geisler-Schubert",
     "name": "Caroline",
-    "birthday": "18.05.1856",
+    "birthdate": "18.05.1856",
     "birthplace": "Bratislava",
-    "deathday": "20.04.1951",
+    "deathdate": "20.04.1951",
     "deathplace": "London",
     "function": "Pianist_in",
     "role": "",
-    "links": []
+    "links": [],
+    "image": "geisler-schubert.jpg"
   },
   {
     "id": 11,
     "surname": "Hellmesberger",
     "name": "Joseph",
-    "birthday": "09.04.1855",
+    "birthdate": "09.04.1855",
     "birthplace": "Wien",
-    "deathday": "26.04.1907",
+    "deathdate": "26.04.1907",
     "deathplace": "Wien",
     "function": "musikalische_r_Direktor_in",
     "role": "Violinist_in",
     "links": [
-        {"OeML": "https://www.musiklexikon.ac.at/ml/musik_H/Hellmesberger-Quartett.xml"},
-        {"BMLO": "https://bmlo.de/h2469"}
+        {
+          "lkey": "OeML",
+          "lvalue": "https://www.musiklexikon.ac.at/ml/musik_H/Hellmesberger-Quartett.xml"},
+        {
+          "lkey": "BMLO",
+          "lvalue": "https://bmlo.de/h2469"
+        }
       ]
   },
   {
     "id": 12,
     "surname": "Hellmesberger",
     "name": "Joseph",
-    "birthday": "03.11.1828",
+    "birthdate": "03.11.1828",
     "birthplace": "Wien",
-    "deathday": "24.10.1893",
+    "deathdate": "24.10.1893",
     "deathplace": "Wien",
     "function": "musikalische_r_Direktor_in",
     "role": "Bratschist_in",
     "links": [
-        {"OeML": "https://www.musiklexikon.ac.at/ml/musik_H/Hellmesberger-Quartett.xml"}
+        {
+          "lkey": "OeML", 
+          "lvalue": "https://www.musiklexikon.ac.at/ml/musik_H/Hellmesberger-Quartett.xml"
+        }
       ]
   },
   {
     "id": 13,
     "surname": "Heuberger",
     "name": "Richard Franz Joseph",
-    "birthday": "18.06.1850",
+    "birthdate": "18.06.1850",
     "birthplace": "Graz",
-    "deathday": "28.10.1914",
+    "deathdate": "28.10.1914",
     "deathplace": "Wien",
     "function": "musikalische_r_Direktor_in",
     "role": "",
     "links": [
-        {"OeML": "https://www.musiklexikon.ac.at/ml/musik_H/Heuberger_Richard.xml"},
-        {"OeBL": "https://www.biographien.ac.at/oebl/oebl_H/Heuberger_Richard-Franz-Joseph_1850_1914.xml"}
+        {
+          "lkey": "OeML",
+          "lvalue": "https://www.musiklexikon.ac.at/ml/musik_H/Heuberger_Richard.xml"},
+        {
+          "lkey": "OeBL",
+          "lvalue": "https://www.biographien.ac.at/oebl/oebl_H/Heuberger_Richard-Franz-Joseph_1850_1914.xml"}
       ]
   },
   {
     "id": 14,
     "surname": "Krämer",
     "name": "August",
-    "birthday": "21.08.1841",
+    "birthdate": "21.08.1841",
     "birthplace": "Wien",
-    "deathday": "06.08.1916",
+    "deathdate": "06.08.1916",
     "deathplace": "Kollmitz b. St. Paul i. L.",
     "function": "Sänger_in",
     "role": "",
     "links": [
-        {"OeBL": "https://www.biographien.ac.at/oebl/oebl_K/Kraemer_August_1841_1916.xml;internal&action=hilite.action&Parameter=August%20Kr%E4mer"}
+        {
+          "lkey": "OeBL",
+          "lvalue": "https://www.biographien.ac.at/oebl/oebl_K/Kraemer_August_1841_1916.xml;internal&action=hilite.action&Parameter=August%20Kr%E4mer"}
       ]
   },
   {
     "id": 15,
     "surname": "Kwast",
     "name": "James",
-    "birthday": "23.11.1852",
+    "birthdate": "23.11.1852",
     "birthplace": "Nijkerk",
-    "deathday": "31.10.1927",
+    "deathdate": "31.10.1927",
     "deathplace": "Berlin",
     "function": "Pianist_in",
     "role": "",
@@ -216,16 +288,22 @@
     "id": 16,
     "surname": "Lehmann",
     "name": "Lilli",
-    "birthday": "24.11.1848",
+    "birthdate": "24.11.1848",
     "birthplace": "Würzburg",
-    "deathday": "17.05.1929",
+    "deathdate": "17.05.1929",
     "deathplace": "Berlin",
     "function": "Sänger_in",
     "role": "",
     "links": [
-        {"OeML": "https://acdh-oeaw.github.io/brahms_static/www.musiklexikon.ac.at/ml/musik_L/Lehmann_Familie.xml"},
-        {"OeBL": "https://biographien.ac.at/ID-0.3036266-1"},
-        {"BMLO": "https://bmlo.de/l0303"}
+        {
+          "lkey": "OeML",
+          "lvalue": "https://acdh-oeaw.github.io/brahms_static/www.musiklexikon.ac.at/ml/musik_L/Lehmann_Familie.xml"},
+        {
+          "lkey": "OeBL",
+          "lvalue": "https://biographien.ac.at/ID-0.3036266-1"},
+        {
+          "lkey": "BMLO",
+          "lvalue": "https://bmlo.de/l0303"}
     ]
   }
 ]

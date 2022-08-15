@@ -24,15 +24,15 @@ import people from '$lib/data/people.json';
       <tbody>
         {#each people as person, personIdx}
           <tr>
-            <td class="{personIdx === 0 ? '' : 'border-t border-gray-200'} px-3 py-3.5 text-sm text-gray-500 lg:table-cell">{person.surname}, {person.name}</td>
-            <td class="{personIdx === 0 ? '' : 'border-t border-gray-200'} px-3 py-3.5 text-sm text-gray-500 lg:table-cell">({person.birthday} - {person.deathday})</td>
+            <td class="{personIdx === 0 ? '' : 'border-t border-gray-200'} px-3 py-3.5 text-sm text-gray-500 lg:table-cell"><a href="{`/person/${person.id}`}" class="hover:text-black">{person.surname}, {person.name}</a></td>
+            <td class="{personIdx === 0 ? '' : 'border-t border-gray-200'} px-3 py-3.5 text-sm text-gray-500 lg:table-cell">({person.birthdate} - {person.deathdate})</td>
             {#if person.role.length > 0}
               <td class="{personIdx === 0 ? '' : 'border-t border-gray-200'} px-3 py-3.5 text-sm text-gray-500 lg:table-cell">{person.function} / {person.role}</td>
             {:else}
               <td class="{personIdx === 0 ? '' : 'border-t border-gray-200'} px-3 py-3.5 text-sm text-gray-500 lg:table-cell">{person.function}</td>
             {/if}
             <td class="{personIdx === 0 ? '' : 'border-t border-gray-200'} px-3 py-3.5 text-sm text-gray-500 lg:table-cell">
-              <a href="/"><svelte:component this={ClipboardListIcon} class="pr-2 mx-auto h-6" aria-hidden="true" /></a>
+              <a href="{`/person/${person.id}`}" class="hover:text-black"><svelte:component this={ClipboardListIcon} class="pr-2 mx-auto h-6" aria-hidden="true" /></a>
             </td>
           </tr>
         {/each}
