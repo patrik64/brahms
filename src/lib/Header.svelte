@@ -2,7 +2,8 @@
 <script>
   import { Popover, PopoverButton, PopoverGroup, PopoverPanel, Transition } from "@rgossiaux/svelte-headlessui";
 
-  import { BookOpenIcon, ArchiveIcon, HomeIcon, NewspaperIcon, SearchIcon, TranslateIcon, UsersIcon, CloudIcon, BriefcaseIcon, LibraryIcon, MenuIcon, XIcon } from "@rgossiaux/svelte-heroicons/outline";
+  import { AcademicCapIcon, ViewListIcon, BookOpenIcon, UserCircleIcon, HomeIcon, NewspaperIcon, SearchIcon, ScaleIcon, UsersIcon, UserIcon, BriefcaseIcon, LibraryIcon, MenuIcon, XIcon } from "@rgossiaux/svelte-heroicons/outline";
+import ViewList from "@rgossiaux/svelte-heroicons/outline/ViewList";
 
   import { ChevronDownIcon } from "@rgossiaux/svelte-heroicons/solid";
 
@@ -11,7 +12,7 @@
       name: "Über das Projekt",
       href: "/project",
       description: "About the Project",
-      icon: BookOpenIcon
+      icon: ViewListIcon
     },
     {
       name: "Wiener Presse",
@@ -29,7 +30,7 @@
       name: "Rezensenten",
       href: "/reviewers",
       description: "Reviewers",
-      icon: ArchiveIcon
+      icon: ScaleIcon
     }
   ];
 
@@ -50,7 +51,7 @@
       name: "Brahms-Interpret*innen",
       href: "/interpreters",
       description: "Brahms-Perfor*mers",
-      icon: TranslateIcon
+      icon: UserCircleIcon
     }
   ];
 
@@ -58,8 +59,8 @@
     {
       name: "Benutzerhinweise",
       href: "/usernotes",
-      description: "User Notes",
-      icon: CloudIcon
+      description: "User Instructions",
+      icon: UserIcon
     },
     {
       name: "Suche",
@@ -293,6 +294,10 @@
         <div class="py-6 px-5 space-y-6">
           <div class="grid grid-cols-1 gap-y-4 gap-x-8">
             <PopoverButton as="a" href="/contact" class="text-base font-medium text-gray-900 hover:text-gray-700">Kontakt</PopoverButton>
+            <!--PopoverButton as="a" href="/contact" class="-m-3 p-3 flex items-center rounded-md hover:bg-gray-50">
+              <svelte:component this={AcademicCapIcon} class="flex-shrink-0 h-6 w-6 text-teal-600" aria-hidden="true" />
+              <span class="ml-3 text-base font-medium text-gray-900"> Kontakt </span>
+            </PopoverButton-->
           </div>
         </div>
       </div>
