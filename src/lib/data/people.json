@@ -218,7 +218,8 @@
           "lkey": "BMLO",
           "lvalue": "https://bmlo.de/h2469"
         }
-      ]
+    ],
+    "image": "hellmesberger-junior.jpg"
   },
   {
     "id": 12,
@@ -235,7 +236,8 @@
           "lkey": "OeML", 
           "lvalue": "https://www.musiklexikon.ac.at/ml/musik_H/Hellmesberger-Quartett.xml"
         }
-      ]
+    ],
+    "image": "hellmesberger-senior.jpg"
   },
   {
     "id": 13,
@@ -254,7 +256,8 @@
         {
           "lkey": "OeBL",
           "lvalue": "https://www.biographien.ac.at/oebl/oebl_H/Heuberger_Richard-Franz-Joseph_1850_1914.xml"}
-      ]
+    ],
+    "image": "richard-heuberger.jpg"
   },
   {
     "id": 14,
@@ -282,7 +285,8 @@
     "deathplace": "Berlin",
     "function": "Pianist_in",
     "role": "",
-    "links": []
+    "links": [],
+    "image": "james-kwast.jpg"
   },
   {
     "id": 16,
@@ -304,6 +308,25 @@
         {
           "lkey": "BMLO",
           "lvalue": "https://bmlo.de/l0303"}
-    ]
+    ],
+    "image": "lilli-lehmann.jpg"
+  },
+  {
+    "id": 17,
+    "surname": "Liebling",
+    "name": "Georg Lothar",
+    "birthdate": "22.01.1865",
+    "birthplace": "Berlin",
+    "deathdate": "07.02.1946",
+    "deathplace": "New York",
+    "function": "Pianist_in",
+    "role": "",
+    "links": [
+        {
+          "lkey": "BMLO",
+          "lvalue": "https://bmlo.de/l0489"
+        }
+    ],
+    "image": "georg-liebling.jpg"
   }
 ]
