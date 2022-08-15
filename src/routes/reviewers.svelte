@@ -103,9 +103,7 @@
       </li>
       <li>
         <a href="#hirschfeld" class="space-y-4">
-          <svg class="mx-auto h-20 w-20 rounded-full lg:w-24 lg:h-24 object-cover text-gray-300 border border-gray-100" fill="currentColor" viewBox="0 0 24 24">
-            <path d="M24 20.993V24H0v-2.996A14.977 14.977 0 0112.004 15c4.904 0 9.26 2.354 11.996 5.993zM16.002 8.999a4 4 0 11-8 0 4 4 0 018 0z" />
-          </svg>
+          <img class="mx-auto h-20 w-20 rounded-full lg:w-24 lg:h-24 object-cover" src="/images/reviewers/thumbs/hirschfeld.png" alt="hirschfeld" />
           <div class="space-y-2">
             <div class="text-xs font-medium lg:text-sm text-center">
               <h3>
@@ -314,16 +312,22 @@
     </div>
     <div class="text-sm">Quellen: Andrea Harrandt, Art. „Hirsch, Rudolf‟, in: Oesterreichisches Musiklexikon online, Zugriff: 8.4.2021; Beilage zu Nr. 69 des Neuen Wiener Tagblatt, 11.3.1872.</div>
     <div class="md:h-96" />
-    
+
     <!--hirschfeld-->
     <div id="hirschfeld" class="pt-16 pb-4 text-center text-2xl">Robert Hirschfeld</div>
     <div class="py-2">*17.09.1857 Großmeseritsch/Mähren, †02.04.1914 Salzburg</div>
-    <div class="py-2 text-justify">Musikpädagoge und Musikkritiker. Sohn eines Rabbiners, studierte neben Rechtswissenschaft auch Musikwissenschaft (bei Eduard Hanslick), Promotion zum Doktor der Philosophie 1883 mit der Arbeit „Johan de Muris und seine Werke“. Ab 1882 Lehrer für Musikästhetik am Konservatorium der Gesellschaft der Musikfreunde, ab den späten 1880er Jahren Musikkritiker, u. a. bei der Wiener Sonn- und Montagszeitung, Die Neue Freie Presse und die Wiener Allgemeine Zeitung sowie Korrespondent für die Frankfurter Allgemeine Zeitung. Von besonderer Bedeutung sind Hirschfelds Kritiken für die Wiener Abendpost (er gehörte als Musikreferent der Wiener Zeitung von 1896 bis 1913 an) und als Theaterreferent beim Neuen Wiener Tagblatt (bis 1913). Pseudonym: L. A. Terne.</div>
-    <div class="py-2 text-justify">Hirschfeld redigierte ab 1893 die Programmbücher der Konzerte der Wiener Philharmoniker und war Begründer der Volkskonzerte mit klassischem Programm im Volksbildungsverein, die er über acht Jahre auch selbst leitete. Zudem rief er 1884 „Renaissance-Abende“ zur Pflege des a-cappella-Gesangs und Jugendkonzerte ins Leben. Hirschfeld war u. a. Mitbegründer und Vorstandsmitglied des Wiener Concert-Vereins, Mitglied der Kunstkommission des k. k. Ministeriums für Kultus und Unterricht in Wien, der Akademie für Musik und darstellende Kunst und ab 1898 der Denkmäler der Tonkunst (DTÖ). Er vollendete die von Richard von Perger begonnene „Geschichte der Gesellschaft der Musikfreunde“ bevor er 1913 als Leiter der Musikschule am Mozarteum nach Salzburg berufen wurde, wo er Vorarbeiten zu den Musikfestspielen in Salzburg leistete. </div>
-    <div class="py-2 text-justify">Hirschfeld war Anhänger von Richard Wagner, Bruckner, Brahms und Hugo Wolf und galt als „kampffreudige Natur“. Diesen Ruf hatte er nicht zuletzt mit seiner 1885 erschienenen Streitschrift Das kritische Verfahren Eduard Hanslick’s begründet, in der er „gegen den damals führenden Tageskritiker die Axt erhob“ und sich dabei „als gewandter und scharfer Gegner bewiesen“ habe. Weiters heißt es in den Signalen für die musikalische Welt vom 8. April 1914: „Der Angriff war seine liebste Kampfmethode, und er führte seine Deduktionen mit einer gewissen Leidenschaft, der man schwer widerstehen konnte, zum Kampfe. In seinem Kunstgeschmack war er der gerade Gegenpol Hanslick’s, den mehr das Zierliche, Sinnliche in der Musik reizte, während Hirschfeld immer das Grosse, mochte es auch ungeglättet sein, verteidigte.“</div>
-    <div class="py-2 text-justify">Hirschfeld war 1894 vom Judentum zur Evangelischen Kirche konvertiert; verheiratet mit der Opernsängerin Emma (Emmy) Karlona.</div>
+    <div>
+      <div class="float-left p-2 flex-1 flex-col">
+        <img class="object-contain" src="/images/reviewers/hirschfeld-robert.jpg" width="320" height="420" alt="hirschfeld" />
+        <div class="text-xs">&copy; Österreichische Illustrierte Zeitung, 12. April 1914, S. 12</div>
+      </div>
+      <p class="text-justify">Musikpädagoge und Musikkritiker. Sohn eines Rabbiners, studierte neben Rechtswissenschaft auch Musikwissenschaft (bei Eduard Hanslick), Promotion zum Doktor der Philosophie 1883 mit der Arbeit „Johan de Muris und seine Werke“. Ab 1882 Lehrer für Musikästhetik am Konservatorium der Gesellschaft der Musikfreunde, ab den späten 1880er Jahren Musikkritiker, u. a. bei der Wiener Sonn- und Montagszeitung, Die Neue Freie Presse und die Wiener Allgemeine Zeitung sowie Korrespondent für die Frankfurter Allgemeine Zeitung. Von besonderer Bedeutung sind Hirschfelds Kritiken für die Wiener Abendpost (er gehörte als Musikreferent der Wiener Zeitung von 1896 bis 1913 an) und als Theaterreferent beim Neuen Wiener Tagblatt (bis 1913). Pseudonym: L. A. Terne.</p>
+      <div class="py-4 text-justify">Hirschfeld redigierte ab 1893 die Programmbücher der Konzerte der Wiener Philharmoniker und war Begründer der Volkskonzerte mit klassischem Programm im Volksbildungsverein, die er über acht Jahre auch selbst leitete. Zudem rief er 1884 „Renaissance-Abende“ zur Pflege des a-cappella-Gesangs und Jugendkonzerte ins Leben. Hirschfeld war u. a. Mitbegründer und Vorstandsmitglied des Wiener Concert-Vereins, Mitglied der Kunstkommission des k. k. Ministeriums für Kultus und Unterricht in Wien, der Akademie für Musik und darstellende Kunst und ab 1898 der Denkmäler der Tonkunst (DTÖ). Er vollendete die von Richard von Perger begonnene „Geschichte der Gesellschaft der Musikfreunde“ bevor er 1913 als Leiter der Musikschule am Mozarteum nach Salzburg berufen wurde, wo er Vorarbeiten zu den Musikfestspielen in Salzburg leistete. </div>
+      <div class="py-4 text-justify">Hirschfeld war Anhänger von Richard Wagner, Bruckner, Brahms und Hugo Wolf und galt als „kampffreudige Natur“. Diesen Ruf hatte er nicht zuletzt mit seiner 1885 erschienenen Streitschrift Das kritische Verfahren Eduard Hanslick’s begründet, in der er „gegen den damals führenden Tageskritiker die Axt erhob“ und sich dabei „als gewandter und scharfer Gegner bewiesen“ habe. Weiters heißt es in den Signalen für die musikalische Welt vom 8. April 1914: „Der Angriff war seine liebste Kampfmethode, und er führte seine Deduktionen mit einer gewissen Leidenschaft, der man schwer widerstehen konnte, zum Kampfe. In seinem Kunstgeschmack war er der gerade Gegenpol Hanslick’s, den mehr das Zierliche, Sinnliche in der Musik reizte, während Hirschfeld immer das Grosse, mochte es auch ungeglättet sein, verteidigte.“</div>
+      <div class="py-4 text-justify">Hirschfeld war 1894 vom Judentum zur Evangelischen Kirche konvertiert; verheiratet mit der Opernsängerin Emma (Emmy) Karlona.</div>
+    </div>
     <div class="text-sm">Quellen: Uwe Harten, Art. „Hirschfeld, Robert (Pseud. L. A. Terne)‟, in: Oesterreichisches Musiklexikon online, Zugriff: 8.4.2021; Hofinger, Johannes: „Robert Hirschfeld - Schulleiter für 32 Tage“, in: Hinterberger, Julia (Hrsg.): Von der Musikschule zum Konservatorium. Das Mozarteum 1841-1922, S. 352-365; Signale für die musikalische Welt, 8. April 1914, S. 588; Wiener Abendpost, Beilage zur Wiener Zeitung, 2. April 1914, S. 4-5; Arbeiter-Zeitung, Morgenblatt, 3. April 1914, S. 1-2; Neues Wiener Journal, 3. April 1914, S. 6.</div>
-    
+        
     <!--horn-->
     <div id="horn" class="pt-16 pb-4 text-center text-2xl">Camillo Horn</div>
     <div class="py-2">*29.12.1860 Reichenberg/Böhmen, †03.09.1941 Wien</div>
@@ -405,7 +409,7 @@
     <div class="py-2">*15.09.1841 Wien, †12.10.1904 Wien</div>
     <div>
       <div class="float-left p-2 flex-1 flex-col">
-        <img class="object-contain" src="/images/reviewers/scheu-josef.jpg" alt="scheu" />
+        <img class="object-contain" src="/images/reviewers/scheu-josef.jpg" width="320" height="420" alt="scheu" />
         <div class="text-xs">&copy; Wikipedia</div>
       </div>
       <p class="text-justify">Chorsänger im Theater an der Wien, Musikstudium am Konservatorium der Stadt Wien, 1865 Hornist am Burgtheater.</p>
