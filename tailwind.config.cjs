@@ -8,6 +8,7 @@ module.exports = {
       sans: ["Ubuntu", "Poppins", "Nunito Sans", "Quicksand", "Sans-serif", "Germania One"]
     },
     fontSize: {
+      xss: ".5rem",
       xs: ".75rem",
       sm: ".875rem",
       tiny: ".875rem",

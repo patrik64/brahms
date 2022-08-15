@@ -273,7 +273,8 @@
         {
           "lkey": "OeBL",
           "lvalue": "https://www.biographien.ac.at/oebl/oebl_K/Kraemer_August_1841_1916.xml;internal&action=hilite.action&Parameter=August%20Kr%E4mer"}
-      ]
+      ],
+    "image": ""
   },
   {
     "id": 15,
@@ -328,5 +329,149 @@
         }
     ],
     "image": "georg-liebling.jpg"
+  },
+  {
+    "id": 18,
+    "surname": "Papier-Paumgartner",
+    "name": "Rosa",
+    "birthdate": "18.09.1858",
+    "birthplace": "Baden",
+    "deathdate": "09.02.1932",
+    "deathplace": "Wien",
+    "function": "Sänger_in",
+    "role": "Mezzosopranist_in",
+    "links": [
+        {
+          "lkey": "OeML",
+          "lvalue": "https://www.musiklexikon.ac.at/ml/musik_P/Paumgartner_Familie.xml"
+        },
+        {
+          "lkey": "OeBL",
+          "lvalue": "https://www.biographien.ac.at/oebl/oebl_P/Paumgartner_Rosa_1858_1932.xml"
+        }
+    ],
+    "image": "rosa-papier.jpg"
+  },
+  {
+    "id": 19,
+    "surname": "Popper",
+    "name": "David",
+    "birthdate": "18.06.1843",
+    "birthplace": "Prag",
+    "deathdate": "07.08.1913",
+    "deathplace": "Baden",
+    "function": "Violoncellist_in",
+    "role": "",
+    "links": [
+        {
+          "lkey": "OeML",
+          "lvalue": "https://www.musiklexikon.ac.at/ml/musik_P/Popper_Brueder.xml"
+        },
+        {
+          "lkey": "OeBL",
+          "lvalue": "https://www.biographien.ac.at/oebl/oebl_P/Popper_David_1843_1913.xml"
+        }
+    ],
+    "image": "david-popper.jpg"
+  },
+  {
+    "id": 20,
+    "surname": "Reichmann",
+    "name": "Theodor",
+    "birthdate": "15.03.1849",
+    "birthplace": "Rostock",
+    "deathdate": "22.05.1903",
+    "deathplace": "Marbach am Bodensee",
+    "function": "Sänger_in",
+    "role": "Bariton",
+    "links": [
+        {
+          "lkey": "OeML",
+          "lvalue": "https://www.musiklexikon.ac.at/ml/musik_R/Reichmann_Theodor.xml"
+        },
+        {
+          "lkey": "OeBL",
+          "lvalue": "https://www.biographien.ac.at/oebl/oebl_R/Reichmann_Theodor_1849_1903.xml"
+        },
+        {
+          "lkey": "BMLO",
+          "lvalue": "https://bmlo.de/r0269"
+        }
+    ],
+    "image": "theodor-reichmann.jpg"
+  },
+  {
+    "id": 21,
+    "surname": "Rosé",
+    "name": "Arnold",
+    "birthdate": "24.10.1863",
+    "birthplace": "Iaşi (Jassy)",
+    "deathdate": "25.08.1946",
+    "deathplace": "London",
+    "function": "Violinist_in",
+    "role": "",
+    "links": [
+        {
+          "lkey": "OeML",
+          "lvalue": "https://www.musiklexikon.ac.at/ml/musik_R/Rose-Familie.xml"
+        },
+        {
+          "lkey": "OeBL",
+          "lvalue": "https://apis.acdh.oeaw.ac.at/person/44167"
+        },
+        {
+          "lkey": "BMLO",
+          "lvalue": "https://bmlo.de/Q/GND=116608943"
+        }
+    ],
+    "image": "arnold-rose.jpg"
+  },
+  {
+    "id": 22,
+    "surname": "Rouland",
+    "name": "Carl",
+    "birthdate": "18.10.1865",
+    "birthplace": "Berlin",
+    "deathdate": "19.04.1935",
+    "deathplace": "Wien",
+    "function": "musikalische_r Direktor_in",
+    "role": "",
+    "links": [],
+    "image": ""
+  },
+  {
+    "id": 23,
+    "surname": "Röntgen",
+    "name": "Julius",
+    "birthdate": "09.05.1855",
+    "birthplace": "Leipzig",
+    "deathdate": "13.09.1932",
+    "deathplace": "Bilthoven",
+    "function": "Pianist_in",
+    "role": "",
+    "links": [],
+    "image": "julius-rontgen.jpg"
+  },
+  {
+    "id": 24,
+    "surname": "Rückauf",
+    "name": "Anton",
+    "birthdate": "13.03.1855",
+    "birthplace": "Prag",
+    "deathdate": "19.09.1903",
+    "deathplace": "Alt-Erlaa (heute Wien)",
+    "function": "Pianist_in",
+    "role": "",
+    "links": [
+      {
+        "lkey": "OeML",
+        "lvalue": "https://www.musiklexikon.ac.at/ml/musik_R/Rueckauf_Anton.xml"
+      },
+      {
+        "lkey": "OeBL",
+        "lvalue": "https://www.biographien.ac.at/oebl/oebl_R/Rueckauf_Anton_1855_1903.xml;internal&action=hilite.action&Parameter=Anton%20R%FCckauf"
+      }
+  ],
+    "image": "anton-ruckauf.jpg"
   }
 ]

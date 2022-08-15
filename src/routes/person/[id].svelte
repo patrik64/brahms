@@ -23,6 +23,7 @@ import Link from '@rgossiaux/svelte-heroicons/outline/Link';
       <a rel="external" href="https://anno.onb.ac.at/info/aze_info.htm" class="text-2xl leading-6 font-medium">{person.surname}, {person.name}</a>
       {#if person.image && person.image.length > 0}
         <img class="my-4 object-contain" src="{`/images/people/${person.image}`}" alt="" />
+        <div class="text-xss text-gray-500">&copy; Wikipedia</div>
       {/if}
     </div>
     <div class="border-t border-gray-200 px-4 py-5 sm:p-0">
