@@ -1,7 +1,7 @@
 <div class="max-w-7xl mx-auto py-12 px-4 sm:py-16 sm:px-6 lg:px-8">
   <div class="max-w-7xl mx-auto text-gray-600 text-lg">
     <div class="text-center text-4xl text-gray-600">Benutzerhinweise [Entwurf]</div>
-    <div class="pt-4 font-extrabold">Welche Daten wurden in der Datenbank erfasst?</div>
+    <div class="pt-16 font-extrabold">Welche Daten wurden in der Datenbank erfasst?</div>
     <div class="pt-2">Über die Datenbank sind grundsätzlich alle via <a rel="external" href="https://anno.onb.ac.at/" class="text-teal-400">AustriaN Newspapers Online</a> (ANNO) zugänglichen Wiener Zeitungen mit einem Beitrag gewürdigten Ereignisse mit Brahms-Bezug abrufbar. Dies bedeutet, dass auch im Ausland Stattgefundenes (Aufführungen, Auszeichnungen, Zusammenkünfte o. Ä.) gefunden werden kann, sofern in einem hier ausgewerteten Medium darüber berichtet wurde.</div>
 
     <div class="pt-4 font-extrabold">Aufbau der Datenbanksuche</div>
