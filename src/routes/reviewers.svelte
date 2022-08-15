@@ -151,6 +151,58 @@
           </div>
         </a>
       </li>
+      <li>
+        <a href="#paumgartner" class="space-y-4">
+          <img class="mx-auto h-20 w-20 rounded-full lg:w-24 lg:h-24 object-cover" src="/images/reviewers/thumbs/paumgartner.png" alt="paumgartner" />
+          <div class="space-y-2">
+            <div class="text-xs font-medium lg:text-sm text-center">
+              <h3>
+                <div class="text-teal-400">Hans Paumgartner</div>
+              </h3>
+            </div>
+          </div>
+        </a>
+      </li>
+      <li>
+        <a href="#puchstein" class="space-y-4">
+          <svg class="mx-auto h-20 w-20 rounded-full lg:w-24 lg:h-24 object-cover text-gray-300 border border-gray-100" fill="currentColor" viewBox="0 0 24 24">
+            <path d="M24 20.993V24H0v-2.996A14.977 14.977 0 0112.004 15c4.904 0 9.26 2.354 11.996 5.993zM16.002 8.999a4 4 0 11-8 0 4 4 0 018 0z" />
+          </svg>
+          <div class="space-y-2">
+            <div class="text-xs font-medium lg:text-sm text-center">
+              <h3>
+                <div class="text-teal-400">Hans Puchstein</div>
+              </h3>
+            </div>
+          </div>
+        </a>
+      </li>
+      <li>
+        <a href="#schelle" class="space-y-4">
+          <svg class="mx-auto h-20 w-20 rounded-full lg:w-24 lg:h-24 object-cover text-gray-300 border border-gray-100" fill="currentColor" viewBox="0 0 24 24">
+            <path d="M24 20.993V24H0v-2.996A14.977 14.977 0 0112.004 15c4.904 0 9.26 2.354 11.996 5.993zM16.002 8.999a4 4 0 11-8 0 4 4 0 018 0z" />
+          </svg>
+          <div class="space-y-2">
+            <div class="text-xs font-medium lg:text-sm text-center">
+              <h3>
+                <div class="text-teal-400">Eduard Schelle</div>
+              </h3>
+            </div>
+          </div>
+        </a>
+      </li>
+      <li>
+        <a href="#scheu" class="space-y-4">
+          <img class="mx-auto h-20 w-20 rounded-full lg:w-24 lg:h-24 object-cover" src="/images/reviewers/thumbs/scheu.png" alt="scheu" />
+          <div class="space-y-2">
+            <div class="text-xs font-medium lg:text-sm text-center">
+              <h3>
+                <div class="text-teal-400">Josef Scheu</div>
+              </h3>
+            </div>
+          </div>
+        </a>
+      </li>
     </ul>
 
     <br />
@@ -385,8 +437,77 @@
     <br />
     <br />
 
+    <!--Paumgartner-->
+    <div id="paumgartner" class="py-4 text-center text-2xl">Hans Paumgartner</div>
+    <div class="py-2">*10.01.1844 Micheldorf/OÖ, †23.05.1896 Wien</div>
+    <div>
+      <div class="float-right p-2 flex-1 flex-col">
+        <img class="object-contain" src="/images/reviewers/paumgartner-hans.jpg" alt="paumgartner" />
+        <div class="text-xs">Um 1885 &copy; Arbeitsstelle „Anton Bruckner“,</div>
+        <div class="text-xs">ÖAW, Wien</div>
+      </div>
+      <p class="text-justify">Pianist, Komponist, Musikschriftsteller. Bis 1880 als Jurist tätig, widmete er sich nach einem erfolgreichen Debüt als Pianist unter Felix Mottl im November 1879 ganz der Musik, u. a. als Sologesang-Korrepetitor an der Wiener Hofoper. Ab 1880 Musikreferent der Wiener Zeitung, wobei er diese Tätigkeit in den letzten Monaten aufgrund seiner Krankheit aufgeben musste (vgl. Neue Freie Presse, 23.05.1896, S. 3). </p>
+      <p class="py-4 text-justify">Paumgartner zählte sowohl Bruckner als auch Brahms zu seinem Freundeskreis und war gleichzeitig Vorkämpfer für Richard Wagner und Hugo Wolf in Wien. Geschätzt als Kammermusiker und Klavierbegleiter. Zeitweise verheiratet mit der Sängerin Rosa Papier (1858-1932), Vater des Dirigenten, Musikforschers, Komponisten und Herausgebers Bernhard Paumgartner (1887-1971).</p>
+      <p class="py-4 text-justify">Die Wiener Abendpost vom 23. Mai 1896 über sein musikkritisches Wirken: „Als Musik-Kritiker unseres Blattes, dessen Verbande er seit 15 Jahren angehörte, hat er den Lesern stets willkommene, eben so sachkundige als lebendige Beurtheilungen aller auf dem Musik-Gebiete wichtigen Erscheinungen geboten.“</p>
+      <p class="py-4 text-justify">Kürzel: dr. h. p.</p>
+
+    </div>
+    <br />
+    <br />
+    <div class="text-sm">Quellen: Eva Maria Hois, Art. „Paumgartner, Familie‟, in: Oesterreichisches Musiklexikon online, Zugriff: 8.4.2021; Höslinger, Clemens: „Kontroversen um Brahms, Richter und Bruckner. Zu den frühen (anonymen) Musikkritiken Hans Paumgartners (1880-1882)“, in: Anton Bruckners Wiener Jahre: Analysen – Fakten – Perspektiven (Wiener Bruckner-Studien, Bd. 1), hrsg. von Renate Grasberger, Elisabeth Maier und Erich Wolfgang Partsch, 2009, S. 129-143. Todesanzeige, in: Neue Freie Presse, Abendblatt, Nr. 11404, 23.05.1896, S. 3, Nachruf, in: Wiener Abendpost, Beilage zur Wiener Zeitung, Nr. 119, 23.05.1896, S. 2, Hirschfeld, Robert: „Dr. Hans Paumgartner †“, in: Die Presse, Morgenausgabe, Jg. 49, Nr. 143, 24.05.1896, S. 5.</div>
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+
+    <!--puchstein-->
+    <div id="puchstein" class="py-4 text-center text-2xl">Hans Puchstein</div>
+    <div class="py-2">*1865 im Pommerschen, †30.01.1937 Wien</div>
+    <div class="py-2 text-justify">Studium der Germanistik an der Universität Wien sowie Besuch der Vorlesungen Anton Bruckners. Widmete sich der Journalistik und trat dem Kärntner Tagblatt, 02.02.1937, S. 4 zufolge 1890 als Schriftleiter bei der neugegründeten Wiener Tageszeitung Deutsches Volksblatt (sogenanntes „Vergani-Blatt“) ein. Weiters heißt es: „Nach dem Übertritt des bisherigen Chefredakteurs Patzelt, seines Schwagers, in den Lehrberuf, übernahm Puchstein die redaktionelle Leitung des Blattes, bis dieses mehrere Jahre nach dem Ableben seines Gründers in den Umsturzjahren in andere Hände überging, um bald darauf (1922) eingestellt zu werden.“</div>
+    <div class="py-2 text-justify">Nach dem Ersten Weltkrieg trat Puchstein in die Presseabteilung der ersten burgenländischen Landesregierung ein und wurde später Kanzleidirektor des burgenländischen Landtages. Ab 1928 gehörte er dem Redaktionsstab der Wiener Zeitung an. Puchstein war zudem Präsident der Deutsch-österreichischen Schriftstellergenossenschaft.</div>
+    <div class="py-2 text-justify">Ein Bruder, Dr. Ernst Puchstein, war langjähriger deutscher Vizekonsul in Wien, Puchsteins Sohn war der Schauspieler Fritz Puchstein. In der Forschung des Öfteren verwechselt mit Hans Paumgartner („dr. h. p.“).</div>
+    <div class="text-sm">Quellen: Der Wiener Tag, 31. Jänner 1937, S. 10; Kleine Volks-Zeitung, 31. Jänner 1937, S. 9; Gräflinger, Franz: „Vier unveröffentlichte Briefe Anton Bruckners. Aus dem Kampf des Meisters um die Anerkennung der Welt“, in: Neues Wiener Tagblatt, 29. Jänner 1939, S. 14, Nachruf, in: Die Stunde, Jg. 15, Nr. 4168, 31.01.1937, S. 3, Nachruf, in: Kärntner Tagblatt, Jg. 44, Nr. 26, 02.02.1937, S. 4.</div>
+    <br />
+    <br />
+
+    <!--schelle-->
+    <div id="schelle" class="py-4 text-center text-2xl">Eduard Schelle</div>
+    <div class="py-2">*31.05.1816 Biesenthal, Brandenburg, †16.11.1882 Wien</div>
+    <div class="py-2 text-justify">Musikkritiker und Musikschriftsteller. Sohn eines Pastors, Unterricht in Klavier, Orgel und Harmonielehre. Studienabschluss in Theologie, zugleich Kompositionsunterricht bei Adolph Bernhard Marx, verließ Deutschland aufgrund der politischen Unruhen 1848, lebte bis 1856 als Erzieher bei adeligen Familien in Russland und widmete sich danach musikgeschichtlichen Studien (insbesondere über die Sixtinische Kapelle) in Paris, verschiedenen italienischen Städten sowie München. Mit seiner Schrift über die Pariser „Tannhäuser“-Aufführung 1861, „Der Tannhäuser in Paris oder Der dritte musikalische Krieg“, in der er für Wagner Partei ergriff, begann seine ausgedehnte musikschriftstellerische Tätigkeit, die neben Aufsätzen zur Musikgeschichte das musikalische Gegenwartsschaffen umfasste, speziell jenes der Oper. Veröffentlichungen u. a. in der Neuen Zeitschrift für Musik, den Signalen für die musikalische Welt, im Concordia-Kalender, der Oesterreichischen National-Revue sowie „Wiener Componisten“ (in mehreren Folgen).</div>
+    <div class="py-2 text-justify">1864 erhielt Schelle einen Ruf nach Wien, um in der Nachfolge Hanslicks das Musikreferat der Wiener Tageszeitung Die Presse zu übernehmen, welches er bis zu seinem Tod erfolgreich leiten sollte. Ab 1878 Professor für Musikgeschichte am Konservatorium der Musikfreunde in Wien, fungierte 1873 als Experte der österreichischen Regierung für die Gruppe der Musikinstrumente auf der Wiener Weltausstellung, Mitglied des Journalisten- und Schriftstellerverbandes „Concordia“. Schelle war mit fast allen Persönlichkeiten des Musiklebens seiner Zeit bekannt und vertraut. Er war nicht zuletzt aufgrund seiner ausgezeichneten musikwissenschaftlichen Kenntnisse sowie seiner unparteiischen Urteilsweise als Musikkritiker hochgeschätzt.</div>
+    <div class="text-sm">Quellen: Fuchs, Ingrid: „Schelle, (Karl) Eduard (1814-1882), Musikschriftsteller und Musikkritiker“, in: Österreichisches Biographisches Lexikon und biographische Dokumentation, Zugriff: 16.4.2021; Alexander Rausch, Art. „Schelle, Karl Eduard‟, in: Oesterreichisches Musiklexikon online, Zugriff: 16.4.2021.</div>
+    <br />
+    <br />
+
+    <!--scheu-->
+    <div id="scheu" class="py-4 text-center text-2xl">Josef Scheu</div>
+    <div class="py-2">*15.09.1841 Wien, †12.10.1904 Wien</div>
+    <div>
+      <div class="float-left p-2 flex-1 flex-col">
+        <img class="object-contain" src="/images/reviewers/scheu-josef.jpg" alt="scheu" />
+        <div class="text-xs">&copy; Wikipedia</div>
+      </div>
+      <p class="text-justify">Chorsänger im Theater an der Wien, Musikstudium am Konservatorium der Stadt Wien, 1865 Hornist am Burgtheater.</p>
+      <p class="py-4 text-justify">Auch als Komponist erfolgreich, besondere Popularität erreichte sein 1868 uraufgeführtes Lied der Arbeit. 1878 Gründung und Leitung des Arbeiter-Sängerbundes Wien. 1890 Mitbegründer und Chorleiter der „Freien Typographie“. Da er auch Frauen die Mitwirkung ermöglichte, schuf er damit den ersten gemischten Arbeiterchor.</p>
+      <p class="py-4 text-justify">1872 Gründung des „Wiener Musikerbunds“, der ersten Interessenvertretung für Musiker, dessen behördliche Auflösung bereits 1873 erfolgte. Wegen seiner gewerkschaftlichen und politischen Tätigkeiten vom Burgtheater 1881 zwangspensioniert und von der Polizei verhaftet.</p>
+      <p class="py-4 text-justify">Ab 1895 Musikkritiker für die Arbeiter-Zeitung.</p>
+    </div>
+    <br />
+    <br />
+    <div class="text-sm">Quellen: Fuchs, Ingrid: „Scheu, Josef Franz Georg“, in: Österreichisches Biographisches Lexikon 1815–1950 (ÖBL), Bd. 10, Wien 1994, S. 97 f.</div>
+    <div class="h-96" />
+    
     
 
-    <div class="h-96" />
+    
+
+    
   </div>
 </div>

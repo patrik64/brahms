@@ -29,3 +29,9 @@
     flex: 1;
   }
 </style>
+
+<svelte:head>
+	<title>Brahms-Online</title>
+	<meta name="robots" content="noindex nofollow" />
+	<html lang="de" />
+</svelte:head>
