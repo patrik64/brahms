@@ -34,7 +34,7 @@ import people from '$lib/data/people.json';
     {/each}
   </ul>
 
-  <div class="-mx-4 mt-10 ring-1 ring-gray-300 sm:-mx-6 md:mx-0 md:rounded-lg">
+  <div class="hidden md:block -mx-4 mt-10 ring-1 ring-gray-300 sm:-mx-6 md:mx-0 md:rounded-lg">
     <table class="min-w-full divide-y divide-gray-300">
       <thead>
         <tr>
