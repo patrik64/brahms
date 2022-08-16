@@ -88,6 +88,66 @@
     "category": "Vorankündigung",
     "info": "16. Konzert des \"Ersten Wiener Volksquartetts für classische Musik\", dem Duesberg-Quartett, 5 Uhr nachmittags, Festsaal des Architektenvereins, Eschenbachgasse Nr. 9, 1. Bezirk; Mitglieder des Duesberg-Quartetts, Fr. Boyes-Ruker: Klavier",
     "performers": []
+  },
+  {
+    "id": 7,
+    "day": 3,
+    "month": 4,
+    "year": 1900,
+    "place": "Wien",
+    "venue": "",
+    "work": "Klaviertrio Nr. 1 H-Dur, op. 8",
+    "workId": 1,
+    "annotext": "Vaterland, Morgenblatt, Jg. 41, Nr. 91, 03.04.1900, S. 6",
+    "annolink": "http://anno.onb.ac.at/cgi-content/anno?aid=vtl&datum=18960131&seite=6&zoom=33&query=%22brahms%22&ref=anno-search",
+    "category": "Vorankündigung",
+    "info": "Vorankündigung, Gedenkfeier des Wiener Tonkünstlervereins für Johannes Brahms, 8 Uhr abends, Festsaal des Kaufmännischen Vereins; Ilona Eibenschütz, Marie Soldat-Roeger und Fr. Buxbaum: Interpreten; Programm: Einleitende Worte R. Heubergers, op. 8, 2. Fassung, op. 103, op. 118, Nr. 6, op. 35, 2. Heft sowie drei Nummern aus op. 44",
+    "performers": []
+  },
+  {
+    "id": 8,
+    "day": 5,
+    "month": 4,
+    "year": 1900,
+    "place": "Wien",
+    "venue": "Saal Bösendorfer",
+    "work": "Klaviertrio Nr. 1 H-Dur, op. 8",
+    "workId": 1,
+    "annotext": "Vaterland, Morgenblatt, Jg. 41, Nr. 81, 24.03.1900, S. 6",
+    "annolink": "http://anno.onb.ac.at/cgi-content/anno?aid=vtl&datum=19000324&seite=6&zoom=33&query=%22brahms%22&ref=anno-search",
+    "category": "Vorankündigung",
+    "info": "Außerordentliche Soirée des Fitzner-Quartetts zu Gunsten des Brahms-Denkmals unter Mitwirkung der Pianistin Marie Baumayer und die Herren Hans Cesek und Paul Fischer, Saal Bösendorfer; weitere Werke: \"Mehrstimmige Gesänge\" und op. 111",
+    "performers": [3]
+  },
+  {
+    "id": 9,
+    "day": 5,
+    "month": 4,
+    "year": 1900,
+    "place": "Wien",
+    "venue": "Saal Bösendorfer",
+    "work": "Klaviertrio Nr. 1 H-Dur, op. 8",
+    "workId": 1,
+    "annotext": "Vaterland, Morgenblatt, Jg. 41, Nr. 88, 31.03.1900, S. 7",
+    "annolink": "http://anno.onb.ac.at/cgi-content/anno?aid=vtl&datum=19000331&seite=7&zoom=33&query=%22brahms%22&ref=anno-search",
+    "category": "Vorankündigung",
+    "info": "Außerordentlicher Quartettabend des Fitzner-Quartetts zu Gunsten des Brahms-Denkmals, Saal Bösendorfer; Marie Baumgartner [recte: Baumayer]: Klavier; \"neue Bearbeitung\"; weitere Werke von Brahms: Lieder und op. 111",
+    "performers": [3]
+  },
+  {
+    "id": 10,
+    "day": 6,
+    "month": 3,
+    "year": 1874,
+    "place": "Wien",
+    "venue": "Saal Bösendorfer",
+    "work": "Klaviertrio Nr. 1 H-Dur, op. 8",
+    "workId": 1,
+    "annotext": "Presse, Local-Anzeiger, Jg. 27, Nr. 63, 05.03.1874, S. 8",
+    "annolink": "http://anno.onb.ac.at/cgi-content/anno?aid=apr&datum=18740305&seite=8&zoom=33&query=%22brahms%22&ref=anno-search",
+    "category": "Werkkritik",
+    "info": "2. Triosoirée der Herren Door, Wirth und Popper, Saal Bösendorfer; u.a. \"das vor zwei Jahren mit so bedeutendem Erfolge aufgeführte Trio op. 8 von Brahms\"",
+    "performers": [7, 37, 20]
   }
 
 ]

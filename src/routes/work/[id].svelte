@@ -12,11 +12,13 @@
 </script>
 
 <script>
-export let id;
+import { LoginIcon } from "@rgossiaux/svelte-heroicons/outline";
 import { LogoutIcon } from "@rgossiaux/svelte-heroicons/outline";
 import works from "$lib/data/works.json";
 import events from "$lib/data/events.json";
 import people from "$lib/data/people.json";
+
+export let id;
 
 let work = works[id - 1];
 
@@ -46,12 +48,10 @@ let formatPerformer = (arr) => {
 </script> 
   
 <div class="max-w-7xl mx-auto py-12 px-4 sm:py-16 sm:px-6 lg:px-8">
-  <div class="sm:flex sm:items-center">
-    <div class="sm:flex-auto">
-      <h1 class="text-3xl text-gray-600 text-center">{work.name}</h1>
-    </div>
+  <div class="flex">
+    <a href="/works"><svelte:component this={LoginIcon} class="flex-1 mt-2 pr-2 h-8 text-teal-400 hover:text-gray-600" aria-hidden="true" /></a>
+    <h1 class="flex-1 text-3xl text-gray-600">{work.name}</h1>
   </div>
-
   <div class="-mx-4 mt-10 ring-1 ring-gray-300 sm:-mx-6 md:mx-0 md:rounded-lg">
     <table class="min-w-full divide-y divide-gray-300">
       <thead>

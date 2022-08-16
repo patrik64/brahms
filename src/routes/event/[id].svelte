@@ -29,19 +29,6 @@ let formatDate = (day, month, year) => {
   return strDay + '.' + strMonth + '.' + year;
 };
 
-let formatPerformers = (arr) => {
-  let ret = "";
-
-  for(let p of arr) {
-    ret += people[p-1].surname;
-    ret += ", ";
-    ret += people[p-1].name;
-    ret += " / ";
-  }
-  ret = ret.slice(0, -2);
-  return ret;
-};
-
 </script>
 
 <div class="my-10 mx-auto lg:w-1/2 bg-white shadow overflow-hidden sm:rounded-lg">
@@ -69,7 +56,13 @@ let formatPerformers = (arr) => {
       {#if event.performers && event.performers.length > 0}
       <div class="py-4 sm:py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-6">
         <dt class="text-sm font-medium text-gray-600">Ausführende</dt>
-        <dd class="mt-1 text-sm text-gray-600 sm:mt-0 sm:col-span-2">{formatPerformers(event.performers)}</dd>
+        <dd class="mt-1 text-sm text-gray-600 sm:mt-0 sm:col-span-2">
+          <ul>
+          {#each event.performers as personIdx}
+            <li><a href={`/person/${personIdx}`} class="text-teal-400">{people[personIdx-1].surname}, {people[personIdx-1].name}</a> ({people[personIdx-1].function})</li>
+          {/each}
+          </ul>
+        </dd>
       </div>
       {/if}
       <div class="py-4 sm:py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-6">
