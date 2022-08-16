@@ -148,6 +148,66 @@
     "category": "Werkkritik",
     "info": "2. Triosoirée der Herren Door, Wirth und Popper, Saal Bösendorfer; u.a. \"das vor zwei Jahren mit so bedeutendem Erfolge aufgeführte Trio op. 8 von Brahms\"",
     "performers": [7, 37, 20]
+  },
+  {
+    "id": 11,
+    "day": 6,
+    "month": 3,
+    "year": 1874,
+    "place": "Wien",
+    "venue": "Saal Bösendorfer",
+    "work": "Klaviertrio Nr. 1 H-Dur, op. 8",
+    "workId": 1,
+    "annotext": "Presse, Jg. 27, Nr. 72, 14.03.1874, S. [1]",
+    "annolink": "http://anno.onb.ac.at/cgi-content/anno?aid=apr&datum=18740314&seite=1&zoom=33&query=%22brahms%22&ref=anno-search",
+    "category": "Werkkritik",
+    "info": "2. Triosoirée von Anton Door; Anton Door: Klavier, Hr. Popper: Violoncello, E. Wirth: Violine, Salon Bösendorfer; Verfasser: E. Schelle",
+    "performers": [7, 37, 20]
+  },
+  {
+    "id": 12,
+    "day": 6,
+    "month": 3,
+    "year": 1874,
+    "place": "Wien",
+    "venue": "Saal Bösendorfer",
+    "work": "Klaviertrio Nr. 1 H-Dur, op. 8",
+    "workId": 1,
+    "annotext": "Presse, Jg. 43, Nr. 63, 05.03.1890, S. 2",
+    "annolink": "http://anno.onb.ac.at/cgi-content/anno?aid=apr&datum=18900305&seite=2&zoom=33&query=%22brahms%22&ref=anno-search",
+    "category": "Werkkritik",
+    "info": "Trio-Soirée von Anton Door; Anton Door: Klavier, Hr. Wirth und Popper: Mitwirkende; Erwähnung anlässlich der Wiener EA der 2. Fassung; laut Kalbeck hätte Door schon damals \"auf Wunsch des Componisten einen Theil der Durchführung im ersten Satze streichen\" müssen; Datum gemäß Die Presse, Local-Anzeiger, 05.03.1874, S. 8",
+    "performers": [7, 37, 20]
+  },
+  {
+    "id": 13,
+    "day": 9,
+    "month": 1,
+    "year": 1900,
+    "place": "Wien",
+    "venue": "Musikvereinssaal",
+    "work": "Klaviertrio Nr. 1 H-Dur, op. 8",
+    "workId": 1,
+    "annotext": "Vaterland, Morgenblatt, Jg. 41, Nr. 5, 06.01.1900, S. 10 f.",
+    "annolink": "http://anno.onb.ac.at/cgi-content/anno?aid=vtl&datum=19000106&seite=11&zoom=33&query=%22brahms%22&ref=anno-search",
+    "category": "Vorankündigung",
+    "info": "4. und letzter Abend des Rosé-Quartetts, 7 1/2 Uhr abends, Musikvereinssaal; Prof. James Kwast: Klavier",
+    "performers": [16]
+  },
+  {
+    "id": 14,
+    "day": 9,
+    "month": 11,
+    "year": 1898,
+    "place": "Wien",
+    "venue": "Saal Bösendorfer",
+    "work": "Klaviertrio Nr. 1 H-Dur, op. 8",
+    "workId": 1,
+    "annotext": "Vaterland, Morgenblatt, Jg. 39, Beiblatt zu Nr. 278, 09.10.1898, S. IV",
+    "annolink": "http://anno.onb.ac.at/cgi-content/anno?aid=vtl&datum=18981009&seite=12&zoom=33&query=%22brahms%22&ref=anno-search",
+    "category": "Vorankündigung",
+    "info": "6 Kammermusikabende des Prill-Quartetts der Saison 1898/1899, Saal Bösendorfer; Mitglieder des Prill-Quartetts, Otto Hegner: Klavier; u.a. 3 Werke von Brahms: op. 8, 2. Fassung, op. 25 und op. 67",
+    "performers": [39]
   }
 
 ]
