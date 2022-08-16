@@ -1,30 +1,83 @@
 <script context="module">
-    export const load = ({ params }) => {
-        const id = params.id;
+  // @ts-ignore
+  export const load = ({ params }) => {
+    const id = params.id;
 
-        return {
-            props: {
-                id
-            }
-        };
-    }
+    return {
+      props: {
+        id
+      }
+    };
+  };
 </script>
 
 <script>
-    export let id;
-    import works from '$lib/data/works.json';
+export let id;
+import { LogoutIcon } from "@rgossiaux/svelte-heroicons/outline";
+import works from "$lib/data/works.json";
+import events from "$lib/data/events.json";
+import people from "$lib/data/people.json";
 
-    let work = works[id-1];
-</script>
+let work = works[id - 1];
 
-<div class="center-screen">work in progress</div>
+let formatDate = (day, month, year) => {
+  let strDay = "" + day;
+  let strMonth = "" + month;
+  if(strDay.length < 2) { strDay = "0" + strDay }
+  if(strMonth.length < 2) { strMonth = "0" + strMonth }
 
-<style>
-    .center-screen {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        text-align: center;
-        min-height: 70vh;
-    }
-</style>
+  return strDay + '.' + strMonth + '.' + year;
+};
+
+let formatPerformer = (arr) => {
+  if(arr.length === 1) {
+    return people[arr[0]-1].surname;
+  } else if (arr.length > 1) {
+    let ret = people[arr[0]-1].surname;
+    ret += "(+";
+    ret += arr.length-1;
+    ret += ")";
+    return ret;
+    //return  +  + arr.length-1 + ")";
+  }
+  return "";
+};
+
+</script> 
+  
+<div class="max-w-7xl mx-auto py-12 px-4 sm:py-16 sm:px-6 lg:px-8">
+  <div class="sm:flex sm:items-center">
+    <div class="sm:flex-auto">
+      <h1 class="text-3xl text-gray-600 text-center">{work.name}</h1>
+    </div>
+  </div>
+
+  <div class="-mx-4 mt-10 ring-1 ring-gray-300 sm:-mx-6 md:mx-0 md:rounded-lg">
+    <table class="min-w-full divide-y divide-gray-300">
+      <thead>
+        <tr>
+          <th scope="col" class="py-3.5 pl-4 pr-3 text-left text-sm font-semibold text-gray-600 sm:pl-6">Datum</th>
+          <th scope="col" class="px-3 py-3.5 text-left text-sm font-semibold text-gray-600 lg:table-cell">Ort</th>
+          <th scope="col" class="px-3 py-3.5 text-left text-sm font-semibold text-gray-600 lg:table-cell">Saal</th>
+          <th scope="col" class="relative py-3.5 pl-3 pr-4 sm:pr-6 text-sm font-semibold text-gray-600 hidden md:block">Beteiligte</th>
+          <th scope="col" class="relative py-3.5 pl-3 pr-4 sm:pr-6 text-sm font-semibold text-gray-600">Titel</th>
+          <th scope="col" class="relative py-3.5 pl-3 pr-4 sm:pr-6 text-sm font-semibold text-gray-600">Details</th>
+        </tr>
+      </thead>
+      <tbody>
+        {#each work.events as eventNr, eventIdx}
+          <tr>
+            <td class="{eventIdx === 0 ? '' : 'border-t border-gray-200'} px-3 py-3.5 text-sm text-gray-500 lg:table-cell"><a href={`/event/${events[eventNr-1].id}`} class="hover:text-black">{formatDate(events[eventNr-1].day, events[eventNr-1].month, events[eventNr-1].year)}</a></td>
+            <td class="{eventIdx === 0 ? '' : 'border-t border-gray-200'} px-3 py-3.5 text-sm text-gray-500 lg:table-cell">{events[eventNr-1].place}</td>
+            <td class="{eventIdx === 0 ? '' : 'border-t border-gray-200'} px-3 py-3.5 text-sm text-gray-500 lg:table-cell">{events[eventNr-1].venue}</td>
+            <td class="{eventIdx === 0 ? '' : 'border-t border-gray-200'} px-3 py-3.5 text-sm text-gray-500 lg:table-cell hidden md:block">{formatPerformer(events[eventNr-1].performers)}</td>
+            <td class="{eventIdx === 0 ? '' : 'border-t border-gray-200'} px-3 py-3.5 text-sm text-gray-500 lg:table-cell">{events[eventNr-1].work}</td>
+            <td class="{eventIdx === 0 ? '' : 'border-t border-gray-200'} px-3 py-3.5 text-sm text-gray-500 lg:table-cell">
+              <a href={`/event/${events[eventNr-1].id}`} class="hover:text-black"><svelte:component this={LogoutIcon} class="pr-2 mx-auto h-6" aria-hidden="true" /></a>
+            </td>
+          </tr>
+        {/each}
+      </tbody>
+    </table>
+  </div>
+</div>

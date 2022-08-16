@@ -136,7 +136,6 @@
       </li>
     </ul>
 
-
     <!--barbi-->
     <div id="barbi" class="pt-8 pb-4 text-center text-3xl">Alice Barbi (1858-1948)</div>
     <div class="pt-4">Zunächst als Violinistin erfolgreich, begann Alice Barbi mit 20 Jahren eine Gesangsausbildung. Ihr Debüt als Sängerin gab sie am 2. April 1882, kurz darauf folgte ein Konzert in Rom vor der italienischen Königin unter der Leitung des Komponisten Giovanni Sgambati. Erfolgreiche Konzertreisen als königliche italienische Hofsängerin führten sie ab 1884 auch außerhalb Italiens, wobei sie in Wien erstmals 1889 auftrat. Hier etablierte sie sich rasch als Brahms-Sängerin par excellence.</div>
@@ -154,7 +153,7 @@
       <p>Marie Baumayer kam 1871 nach Wien, wo sie am Konservatorium der Gesellschaft der Musikfreunde Klavier als Hauptfach in der Klasse von Julius Epstein studierte. Neben der Familie Wittgenstein war es Johannes Brahms, der sie förderte und auch freundschaftlich mit ihr verbunden war. Einer ihrer größten Erfolge war die Grazer Erstaufführung des Brahms’schen Klavierkonzerts Nr. 2 B-Dur, op. 83 am 5. November 1882. Dem Brahms-Biograph Max Kalbeck zufolge sei sie die erste gewesen, „die es wagen durfte, das B-dur-Konzert öffentlich zu spielen, ohne befürchten zu müssen, daß, wie bei einer minder glücklichen Rivalin, der gereizte Meister sich dafür mit dem zweideutigen Kompliment bedankte, er werde nun ein drittes, noch schwereres Klavierkonzert komponieren müssen, das von keinem Frauenzimmer gespielt werden könnte.“ (Kalbeck, Bd. IV, 21915, S. 31 f.).</p>
       <p class="py-4">Ihrem Ruf als Brahms-Interpretin wurde Marie Baumayer auch nach Brahms' Tod gerecht, wobei ein Rezensent der Neuen Zeitschrift für Musik sogar von einem „Brahms-Cultus“ (NZfM 1900, S. 106) sprach, den die Künstlerin pflege. Zu ihren bevorzugten Kammermusikpartnern zählten denn auch - wenig überraschend - InterpretInnen, die ebenfalls dem Brahms-Kreis angehörten, darunter die Violinistin Marie Soldat-Roeger, deren Damenstreichquartett, der Cellist Robert Hausmann, der Klarinettist Richard Mühlfeld sowie das Hellmesberger- und das Rosé-Quartett.</p>
     </div>
-    
+
     <!--brull-->
     <div id="brull" class="pt-16 pb-4 text-center text-3xl">Ignaz Brüll (1846-1907)</div>
     <div>
@@ -177,18 +176,18 @@
       <p>1849 von Josef Hellmesberger senior gegründet, wurde dieses Streichquartett geradezu zum Synonym der Wiener Geigentradition in der Nachfolge Joseph Böhms und Ignaz Schuppanzighs. Einer der Gründe für diese Dominanz war mit Sicherheit der Tatsache geschuldet, dass das Hellmesberger-Quartett über lange Phasen hinweg das einzige regelmäßig konzertierende Ensemble in Wien war. Der Bedarf an Kammermusikdarbietungen war bis in die 1880er Jahre so gering, dass dieser neben dem fixen Hellmesberger-Zyklus problemlos durch gastierende Vereinigungen wie dem „Laub-Quartett“, Jean Beckers „Florentiner Quartett“ oder dem „Joachim-Quartett“ gedeckt werden konnte.</p>
     </div>
     <div class="md:h-56" />
-    <div class="md:h-56" />        
+    <div class="md:h-56" />
     <div>
       <div class="float-right p-2 flex-1 flex-col">
         <img class="object-contain border-solid border border-black" src="/images/iterpreters/hellmesberger-quartett-1.jpg" alt="hellmesberger1" />
         <div class="text-xs">Um 1898 &copy; A. Ehrlich, Das Streichquartett in Wort und BildA. H. Payne: Leipzig 1898, S. 17.</div>
       </div>
       <p>Eine Konstante der im Laufe der Jahre mehrmals wechselnden Besetzung war die Beteiligung eines oder mehrerer Mitglieder der Familie Hellmesberger, wobei nach dem Ausscheiden des Gründers dessen Sohn Josef Hellmesberger junior die Rolle des Primarius übernahm.</p>
-      <p class="py-4">Die Programme waren größtenteils so aufgebaut, dass zwischen zwei Streichquartette ein anderweitig besetztes Werk (Klaviertrio, Streichsextett, Violinsonate etc.) eingefügt wurde. Dafür wurden so namhafte KünstlerInnen gewonnen wie Julius Epstein, Alfred Grünfeld, Moriz Rosenthal, Anton Rubinstein oder Clara Schumann. Johannes Brahms feierte gar sein Debüt in Wien am 16. November 1862 im Rahmen eines Kammermusikabends des Hellmesberger-Quartetts mit der Aufführung seines Klavierquartetts g-Moll, op. 25.</p>      
-      <p class="py-4">War mit dem Ausscheiden des Ensemblegründers eine deutliche Qualitätseinbuße zu verzeichnen, wurde die Konzerttätigkeit mit der Ernennung Josef Hellmesbergers jun. im Jahr 1901 zum Hofkapellmeister nicht mehr fortgesetzt. Das seit 1883 bestehende Rosé-Quartett übernahm damit endgültig die Position der alleinigen Quartett-Größe und Hüterin der Kammermusiktradition in Wien.</p>      
+      <p class="py-4">Die Programme waren größtenteils so aufgebaut, dass zwischen zwei Streichquartette ein anderweitig besetztes Werk (Klaviertrio, Streichsextett, Violinsonate etc.) eingefügt wurde. Dafür wurden so namhafte KünstlerInnen gewonnen wie Julius Epstein, Alfred Grünfeld, Moriz Rosenthal, Anton Rubinstein oder Clara Schumann. Johannes Brahms feierte gar sein Debüt in Wien am 16. November 1862 im Rahmen eines Kammermusikabends des Hellmesberger-Quartetts mit der Aufführung seines Klavierquartetts g-Moll, op. 25.</p>
+      <p class="py-4">War mit dem Ausscheiden des Ensemblegründers eine deutliche Qualitätseinbuße zu verzeichnen, wurde die Konzerttätigkeit mit der Ernennung Josef Hellmesbergers jun. im Jahr 1901 zum Hofkapellmeister nicht mehr fortgesetzt. Das seit 1883 bestehende Rosé-Quartett übernahm damit endgültig die Position der alleinigen Quartett-Größe und Hüterin der Kammermusiktradition in Wien.</p>
     </div>
-    <div class="md:h-72" />    
-    
+    <div class="md:h-72" />
+
     <!--joachim-->
     <div id="joachim" class="pt-16 pb-4 text-center text-3xl">Joachim-Quartett</div>
     <img class="m-auto border-solid border border-black mt-4" src="/images/iterpreters/joachim-quartett.jpg" alt="joachim" />
@@ -209,8 +208,8 @@
         <img class="border-solid border border-black object-contain" src="/images/iterpreters/rose-quartett.jpg" alt="rose" />
         <div class="text-xs">Um 1884 &copy; ÖNB</div>
       </div>
-      <p>„nur für das Rosé-Quartett und auf Wunsch von Herrn Hummer“, so heißt es von Brahms in einer handschriftlichen Anmerkung am Rand des Blatts der 1. Violine seines Streichquintett op. 111 (Quelle: Styra Avins / Josef Eisinger: Sechs unveröffentlichte Briefe von Brahms. Aus: Brahms-Studien Band 13, 2002). Damit erlaubte er den Streichern bei der Uraufführung seines Streichquintetts am 11. November 1890 im Salon Bösendorfer, die Anfangstakte piano statt dem geforderten forte zu spielen, um die Stimme des Cellisten Reinhold Hummer besser hervortreten zu lassen - ein Zugeständnis, das von Brahms‘ hoher Wertschätzung für das Rosé-Quartett zeugt. </p>
-      <p class="py-4">1882 von Arnold Rosé (geborener Rosenblum) und seinem Bruder Eduard in Wien gegründet, konzertierte dieses Ensemble erstmals am 22. Jänner 1883, das letzte Konzert fand 1945 in der Londoner Emigration statt. Die Besetzung wechselte im Lauf der Zeit etliche Male: </p>
+      <p>„nur für das Rosé-Quartett und auf Wunsch von Herrn Hummer“, so heißt es von Brahms in einer handschriftlichen Anmerkung am Rand des Blatts der 1. Violine seines Streichquintett op. 111 (Quelle: Styra Avins / Josef Eisinger: Sechs unveröffentlichte Briefe von Brahms. Aus: Brahms-Studien Band 13, 2002). Damit erlaubte er den Streichern bei der Uraufführung seines Streichquintetts am 11. November 1890 im Salon Bösendorfer, die Anfangstakte piano statt dem geforderten forte zu spielen, um die Stimme des Cellisten Reinhold Hummer besser hervortreten zu lassen - ein Zugeständnis, das von Brahms‘ hoher Wertschätzung für das Rosé-Quartett zeugt.</p>
+      <p class="py-4">1882 von Arnold Rosé (geborener Rosenblum) und seinem Bruder Eduard in Wien gegründet, konzertierte dieses Ensemble erstmals am 22. Jänner 1883, das letzte Konzert fand 1945 in der Londoner Emigration statt. Die Besetzung wechselte im Lauf der Zeit etliche Male:</p>
       <ul class="pl-8" style="list-style-type: circle;">
         <li class="pt-2">1. Violine: Arnold Rosé (1882-1945)</li>
         <li class="pt-2">2. Violine: Julius Egghard d. J. (1882-1883), Anton Loh (1884-1889), August Siebert (1890-1896), Albert Bachrich (1897-1904), Paul Fischer (1905-1938)</li>
@@ -220,7 +219,7 @@
 
       <p class="py-4">Beginnend mit der Saison 1882/1883 waren Brahms' Werke auf den Programmen des Rosé-Quartetts stets gut vertreten und Brahms selbst brachte gemeinsam mit dem Klarinettisten Richard Mühlfeld seine Spätwerke, die beiden Klarinettensonaten op. 120, im Rahmen von Kammermusikabenden des Rosé-Quartetts zur Uraufführung (Nr. 1: 11. Januar 1895, Nr. 2: 8. Januar 1895).</p>
     </div>
-    
+
     <!--sistermans-->
     <div id="sistermans" class="pt-16 pb-4 text-center text-3xl">Anton Sistermans (1865-1926)</div>
     <div>
@@ -231,7 +230,7 @@
       <p>Der niederländische Bariton galt neben Gustav Walter, Johannes Messchaert und Raymund von Zur Mühlen (alle drei Schüler des „Vaters des Liederrezitals“ Julius Stockhausen) als einer der bedeutendsten Liedersänger seiner Zeit. Er war zwar kein in Wien ansäßiger Sänger, konnte sich aber bei seinen regelmäßigen Gastauftritten insbesondere als Brahms-Interpret etablieren, wobei er auch zahlreiche von dessen Liedern zur Uraufführung brachte, darunter die Vier ernsten Gesänge, op. 121 am 9. November 1896 im Saal Bösendorfer.</p>
       <p class="py-4">Welcher Komponist Anton Sistermans' (Lieder-)Herzen am nächsten stand offenbart ein Blick auf dessen Aufnahmen, wo ausschließlich Lieder eines einzigen Komponisten verewigt wurden: Johannes Brahms.</p>
     </div>
-    <div class="md:h-32" />    
+    <div class="md:h-32" />
 
     <!--soldat-->
     <div id="soldat" class="pt-16 pb-4 text-center text-3xl">Marie Soldat-Roeger (1863-1955)</div>
@@ -243,7 +242,7 @@
       <p>1874 feierte Marie Soldat ihr Debüt als Violinistin, 1879 lernte sie Brahms in Pörtschach kennen, der sie an seinen Freund Joseph Joachim in Berlin empfahl, wo sie bis 1889 an der Königlichen Hochschule für Musik studierte. Sie war 1885 die erste Frau, die Brahms‘ Violinkonzert D-Dur, op. 77 spielte – und sollte für viele Jahre auch die einzige Frau bleiben, die sich an dieses Werk heranwagte.</p>
       <p class="py-4">1895 debütierte im Bösendorfer-Saal ein von ihr gegründetes Damen-Streichquartett (Marie Soldat-Roeger: 1. Violine, Ella Finger-Bailetti bzw. ab 1898 Elsa Edle von Planck: 2. Violine, Natalie Bauer-Lechner: Viola und Lucy Herbert-Campbell bzw. ab 1903 Leontine Gärtner: Violoncello), mit dem sie auch häufig Werke von Brahms aufführte. Sie sollte übrigens auch die letzte Künstlerin sein, die Brahms spielen hörte: am 21. März 1897, also nur wenige Tage vor seinem Tod, besuchte Brahms eine private Musikdarbietung des Soldat-Roeger-Damen-Streichquartetts gemeinsam mit dem Klarinettisten Richard Mühlfeld. Statt des ursprünglich geplanten Brahms’schen Klarinettenquintetts soll dabei auf Brahms‘ eigenen Wunsch hin Carl Maria von Webers B-Dur-Klarinettenquintett gespielt worden sein – Argument: sein eigenes Werk habe er schon oft genug gehört... (Quelle: "Brahms & a Few More Friends: Part 2")</p>
     </div>
-    
+
     <!--walter-->
     <div id="walter" class="pt-16 pb-4 text-center text-3xl">Gustav Walter (1834-1910)</div>
     <div>
@@ -253,13 +252,13 @@
       </div>
       <p>Der aus Böhmen stammende lyrische Tenor war von seinem Debüt 1856 an der Wiener Hofoper bis zu seinem Rücktritt 1887 ein gefeierter Publikumsliebling. Neben seiner Opernkarriere etablierte sich Walter auch als Liedsänger, der insbesondere mit Werken von Schubert, Dvořák und Brahms reüssieren konnte.</p>
     </div>
-    
+
     <p class="py-4">Gustav Walter zählte nicht nur zu Brahms' Freundeskreis, sondern brachte auch eine Reihe von dessen Vokalwerken zur Uraufführung, wie zum Beispiel:</p>
     <ul class="pl-8" style="list-style-type: circle;">
       <li class="pt-2">Rinaldo, op. 50 (28. Februar 1869, Großer Redoutensaal der Wiener Hofburg, Leitung: Johannes Brahms)</li>
       <li class="pt-2">Liebeslieder-Walzer, op. 52 (5. Januar 1870, Kleiner Redoutensaal, Mitwirkende: Brahms und Clara Schumann am Klavier sowie Louise Dustmann-Meyer, Rosa Girzick und Emil Krauss)</li>
       <li class="pt-2">Feldeinsamkeit, op. 86, Nr. 2 (23. Februar 1883, Saal Bösendorfer; Klavier: Brahms).</li>
     </ul>
-    <div class="md:h-96" />     
+    <div class="md:h-96" />
   </div>
 </div>

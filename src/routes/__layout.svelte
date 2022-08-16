@@ -17,6 +17,12 @@
   </footer>
 </div>
 
+<svelte:head>
+  <title>Brahms-Online</title>
+  <meta name="robots" content="noindex nofollow" />
+  <html lang="de" />
+</svelte:head>
+
 <style>
   .screen {
     /* body - or any parent wrapper */
@@ -29,9 +35,3 @@
     flex: 1;
   }
 </style>
-
-<svelte:head>
-	<title>Brahms-Online</title>
-	<meta name="robots" content="noindex nofollow" />
-	<html lang="de" />
-</svelte:head>

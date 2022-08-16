@@ -1,26 +1,30 @@
 [
-    {
-        "id": 1,
-        "name" : "Klaviertrio Nr. 1 H-Dur, op. 8",
-        "prefix": "op.",
-        "opusnumber" : 8
-    },
-    {
-        "id": 2,
-        "name" : "Neun Lieder und Gesänge, op. 32",
-        "prefix": "op.",
-        "opusnumber" : 8
-    },
-    {
-        "id": 3,
-        "name" : "Walzer, op. 39",
-        "prefix": "op.",
-        "opusnumber" : 39
-    },
-    {
-        "id": 4,
-        "name" : "Fünf Lieder, op. 49",
-        "prefix": "op.",
-        "opusnumber" : 49
-    }
+  {
+    "id": 1,
+    "name": "Klaviertrio Nr. 1 H-Dur, op. 8",
+    "prefix": "op.",
+    "opusnumber": 8,
+    "events": []
+  },
+  {
+    "id": 2,
+    "name": "Neun Lieder und Gesänge, op. 32",
+    "prefix": "op.",
+    "opusnumber": 8,
+    "events": []
+  },
+  {
+    "id": 3,
+    "name": "Walzer, op. 39",
+    "prefix": "op.",
+    "opusnumber": 39,
+    "events": [1,2,3,4,5]
+  },
+  {
+    "id": 4,
+    "name": "Fünf Lieder, op. 49",
+    "prefix": "op.",
+    "opusnumber": 49,
+    "events": []
+  }
 ]

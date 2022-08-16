@@ -1,5 +1,5 @@
 [
-    {
+  {
     "id": 1,
     "surname": "Baier",
     "name": "Anna",
@@ -8,12 +8,12 @@
     "deathdate": "04.06.1935",
     "deathplace": "Wien",
     "function": "Sänger_in",
-    "role": "", 
+    "role": "",
     "links": [
-        { 
-            "lkey": "OeML",
-            "lvalue" : "https://www.musiklexikon.ac.at/ml/musik_L/Liebhardt_Ida.xml"
-        }
+      {
+        "lkey": "OeML",
+        "lvalue": "https://www.musiklexikon.ac.at/ml/musik_L/Liebhardt_Ida.xml"
+      }
     ],
     "image": "anna-baier.jpg"
   },
@@ -42,9 +42,9 @@
     "role": "",
     "links": [
       {
-        "lkey": "OeML", 
+        "lkey": "OeML",
         "lvalue": "https://www.musiklexikon.ac.at/ml/musik_B/Baumayer_Marie.xml"
-      }, 
+      },
       {
         "lkey": "OeBL",
         "lvalue": "https://biographien.ac.at/ID-0.3020920-1"
@@ -66,7 +66,7 @@
       {
         "lkey": "OeML",
         "lvalue": "https://www.musiklexikon.ac.at/ml/musik_B/Brahms_Johannes.xml"
-      }, 
+      },
       {
         "lkey": "OeBL",
         "lvalue": "https://biographien.ac.at/ID-0.3020920-1"
@@ -77,7 +77,7 @@
       },
       {
         "lkey": "ABLO",
-        "lvalue": "http://www.bruckner-online.at/ABLO_d1e619" 
+        "lvalue": "http://www.bruckner-online.at/ABLO_d1e619"
       }
     ],
     "image": "johannes-brahms.jpg"
@@ -95,7 +95,8 @@
     "links": [
       {
         "lkey": "OeML",
-        "lvalue": "https://www.musiklexikon.ac.at/ml/musik_B/Bruell_Ignaz.xml"}, 
+        "lvalue": "https://www.musiklexikon.ac.at/ml/musik_B/Bruell_Ignaz.xml"
+      },
       {
         "lkey": "OeBL",
         "lvalue": "https://www.biographien.ac.at/oebl/oebl_B/Bruell_Ignaz_1846_1907.xml"
@@ -120,7 +121,8 @@
     "links": [
       {
         "lkey": "OeML",
-        "lvalue": "https://www.musiklexikon.ac.at/ml/musik_B/Bruell_Ignaz.xml"}, 
+        "lvalue": "https://www.musiklexikon.ac.at/ml/musik_B/Bruell_Ignaz.xml"
+      },
       {
         "lkey": "OeBL",
         "lvalue": "https://www.biographien.ac.at/oebl/oebl_B/Bruell_Ignaz_1846_1907.xml"
@@ -163,7 +165,8 @@
     "links": [
       {
         "lkey": "OeML",
-        "lvalue": "https://www.musiklexikon.ac.at/ml/musik_D/Dustmann-Meyer_Marie.xml"}
+        "lvalue": "https://www.musiklexikon.ac.at/ml/musik_D/Dustmann-Meyer_Marie.xml"
+      }
     ],
     "image": "luise-dustmann.jpg"
   },
@@ -180,10 +183,12 @@
     "links": [
       {
         "lkey": "OeML",
-        "lvalue": "https://www.musiklexikon.ac.at/ml/musik_E/Epstein_Familie.xml"},
+        "lvalue": "https://www.musiklexikon.ac.at/ml/musik_E/Epstein_Familie.xml"
+      },
       {
         "lkey": "OeBL",
-        "lvalue": "https://www.biographien.ac.at/oebl/oebl_E/Epstein_Julius_1832_1926.xml"}
+        "lvalue": "https://www.biographien.ac.at/oebl/oebl_E/Epstein_Julius_1832_1926.xml"
+      }
     ],
     "image": "julius-epstein.jpg"
   },
@@ -204,7 +209,8 @@
       },
       {
         "lkey": "OeBL",
-        "lvalue": "https://www.biographien.ac.at/oebl/oebl_E/Epstein_Richard_1869_1919.xml"}
+        "lvalue": "https://www.biographien.ac.at/oebl/oebl_E/Epstein_Richard_1869_1919.xml"
+      }
     ],
     "image": ""
   },
@@ -232,13 +238,14 @@
     "function": "musikalische_r_Direktor_in",
     "role": "Violinist_in",
     "links": [
-        {
-          "lkey": "OeML",
-          "lvalue": "https://www.musiklexikon.ac.at/ml/musik_H/Hellmesberger-Quartett.xml"},
-        {
-          "lkey": "BMLO",
-          "lvalue": "https://bmlo.de/h2469"
-        }
+      {
+        "lkey": "OeML",
+        "lvalue": "https://www.musiklexikon.ac.at/ml/musik_H/Hellmesberger-Quartett.xml"
+      },
+      {
+        "lkey": "BMLO",
+        "lvalue": "https://bmlo.de/h2469"
+      }
     ],
     "image": "hellmesberger-junior.jpg"
   },
@@ -253,10 +260,10 @@
     "function": "musikalische_r_Direktor_in",
     "role": "Bratschist_in",
     "links": [
-        {
-          "lkey": "OeML", 
-          "lvalue": "https://www.musiklexikon.ac.at/ml/musik_H/Hellmesberger-Quartett.xml"
-        }
+      {
+        "lkey": "OeML",
+        "lvalue": "https://www.musiklexikon.ac.at/ml/musik_H/Hellmesberger-Quartett.xml"
+      }
     ],
     "image": "hellmesberger-senior.jpg"
   },
@@ -271,12 +278,14 @@
     "function": "musikalische_r_Direktor_in",
     "role": "",
     "links": [
-        {
-          "lkey": "OeML",
-          "lvalue": "https://www.musiklexikon.ac.at/ml/musik_H/Heuberger_Richard.xml"},
-        {
-          "lkey": "OeBL",
-          "lvalue": "https://www.biographien.ac.at/oebl/oebl_H/Heuberger_Richard-Franz-Joseph_1850_1914.xml"}
+      {
+        "lkey": "OeML",
+        "lvalue": "https://www.musiklexikon.ac.at/ml/musik_H/Heuberger_Richard.xml"
+      },
+      {
+        "lkey": "OeBL",
+        "lvalue": "https://www.biographien.ac.at/oebl/oebl_H/Heuberger_Richard-Franz-Joseph_1850_1914.xml"
+      }
     ],
     "image": "richard-heuberger.jpg"
   },
@@ -291,10 +300,11 @@
     "function": "Sänger_in",
     "role": "",
     "links": [
-        {
-          "lkey": "OeBL",
-          "lvalue": "https://www.biographien.ac.at/oebl/oebl_K/Kraemer_August_1841_1916.xml;internal&action=hilite.action&Parameter=August%20Kr%E4mer"}
-      ],
+      {
+        "lkey": "OeBL",
+        "lvalue": "https://www.biographien.ac.at/oebl/oebl_K/Kraemer_August_1841_1916.xml;internal&action=hilite.action&Parameter=August%20Kr%E4mer"
+      }
+    ],
     "image": ""
   },
   {
@@ -321,15 +331,18 @@
     "function": "Sänger_in",
     "role": "",
     "links": [
-        {
-          "lkey": "OeML",
-          "lvalue": "https://acdh-oeaw.github.io/brahms_static/www.musiklexikon.ac.at/ml/musik_L/Lehmann_Familie.xml"},
-        {
-          "lkey": "OeBL",
-          "lvalue": "https://biographien.ac.at/ID-0.3036266-1"},
-        {
-          "lkey": "BMLO",
-          "lvalue": "https://bmlo.de/l0303"}
+      {
+        "lkey": "OeML",
+        "lvalue": "https://acdh-oeaw.github.io/brahms_static/www.musiklexikon.ac.at/ml/musik_L/Lehmann_Familie.xml"
+      },
+      {
+        "lkey": "OeBL",
+        "lvalue": "https://biographien.ac.at/ID-0.3036266-1"
+      },
+      {
+        "lkey": "BMLO",
+        "lvalue": "https://bmlo.de/l0303"
+      }
     ],
     "image": "lilli-lehmann.jpg"
   },
@@ -344,10 +357,10 @@
     "function": "Pianist_in",
     "role": "",
     "links": [
-        {
-          "lkey": "BMLO",
-          "lvalue": "https://bmlo.de/l0489"
-        }
+      {
+        "lkey": "BMLO",
+        "lvalue": "https://bmlo.de/l0489"
+      }
     ],
     "image": "georg-liebling.jpg"
   },
@@ -362,14 +375,14 @@
     "function": "Sänger_in",
     "role": "Mezzosopranist_in",
     "links": [
-        {
-          "lkey": "OeML",
-          "lvalue": "https://www.musiklexikon.ac.at/ml/musik_P/Paumgartner_Familie.xml"
-        },
-        {
-          "lkey": "OeBL",
-          "lvalue": "https://www.biographien.ac.at/oebl/oebl_P/Paumgartner_Rosa_1858_1932.xml"
-        }
+      {
+        "lkey": "OeML",
+        "lvalue": "https://www.musiklexikon.ac.at/ml/musik_P/Paumgartner_Familie.xml"
+      },
+      {
+        "lkey": "OeBL",
+        "lvalue": "https://www.biographien.ac.at/oebl/oebl_P/Paumgartner_Rosa_1858_1932.xml"
+      }
     ],
     "image": "rosa-papier.jpg"
   },
@@ -384,14 +397,14 @@
     "function": "Violoncellist_in",
     "role": "",
     "links": [
-        {
-          "lkey": "OeML",
-          "lvalue": "https://www.musiklexikon.ac.at/ml/musik_P/Popper_Brueder.xml"
-        },
-        {
-          "lkey": "OeBL",
-          "lvalue": "https://www.biographien.ac.at/oebl/oebl_P/Popper_David_1843_1913.xml"
-        }
+      {
+        "lkey": "OeML",
+        "lvalue": "https://www.musiklexikon.ac.at/ml/musik_P/Popper_Brueder.xml"
+      },
+      {
+        "lkey": "OeBL",
+        "lvalue": "https://www.biographien.ac.at/oebl/oebl_P/Popper_David_1843_1913.xml"
+      }
     ],
     "image": "david-popper.jpg"
   },
@@ -406,18 +419,18 @@
     "function": "Sänger_in",
     "role": "Bariton",
     "links": [
-        {
-          "lkey": "OeML",
-          "lvalue": "https://www.musiklexikon.ac.at/ml/musik_R/Reichmann_Theodor.xml"
-        },
-        {
-          "lkey": "OeBL",
-          "lvalue": "https://www.biographien.ac.at/oebl/oebl_R/Reichmann_Theodor_1849_1903.xml"
-        },
-        {
-          "lkey": "BMLO",
-          "lvalue": "https://bmlo.de/r0269"
-        }
+      {
+        "lkey": "OeML",
+        "lvalue": "https://www.musiklexikon.ac.at/ml/musik_R/Reichmann_Theodor.xml"
+      },
+      {
+        "lkey": "OeBL",
+        "lvalue": "https://www.biographien.ac.at/oebl/oebl_R/Reichmann_Theodor_1849_1903.xml"
+      },
+      {
+        "lkey": "BMLO",
+        "lvalue": "https://bmlo.de/r0269"
+      }
     ],
     "image": "theodor-reichmann.jpg"
   },
@@ -432,18 +445,18 @@
     "function": "Violinist_in",
     "role": "",
     "links": [
-        {
-          "lkey": "OeML",
-          "lvalue": "https://www.musiklexikon.ac.at/ml/musik_R/Rose-Familie.xml"
-        },
-        {
-          "lkey": "OeBL",
-          "lvalue": "https://apis.acdh.oeaw.ac.at/person/44167"
-        },
-        {
-          "lkey": "BMLO",
-          "lvalue": "https://bmlo.de/Q/GND=116608943"
-        }
+      {
+        "lkey": "OeML",
+        "lvalue": "https://www.musiklexikon.ac.at/ml/musik_R/Rose-Familie.xml"
+      },
+      {
+        "lkey": "OeBL",
+        "lvalue": "https://apis.acdh.oeaw.ac.at/person/44167"
+      },
+      {
+        "lkey": "BMLO",
+        "lvalue": "https://bmlo.de/Q/GND=116608943"
+      }
     ],
     "image": "arnold-rose.jpg"
   },
@@ -492,7 +505,7 @@
         "lkey": "OeBL",
         "lvalue": "https://www.biographien.ac.at/oebl/oebl_R/Rueckauf_Anton_1855_1903.xml;internal&action=hilite.action&Parameter=Anton%20R%FCckauf"
       }
-  ],
+    ],
     "image": "anton-ruckauf.jpg"
   },
   {
@@ -514,7 +527,7 @@
         "lkey": "OeBL",
         "lvalue": "https://www.biographien.ac.at/oebl/oebl_S/Sauer-Aichried_Emil-Georg_1862_1942.xml"
       }
-  ],
+    ],
     "image": "emil-sauer.jpg"
   },
   {
@@ -536,7 +549,7 @@
         "lkey": "OeBL",
         "lvalue": "https://www.biographien.ac.at/oebl/oebl_S/Schantl_Josef-Hermann_1842_1902.xml"
       }
-  ],
+    ],
     "image": "josef-schantl.jpg"
   },
   {
@@ -554,7 +567,7 @@
         "lkey": "BMLO",
         "lvalue": "https://bmlo.de/b0172"
       }
-  ],
+    ],
     "image": "marie-schmidt.jpg"
   },
   {
@@ -572,7 +585,7 @@
         "lkey": "BMLO",
         "lvalue": "https://bmlo.de/s2823"
       }
-  ],
+    ],
     "image": "anton-sistermans.jpg"
   },
   {
@@ -590,7 +603,7 @@
         "lkey": "OeML",
         "lvalue": "https://www.musiklexikon.ac.at/ml/musik_S/Soldat-Roeger_Marie.xml"
       }
-  ],
+    ],
     "image": "soldat-roger.jpg"
   },
   {
@@ -621,7 +634,7 @@
         "lkey": "BMLO",
         "lvalue": "https://bmlo.de/s1713"
       }
-  ],
+    ],
     "image": "bernhard-stavenhagen.jpg"
   },
   {
@@ -643,7 +656,7 @@
         "lkey": "OeBL",
         "lvalue": "https://www.biographien.ac.at/oebl/oebl_S/Strakosch_Ludwig_1855_1919.xml"
       }
-  ],
+    ],
     "image": "ludwig-strakosch.jpg"
   },
   {
