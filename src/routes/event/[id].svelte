@@ -59,7 +59,7 @@ let formatDate = (day, month, year) => {
         <dd class="mt-1 text-sm text-gray-600 sm:mt-0 sm:col-span-2">
           <ul>
           {#each event.performers as personIdx}
-            <li><a href={`/person/${personIdx}`} class="text-teal-400">{people[personIdx-1].surname}, {people[personIdx-1].name}</a> ({people[personIdx-1].function})</li>
+            <li><a href={`/person/${personIdx}`} class="text-teal-400">{people[personIdx-1].name} {people[personIdx-1].surname}</a> ({people[personIdx-1].function})</li>
           {/each}
           </ul>
         </dd>

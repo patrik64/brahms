@@ -33,9 +33,14 @@ let formatDate = (day, month, year) => {
 
 let formatPerformer = (arr) => {
   if(arr.length === 1) {
-    return people[arr[0]-1].surname;
+    let ret = people[arr[0]-1].name;
+    ret += " ";
+    ret += people[arr[0]-1].surname;
+    return ret;
   } else if (arr.length > 1) {
-    let ret = people[arr[0]-1].surname;
+    let ret = people[arr[0]-1].name;
+    ret += " ";
+    ret += people[arr[0]-1].surname;
     ret += "(+";
     ret += arr.length-1;
     ret += ")";
@@ -60,7 +65,7 @@ let formatPerformer = (arr) => {
           <th scope="col" class="px-3 py-3.5 text-left text-sm font-semibold text-gray-600 lg:table-cell">Ort</th>
           <th scope="col" class="px-3 py-3.5 text-left text-sm font-semibold text-gray-600 lg:table-cell">Saal</th>
           <th scope="col" class="hidden md:block px-3 py-3.5 text-left text-sm font-semibold text-gray-600 lg:table-cell">Beteiligte</th>
-          <th scope="col" class="hidden md:block px-3 py-3.5 text-left text-sm font-semibold text-gray-600 lg:table-cell">Titel</th>
+          <!--th scope="col" class="hidden md:block px-3 py-3.5 text-left text-sm font-semibold text-gray-600 lg:table-cell">Titel</th-->
           <th scope="col" class="relative py-3.5 pl-3 pr-4 sm:pr-6 text-sm font-semibold text-gray-600">Details</th>
         </tr>
       </thead>
@@ -71,7 +76,7 @@ let formatPerformer = (arr) => {
             <td class="{eventIdx === 0 ? '' : 'border-t border-gray-200'} px-3 py-3.5 text-sm text-gray-500 lg:table-cell">{events[eventNr-1].place}</td>
             <td class="{eventIdx === 0 ? '' : 'border-t border-gray-200'} px-3 py-3.5 text-sm text-gray-500 lg:table-cell">{events[eventNr-1].venue}</td>
             <td class="{eventIdx === 0 ? '' : 'border-t border-gray-200'} hidden md:block px-3 py-3.5 text-sm text-gray-500 lg:table-cell">{formatPerformer(events[eventNr-1].performers)}</td>
-            <td class="{eventIdx === 0 ? '' : 'border-t border-gray-200'} hidden md:block px-3 py-3.5 text-sm text-gray-500 lg:table-cell">{events[eventNr-1].work}</td>
+            <!--td class="{eventIdx === 0 ? '' : 'border-t border-gray-200'} hidden md:block px-3 py-3.5 text-sm text-gray-500 lg:table-cell">{events[eventNr-1].work}</td-->
             <td class="{eventIdx === 0 ? '' : 'border-t border-gray-200'} px-3 py-3.5 text-sm text-gray-500 lg:table-cell">
               <a href={`/event/${events[eventNr-1].id}`} class="hover:text-black"><svelte:component this={LogoutIcon} class="pr-2 mx-auto h-6" aria-hidden="true" /></a>
             </td>
