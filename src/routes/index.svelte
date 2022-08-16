@@ -1,5 +1,5 @@
 <div class="mx-auto max-w-7xl px-4 sm:mt-12 sm:px-6 md:mt-16 lg:mt-20 lg:px-8 xl:mt-28">
-  <div class="grid grid-flow-col gap-3">
+  <div class="md:grid grid-flow-col gap-3">
     <!-- col 1-->
     <div class="col-span-1">
       <div class="sm:text-center lg:text-left">
@@ -21,7 +21,7 @@
     <!-- col 1-->
 
     <!-- col 2-->
-    <div class="col-span-4 hidden md:block">
+    <div class="col-span-4 my-4">
       <div class="lg:relative lg:inset-y-0 lg:right-0">
         <img class="h-56 w-full object-cover sm:h-72 md:h-96 lg:w-full lg:h-full" src="/images/background.png" alt="" />
       </div>
