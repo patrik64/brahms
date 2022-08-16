@@ -73,5 +73,21 @@
     "category": "Rubrik_3",
     "info": "Konzert von Max Friedländer; Frl. Geisler-Schubert und Hr. Door: Klavier; \"eine Reihe aus den Brahms'schen Walzern vierhändig\"; Datum gemäß Die Presse, Local-Anzeiger, 28.10.1883, S. 16; vermutlich op. 39, vgl. den Auftritt vom 09.03.1883 gemäß Die Presse, Local-Anzeiger, 08.03.1883, S. 11",
     "performers": [11, 7]
+  },
+  {
+    "id": 6,
+    "day": 2,
+    "month": 2,
+    "year": 1896,
+    "place": "Wien",
+    "venue": "",
+    "work": "Klaviertrio Nr. 1 H-Dur, op. 8",
+    "workId": 1,
+    "annotext": "Vaterland, Morgenblatt, Jg. 37, Nr. 30, 31.01.1896, S. 6",
+    "annolink": "http://anno.onb.ac.at/cgi-content/anno?aid=vtl&datum=18960131&seite=6&zoom=33&query=%22brahms%22&ref=anno-search",
+    "category": "Vorankündigung",
+    "info": "16. Konzert des \"Ersten Wiener Volksquartetts für classische Musik\", dem Duesberg-Quartett, 5 Uhr nachmittags, Festsaal des Architektenvereins, Eschenbachgasse Nr. 9, 1. Bezirk; Mitglieder des Duesberg-Quartetts, Fr. Boyes-Ruker: Klavier",
+    "performers": []
   }
+
 ]
