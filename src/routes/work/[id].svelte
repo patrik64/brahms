@@ -60,7 +60,7 @@ let formatPerformer = (arr) => {
           <th scope="col" class="px-3 py-3.5 text-left text-sm font-semibold text-gray-600 lg:table-cell">Ort</th>
           <th scope="col" class="px-3 py-3.5 text-left text-sm font-semibold text-gray-600 lg:table-cell">Saal</th>
           <th scope="col" class="relative py-3.5 pl-3 pr-4 sm:pr-6 text-sm font-semibold text-gray-600 hidden md:block">Beteiligte</th>
-          <th scope="col" class="relative py-3.5 pl-3 pr-4 sm:pr-6 text-sm font-semibold text-gray-600">Titel</th>
+          <th scope="col" class="relative py-3.5 pl-3 pr-4 sm:pr-6 text-sm font-semibold text-gray-600 hidden md:block">Titel</th>
           <th scope="col" class="relative py-3.5 pl-3 pr-4 sm:pr-6 text-sm font-semibold text-gray-600">Details</th>
         </tr>
       </thead>
@@ -71,7 +71,7 @@ let formatPerformer = (arr) => {
             <td class="{eventIdx === 0 ? '' : 'border-t border-gray-200'} px-3 py-3.5 text-sm text-gray-500 lg:table-cell">{events[eventNr-1].place}</td>
             <td class="{eventIdx === 0 ? '' : 'border-t border-gray-200'} px-3 py-3.5 text-sm text-gray-500 lg:table-cell">{events[eventNr-1].venue}</td>
             <td class="{eventIdx === 0 ? '' : 'border-t border-gray-200'} px-3 py-3.5 text-sm text-gray-500 lg:table-cell hidden md:block">{formatPerformer(events[eventNr-1].performers)}</td>
-            <td class="{eventIdx === 0 ? '' : 'border-t border-gray-200'} px-3 py-3.5 text-sm text-gray-500 lg:table-cell">{events[eventNr-1].work}</td>
+            <td class="{eventIdx === 0 ? '' : 'border-t border-gray-200'} px-3 py-3.5 text-sm text-gray-500 lg:table-cell hidden md:block">{events[eventNr-1].work}</td>
             <td class="{eventIdx === 0 ? '' : 'border-t border-gray-200'} px-3 py-3.5 text-sm text-gray-500 lg:table-cell">
               <a href={`/event/${events[eventNr-1].id}`} class="hover:text-black"><svelte:component this={LogoutIcon} class="pr-2 mx-auto h-6" aria-hidden="true" /></a>
             </td>
