@@ -1,30 +1,7257 @@
 [
   {
-    "id": 1,
-    "name": "Klaviertrio Nr. 1 H-Dur, op. 8",
+    "id": "1",
+    "n": "1",
+    "identifier": "op. 1",
     "prefix": "op.",
-    "opusnumber": 8,
-    "events": [6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26]
+    "opus": "1",
+    "title": "Klaviersonate Nr. 1 C-Dur",
+    "versions": [],
+    "positions": [
+      "Klavier [= immer: Klavier zu 2 Händen]"
+    ],
+    "components": [],
+    "events": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
   },
   {
-    "id": 2,
-    "name": "Neun Lieder und Gesänge, op. 32",
+    "id": "2",
+    "n": "2",
+    "identifier": "op. 2",
     "prefix": "op.",
-    "opusnumber": 8,
-    "events": []
+    "opus": "2",
+    "title": "Klaviersonate Nr. 2 fis-Moll",
+    "versions": [],
+    "positions": [
+      "Klavier"
+    ],
+    "components": [],
+    "events": [
+      8,
+      9,
+      10,
+      11
+    ]
   },
   {
-    "id": 3,
-    "name": "Walzer, op. 39",
+    "id": "3",
+    "n": "3",
+    "identifier": "op. 3",
     "prefix": "op.",
-    "opusnumber": 39,
-    "events": [1,2,3,4,5]
+    "opus": "3",
+    "title": "Sechs Gesänge",
+    "versions": [],
+    "positions": [
+      "1 Singstimme (Tenor oder Sopran)",
+      "Klavier"
+    ],
+    "components": [
+      "Liebestreu., op. 3,1",
+      "Liebe und Frühling I., op. 3,2",
+      "Liebe und Frühling II., op. 3,3",
+      "Lied., op. 3,4",
+      "In der Fremde., op. 3,5",
+      "Lied., op. 3,6"
+    ],
+    "events": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36
+    ]
   },
   {
-    "id": 4,
-    "name": "Fünf Lieder, op. 49",
+    "id": "4",
+    "n": "4",
+    "identifier": "op. 4",
     "prefix": "op.",
-    "opusnumber": 49,
-    "events": []
+    "opus": "4",
+    "title": "Scherzo es-Moll",
+    "versions": [],
+    "positions": [
+      "Klavier"
+    ],
+    "components": [],
+    "events": [
+      37,
+      38,
+      39,
+      40,
+      41
+    ]
+  },
+  {
+    "id": "5",
+    "n": "5",
+    "identifier": "op. 5",
+    "prefix": "op.",
+    "opus": "5",
+    "title": "Klaviersonate Nr. 3 f-Moll",
+    "versions": [],
+    "positions": [
+      "Klavier"
+    ],
+    "components": [],
+    "events": [
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55
+    ]
+  },
+  {
+    "id": "6",
+    "n": "6",
+    "identifier": "op. 6",
+    "prefix": "op.",
+    "opus": "6",
+    "title": "Sechs Gesänge",
+    "versions": [],
+    "positions": [
+      "1 Singstimme (Sopran oder Tenor)",
+      "Klavier"
+    ],
+    "components": [
+      "Spanisches Lied., op. 6,1",
+      "Der Frühling., op. 6,2",
+      "Nachwirkung., op. 6,3",
+      "Juchhe., op. 6,4",
+      "Wie die Wolke nach der Sonne., op. 6,5",
+      "Nachtigallen schwingen lustig., op. 6,6"
+    ],
+    "events": [
+      56,
+      57,
+      58
+    ]
+  },
+  {
+    "id": "7",
+    "n": "7",
+    "identifier": "op. 7",
+    "prefix": "op.",
+    "opus": "7",
+    "title": "Sechs Gesänge",
+    "versions": [],
+    "positions": [
+      "1 Singstimme",
+      "Klavier"
+    ],
+    "components": [
+      "Treue Liebe., op. 7,1",
+      "Parole., op. 7,2",
+      "Anklänge., op. 7,3",
+      "Volkslied., op. 7,4",
+      "Die Trauernde., op. 7,5",
+      "Heimkehr., op. 7,6"
+    ],
+    "events": [
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67
+    ]
+  },
+  {
+    "id": "8",
+    "n": "8",
+    "identifier": "op. 8",
+    "prefix": "op.",
+    "opus": "8",
+    "title": "Klaviertrio Nr. 1 H-Dur",
+    "versions": [
+      "Erste Fassung (erschienen 1854)",
+      "Zweite Fassung (erschienen 1891)"
+    ],
+    "positions": [
+      "Violine",
+      "Violoncello",
+      "Klavier"
+    ],
+    "components": [],
+    "events": [
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88
+    ]
+  },
+  {
+    "id": "9",
+    "n": "9",
+    "identifier": "op. 9",
+    "prefix": "op.",
+    "opus": "9",
+    "title": "16 Variationen fis-Moll für Klavier über ein Thema von Robert Schumann",
+    "versions": [],
+    "positions": [
+      "Klavier"
+    ],
+    "components": [],
+    "events": [
+      89,
+      90,
+      91,
+      92,
+      93
+    ]
+  },
+  {
+    "id": "10",
+    "n": "10",
+    "identifier": "op. 10",
+    "prefix": "op.",
+    "opus": "10",
+    "title": "Vier Balladen für Klavier",
+    "versions": [],
+    "positions": [
+      "Klavier"
+    ],
+    "components": [
+      "Nach der schottischen Ballade \"Edward\" in Herders \"Stimmen der Völker\"., op. 10,1",
+      "op. 10,2",
+      "Intermezzo., op. 10,3",
+      "op. 10,4"
+    ],
+    "events": [
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105
+    ]
+  },
+  {
+    "id": "11",
+    "n": "11",
+    "identifier": "op. 11",
+    "prefix": "op.",
+    "opus": "11",
+    "title": "Serenade Nr. 1 D-Dur",
+    "versions": [
+      "Fassung für großes Orchester",
+      "Fassung für kleines Orchester",
+      "Arrangement für 1 Klavier zu 4 Händen"
+    ],
+    "positions": [
+      "Orchester"
+    ],
+    "components": [],
+    "events": [
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112
+    ]
+  },
+  {
+    "id": "12",
+    "n": "12",
+    "identifier": "op. 12",
+    "prefix": "op.",
+    "opus": "12",
+    "title": "Ave Maria F-Dur",
+    "versions": [
+      "Fassung mit Orchester",
+      "Fassung mit Orgel",
+      "Klavierauszug"
+    ],
+    "positions": [
+      "Frauenchor",
+      "Orchester oder Orgel"
+    ],
+    "components": [],
+    "events": [
+      113,
+      114,
+      115,
+      116
+    ]
+  },
+  {
+    "id": "13",
+    "n": "13",
+    "identifier": "op. 13",
+    "prefix": "op.",
+    "opus": "13",
+    "title": "Begräbnisgesang",
+    "versions": [
+      "Fassung mit Blasinstrumenten",
+      "Klavierauszug"
+    ],
+    "positions": [
+      "Chor",
+      "Blasinstrumente"
+    ],
+    "components": [],
+    "events": [
+      117
+    ]
+  },
+  {
+    "id": "14",
+    "n": "14",
+    "identifier": "op. 14",
+    "prefix": "op.",
+    "opus": "14",
+    "title": "Acht Lieder und Romanzen",
+    "versions": [
+      "Liedfassung",
+      "Nr. 8: Fassung für dreistimmigen Frauenchor"
+    ],
+    "positions": [
+      "1 Singstimme",
+      "Klavier"
+    ],
+    "components": [
+      "Vor dem Fenster., op. 14,1",
+      "Vom verwundeten Knaben., op. 14,2",
+      "Murrays Ermordung., op. 14,3",
+      "Ein Sonett., op. 14,4",
+      "Trennung., op. 14,5",
+      "Gang zur Liebsten., op. 14,6",
+      "Ständchen., op. 14,7",
+      "Sehnsucht., op. 14,8"
+    ]
+  },
+  {
+    "id": "15",
+    "n": "15",
+    "identifier": "op. 15",
+    "prefix": "op.",
+    "opus": "15",
+    "title": "Klavierkonzert Nr. 1 d-Moll",
+    "versions": [
+      "Fassung als Solokonzert",
+      "Arrangement für 1 Klavier zu 4 Händen",
+      "Arrangement für 2 Klaviere (Klavierauszug)"
+    ],
+    "positions": [
+      "Klavier",
+      "Orchester"
+    ],
+    "components": [],
+    "events": [
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140,
+      141
+    ]
+  },
+  {
+    "id": "16",
+    "n": "16",
+    "identifier": "op. 16",
+    "prefix": "op.",
+    "opus": "16",
+    "title": "Serenade Nr. 2 A-Dur",
+    "versions": [
+      "Fassung für Orchester",
+      "Arrangement für 1 Klavier zu 4 Händen"
+    ],
+    "positions": [
+      "Orchester"
+    ],
+    "components": [],
+    "events": [
+      142,
+      143,
+      144,
+      145,
+      146
+    ]
+  },
+  {
+    "id": "17",
+    "n": "17",
+    "identifier": "op. 17",
+    "prefix": "op.",
+    "opus": "17",
+    "title": "Vier Gesänge",
+    "versions": [
+      "Fassung für Frauenchor, Hörner und Harfe",
+      "Nr. 4: Fassung für gemischten Chor und Orchester"
+    ],
+    "positions": [
+      "Frauenchor",
+      "2 Hörner",
+      "Harfe"
+    ],
+    "components": [
+      "Es tönt ein voller Harfenklang., op. 17, Nr.1",
+      "Lied von Shakespeare., op. 17, Nr.2",
+      "Der Gärtner., op. 17, Nr.3",
+      "Gesang aus Fingal., op. 17, Nr.4"
+    ],
+    "events": [
+      147,
+      148,
+      149,
+      150,
+      151,
+      152,
+      153
+    ]
+  },
+  {
+    "id": "18",
+    "n": "18",
+    "identifier": "op. 18",
+    "prefix": "op.",
+    "opus": "18",
+    "title": "Streichsextett Nr. 1 B-Dur",
+    "versions": [
+      "Streicherfassung",
+      "Nr. 2: Arrangement für Klavier zu 2 Händen",
+      "Arrangement für 1 Klavier zu 4 Händen"
+    ],
+    "positions": [
+      "2 Violinen",
+      "2 Violen",
+      "2 Violoncelli"
+    ],
+    "components": [],
+    "events": [
+      154,
+      155,
+      156,
+      157,
+      158,
+      159,
+      160,
+      161,
+      162,
+      163,
+      164,
+      165,
+      166,
+      167,
+      168,
+      169,
+      170,
+      171,
+      172,
+      173,
+      174,
+      175,
+      176,
+      177,
+      178,
+      179,
+      180,
+      181,
+      182,
+      183
+    ]
+  },
+  {
+    "id": "19",
+    "n": "19",
+    "identifier": "op. 19",
+    "prefix": "op.",
+    "opus": "19",
+    "title": "Fünf Gedichte",
+    "versions": [],
+    "positions": [
+      "1 Singstimme",
+      "Klavier"
+    ],
+    "components": [
+      "Der Kuss., op. 19, Nr.1",
+      "Scheiden und Meiden., op. 19, Nr.2",
+      "In der Ferne., op. 19, Nr.3",
+      "Der Schmied., op. 19, Nr.4",
+      "An eine Aeolsharfe., op. 19, Nr.5"
+    ],
+    "events": [
+      184,
+      185,
+      186,
+      187
+    ]
+  },
+  {
+    "id": "20",
+    "n": "20",
+    "identifier": "op. 20",
+    "prefix": "op.",
+    "opus": "20",
+    "title": "Drei Duette",
+    "versions": [],
+    "positions": [
+      "Sopran",
+      "Alt",
+      "Klavier"
+    ],
+    "components": [
+      "Weg der Liebe 1. Teil., op. 20, Nr.1",
+      "Weg der Liebe 2. Teil., op. 20, Nr.2",
+      "Die Meere., op. 20, Nr.3"
+    ],
+    "events": [
+      188,
+      189
+    ]
+  },
+  {
+    "id": "21",
+    "n": "21",
+    "identifier": "op. 21",
+    "prefix": "op.",
+    "opus": "21",
+    "title": "Variationen für Klavier",
+    "versions": [],
+    "positions": [
+      "Klavier"
+    ],
+    "components": [
+      "Nr. 1 über ein eigenes Thema., op. 21, Nr.1",
+      "Nr. 2 über ein ungarisches Lied., op. 21, Nr.2"
+    ],
+    "events": [
+      190,
+      191,
+      192,
+      193,
+      194,
+      195,
+      196,
+      197,
+      198
+    ]
+  },
+  {
+    "id": "22",
+    "n": "22",
+    "identifier": "op. 22",
+    "prefix": "op.",
+    "opus": "22",
+    "title": "Sieben Marienlieder",
+    "versions": [
+      "Fassung für gemischten Chor",
+      "Nr. 1, 2, 4-7: Fassung für Frauenchor",
+      "Fassung für gemischten Chor ohne Bass"
+    ],
+    "positions": [
+      "gemischter Chor"
+    ],
+    "components": [
+      "Der englische Gruß., op. 22, Nr.1",
+      "Marias Kirchgang., op. 22, Nr.2",
+      "Marias Wallfahrt., op. 22, Nr.3",
+      "Der Jäger., op. 22, Nr.4",
+      "Ruf zur Maria., op. 22, Nr.5",
+      "Magdalena., op. 22, Nr.6",
+      "Marias Lob., op. 22, Nr.7"
+    ],
+    "events": [
+      199,
+      200,
+      201,
+      202,
+      203,
+      204,
+      205,
+      206,
+      207
+    ]
+  },
+  {
+    "id": "23",
+    "n": "23",
+    "identifier": "op. 23",
+    "prefix": "op.",
+    "opus": "23",
+    "title": "Variationen Es-Dur für Klavier zu 4 Händen über ein Thema von Schumann",
+    "versions": [
+      "Fassung für Klavier zu vier Händen",
+      "Bearbeitung für zwei Klaviere zu vier Händen von Theodor Kirchner"
+    ],
+    "positions": [
+      "1 Klavier zu 4 Händen"
+    ],
+    "components": [],
+    "events": [
+      208,
+      209,
+      210
+    ]
+  },
+  {
+    "id": "24",
+    "n": "24",
+    "identifier": "op. 24",
+    "prefix": "op.",
+    "opus": "24",
+    "title": "Variationen und Fuge B-Dur",
+    "versions": [],
+    "positions": [
+      "Klavier"
+    ],
+    "components": [],
+    "events": [
+      211,
+      212,
+      213,
+      214,
+      215,
+      216,
+      217,
+      218,
+      219,
+      220,
+      221,
+      222,
+      223,
+      224,
+      225,
+      226,
+      227,
+      228,
+      229,
+      230,
+      231,
+      232,
+      233,
+      234,
+      235
+    ]
+  },
+  {
+    "id": "25",
+    "n": "25",
+    "identifier": "op. 25",
+    "prefix": "op.",
+    "opus": "25",
+    "title": "Klavierquartett Nr. 1 g-Moll",
+    "versions": [
+      "Fassung für Klavierquartett",
+      "Arrangement für 1 Klavier zu 4 Händen"
+    ],
+    "positions": [
+      "Violine",
+      "Viola",
+      "Violoncello",
+      "Klavier"
+    ],
+    "components": [],
+    "events": [
+      236,
+      237,
+      238,
+      239,
+      240,
+      241,
+      242,
+      243,
+      244,
+      245,
+      246,
+      247,
+      248,
+      249,
+      250,
+      251,
+      252,
+      253,
+      254,
+      255,
+      256,
+      257,
+      258,
+      259,
+      260,
+      261,
+      262,
+      263,
+      264,
+      265,
+      266,
+      267,
+      268
+    ]
+  },
+  {
+    "id": "26",
+    "n": "26",
+    "identifier": "op. 26",
+    "prefix": "op.",
+    "opus": "26",
+    "title": "Klavierquartett Nr. 2 A-Dur",
+    "versions": [
+      "Fassung für Klavierquartett",
+      "Arrangement für 1 Klavier zu 4 Händen"
+    ],
+    "positions": [
+      "Violine",
+      "Viola",
+      "Violoncello",
+      "Klavier"
+    ],
+    "components": [],
+    "events": [
+      269,
+      270,
+      271,
+      272,
+      273,
+      274,
+      275,
+      276,
+      277,
+      278,
+      279,
+      280,
+      281,
+      282,
+      283,
+      284,
+      285,
+      286,
+      287,
+      288,
+      289
+    ]
+  },
+  {
+    "id": "27",
+    "n": "27",
+    "identifier": "op. 27",
+    "prefix": "op.",
+    "opus": "27",
+    "title": "Der 13. Psalm",
+    "versions": [
+      "Fassung mit Tasteninstrument",
+      "Fassung mit Streichorchester"
+    ],
+    "positions": [
+      "dreistimmiger Frauenchor",
+      "Orgel oder Klavier"
+    ],
+    "components": [],
+    "events": [
+      290,
+      291,
+      292
+    ]
+  },
+  {
+    "id": "28",
+    "n": "28",
+    "identifier": "op. 28",
+    "prefix": "op.",
+    "opus": "28",
+    "title": "Vier Duette",
+    "versions": [],
+    "positions": [
+      "Alt",
+      "Bariton",
+      "Klavier"
+    ],
+    "components": [
+      "Die Nonne und der Ritter., op. 28, Nr.1",
+      "Vor der Tür., op. 28, Nr.2",
+      "Es rauschet das Wasser., op. 28, Nr.3",
+      "Der Jäger und sein Liebchen., op. 28, Nr.4"
+    ],
+    "events": [
+      293,
+      294
+    ]
+  },
+  {
+    "id": "29",
+    "n": "29",
+    "identifier": "op. 29",
+    "prefix": "op.",
+    "opus": "29",
+    "title": "Zwei Motetten",
+    "versions": [],
+    "positions": [
+      "fünfstimmiger Chor"
+    ],
+    "components": [
+      "Es ist das Heil uns kommen her., op. 29, Nr.1",
+      "Schaffe in mir, Gott, ein reines Herz., op. 29, Nr.2"
+    ],
+    "events": [
+      295
+    ]
+  },
+  {
+    "id": "30",
+    "n": "30",
+    "identifier": "op. 30",
+    "prefix": "op.",
+    "opus": "30",
+    "title": "Geistliches Lied",
+    "versions": [],
+    "positions": [
+      "gemischter Chor",
+      "Orgel oder Klavier"
+    ],
+    "components": []
+  },
+  {
+    "id": "31",
+    "n": "31",
+    "identifier": "op. 31",
+    "prefix": "op.",
+    "opus": "31",
+    "title": "Drei Quartette",
+    "versions": [],
+    "positions": [
+      "Sopran",
+      "Alt",
+      "Tenor",
+      "Bass",
+      "Klavier"
+    ],
+    "components": [
+      "Wechsellied zum Tanze., op. 31, Nr.1",
+      "Neckereien., op. 31, Nr.2",
+      "Der Gang zum Liebchen., op. 31, Nr.3"
+    ],
+    "events": [
+      296,
+      297,
+      298,
+      299,
+      300,
+      301
+    ]
+  },
+  {
+    "id": "32",
+    "n": "1",
+    "identifier": "op. 32",
+    "prefix": "op.",
+    "opus": "32",
+    "title": "Neun Lieder und Gesänge",
+    "versions": [],
+    "positions": [
+      "1 Singstimme",
+      "Klavier"
+    ],
+    "components": [
+      "Wie rafft ich mich auf in der Nacht., op. 32,1",
+      "Nicht mehr zu dir zu gehen., op. 32,2",
+      "Ich schleich umher., op. 32,3",
+      "Der Strom, der neben mir verrauschte., op. 32,4",
+      "Wehe, so willst du mich wieder., op. 32,5",
+      "Du sprichst, dass ich mich täuschte., op. 32,6",
+      "Bitteres zu sagen denkst du., op. 32,7",
+      "So stehn wir, ich und meine Weide., op. 32,8",
+      "Wie bist du, meine Königin., op. 32,9"
+    ],
+    "events": [
+      302,
+      303,
+      304,
+      305,
+      306,
+      307,
+      308,
+      309,
+      310,
+      311,
+      312,
+      313,
+      314,
+      315,
+      316,
+      317,
+      318,
+      319,
+      320,
+      321,
+      322
+    ]
+  },
+  {
+    "id": "33",
+    "n": "33",
+    "identifier": "op. 33",
+    "prefix": "op.",
+    "opus": "33",
+    "title": "Magelone-Romanzen",
+    "versions": [],
+    "positions": [
+      "1 Singstimme",
+      "Klavier"
+    ],
+    "components": [
+      "op. 33, Nr.1",
+      "op. 33, Nr.2",
+      "op. 33, Nr.3",
+      "op. 33, Nr.4",
+      "op. 33, Nr.5",
+      "op. 33, Nr.6",
+      "op. 33, Nr.7",
+      "op. 33, Nr.8",
+      "op. 33, Nr.9",
+      "Verzweiflung., op. 33, Nr.10",
+      "op. 33, Nr.11",
+      "op. 33, Nr.12",
+      "Sulima., op. 33, Nr.13",
+      "op. 33, Nr.14",
+      "op. 33, Nr.15"
+    ],
+    "events": [
+      323,
+      324,
+      325,
+      326,
+      327,
+      328,
+      329,
+      330,
+      331,
+      332,
+      333,
+      334,
+      335,
+      336,
+      337,
+      338,
+      339
+    ]
+  },
+  {
+    "id": "34",
+    "n": "34",
+    "identifier": "op. 34",
+    "prefix": "op.",
+    "opus": "34",
+    "title": "Klavierquintett f-Moll",
+    "versions": [],
+    "positions": [
+      "2 Violinen",
+      "Viola",
+      "Violoncello",
+      "Klavier"
+    ],
+    "components": [],
+    "events": [
+      340,
+      341,
+      342,
+      343,
+      344,
+      345,
+      346,
+      347,
+      348,
+      349,
+      350,
+      351,
+      352,
+      353,
+      354,
+      355,
+      356,
+      357,
+      358,
+      359,
+      360,
+      361,
+      362,
+      363,
+      364,
+      365,
+      366,
+      367
+    ]
+  },
+  {
+    "id": "35",
+    "n": "35",
+    "identifier": "op. 34bis",
+    "prefix": "op.",
+    "opus": "34bis",
+    "title": "Sonate f-Moll für 2 Klaviere",
+    "versions": [],
+    "positions": [
+      "2 Klaviere zu 4 Händen"
+    ],
+    "components": [],
+    "events": [
+      368,
+      369,
+      370
+    ]
+  },
+  {
+    "id": "36",
+    "n": "36",
+    "identifier": "op. 35",
+    "prefix": "op.",
+    "opus": "35",
+    "title": "Studien für Klavier a-Moll: Variationen über ein Thema von Paganini",
+    "versions": [],
+    "positions": [
+      "Klavier"
+    ],
+    "components": [],
+    "events": [
+      371,
+      372,
+      373,
+      374,
+      375,
+      376,
+      377,
+      378,
+      379,
+      380,
+      381,
+      382,
+      383,
+      384,
+      385,
+      386
+    ]
+  },
+  {
+    "id": "37",
+    "n": "37",
+    "identifier": "op. 36",
+    "prefix": "op.",
+    "opus": "36",
+    "title": "Streichsextett Nr. 2 G-Dur",
+    "versions": [
+      "Streicherfassung",
+      "Arrangement für 1 Klavier zu 4 Händen"
+    ],
+    "positions": [
+      "2 Violinen",
+      "2 Violen",
+      "2 Violoncelli"
+    ],
+    "components": [],
+    "events": [
+      387,
+      388,
+      389,
+      390,
+      391,
+      392,
+      393,
+      394,
+      395,
+      396,
+      397,
+      398,
+      399,
+      400,
+      401,
+      402,
+      403,
+      404,
+      405
+    ]
+  },
+  {
+    "id": "38",
+    "n": "38",
+    "identifier": "op. 37",
+    "prefix": "op.",
+    "opus": "37",
+    "title": "Drei geistliche Chöre",
+    "versions": [],
+    "positions": [
+      "Frauenchor"
+    ],
+    "components": [
+      "O bone Jesu., op. 37,1",
+      "Adoramus., op. 37,2",
+      "Regina coeli., op. 37,3"
+    ]
+  },
+  {
+    "id": "39",
+    "n": "39",
+    "identifier": "op. 38",
+    "prefix": "op.",
+    "opus": "38",
+    "title": "Violoncellosonate Nr. 1 e-Moll",
+    "versions": [],
+    "positions": [
+      "Klavier",
+      "Violoncello"
+    ],
+    "components": [],
+    "events": [
+      406,
+      407,
+      408,
+      409,
+      410,
+      411,
+      412,
+      413,
+      414,
+      415,
+      416,
+      417,
+      418,
+      419,
+      420,
+      421
+    ]
+  },
+  {
+    "id": "40",
+    "n": "1",
+    "identifier": "op. 39",
+    "prefix": "op.",
+    "opus": "39",
+    "title": "Walzer",
+    "versions": [
+      "Fassung für 1 Klavier zu 4 Händen",
+      "Fassung für Klavier zu 2 Händen",
+      "Erleichterte Fassung für Klavier zu 2 Händen",
+      "Teil?-Fassung für 2 Klaviere zu 4 Händen"
+    ],
+    "positions": [
+      "[diverse Fassungen für Klavier, siehe Expressions]"
+    ],
+    "components": [],
+    "events": [
+      422,
+      423
+    ]
+  },
+  {
+    "id": "41",
+    "n": "41",
+    "identifier": "op. 40",
+    "prefix": "op.",
+    "opus": "40",
+    "title": "Horntrio Es-Dur",
+    "versions": [
+      "Fassung mit Horn",
+      "Fassung mit Violoncello (statt Horn)",
+      "Fassung mit Viola (statt Horn)"
+    ],
+    "positions": [
+      "Violine",
+      "Horn",
+      "Klavier"
+    ],
+    "components": [],
+    "events": [
+      424,
+      425,
+      426,
+      427,
+      428,
+      429,
+      430,
+      431,
+      432
+    ]
+  },
+  {
+    "id": "42",
+    "n": "42",
+    "identifier": "op. 41",
+    "prefix": "op.",
+    "opus": "41",
+    "title": "Fünf Lieder",
+    "versions": [],
+    "positions": [
+      "vierstimmiger Männerchor"
+    ],
+    "components": [
+      "Ich schwing mein Horn., op. 41, Nr.1",
+      "Freiwillige her!, op. 41, Nr.2",
+      "Geleit., op. 41, Nr.3",
+      "Marschieren., op. 41, Nr.4",
+      "Gebt Acht!, op. 41, Nr.5"
+    ],
+    "events": [
+      433,
+      434,
+      435,
+      436,
+      437,
+      438
+    ]
+  },
+  {
+    "id": "43",
+    "n": "43",
+    "identifier": "op. 42",
+    "prefix": "op.",
+    "opus": "42",
+    "title": "Drei Gesänge",
+    "versions": [
+      "Fassung für gemischten Chor",
+      "Nr. 2: Fassung für vierstimmigen Frauenchor"
+    ],
+    "positions": [
+      "sechsstimmiger gemischter Chor"
+    ],
+    "components": [
+      "Abendständchen., op. 42, Nr.1",
+      "Vineta., op. 42, Nr.2",
+      "Darthulas Grabgesang., op. 42, Nr.3"
+    ],
+    "events": [
+      439,
+      440,
+      441,
+      442,
+      443
+    ]
+  },
+  {
+    "id": "44",
+    "n": "44",
+    "identifier": "op. 43",
+    "prefix": "op.",
+    "opus": "43",
+    "title": "Vier Gesänge",
+    "versions": [],
+    "positions": [
+      "1 Singstimme",
+      "Klavier"
+    ],
+    "components": [
+      "Von ewiger Liebe., op. 43, Nr.1",
+      "Die Mainacht., op. 43, Nr.2",
+      "Ich schell mein Horn ins Jammertal., op. 43, Nr.3",
+      "Das Lied vom Herrn von Falkenstein., op. 43, Nr.4"
+    ],
+    "events": [
+      444,
+      445,
+      446,
+      447,
+      448,
+      449,
+      450,
+      451,
+      452,
+      453,
+      454,
+      455,
+      456,
+      457,
+      458,
+      459,
+      460,
+      461,
+      462,
+      463,
+      464,
+      465,
+      466,
+      467,
+      468,
+      469,
+      470,
+      471,
+      472,
+      473,
+      474,
+      475,
+      476,
+      477
+    ]
+  },
+  {
+    "id": "45",
+    "n": "45",
+    "identifier": "op. 44",
+    "prefix": "op.",
+    "opus": "44",
+    "title": "Zwölf Lieder und Romanzen",
+    "versions": [
+      "A-Cappella-Fassung",
+      "Fassung mit Klavier",
+      "Nr. 1: Fassung für dreistimmigen Frauenchor",
+      "Nr. 5 und 6: Fassung für gemischten Chor",
+      "Nr. 9: Fassung für dreistimmigen Frauenchor mit anderem Text"
+    ],
+    "positions": [
+      "vierstimmiger Frauenchor",
+      "Klavier ad libitum"
+    ],
+    "components": [
+      "Minnelied., op. 44, Nr.1",
+      "Der Bräutigam., op. 44, Nr.2",
+      "Barcarole., op. 44, Nr.3",
+      "Fragen., op. 44, Nr.4",
+      "Die Müllerin., op. 44, Nr.5",
+      "Die Nonne., op. 44, Nr.6",
+      "Vier Lieder aus dem Jungbrunnen., op. 44, Nr.7",
+      "op. 44, Nr.8",
+      "op. 44, Nr.9",
+      "op. 44, Nr.10",
+      "Die Braut., op. 44, Nr.11",
+      "Die Märznacht., op. 44, Nr.12"
+    ],
+    "events": [
+      478,
+      479,
+      480,
+      481,
+      482,
+      483,
+      484,
+      485,
+      486,
+      487
+    ]
+  },
+  {
+    "id": "46",
+    "n": "46",
+    "identifier": "op. 45",
+    "prefix": "op.",
+    "opus": "45",
+    "title": "Ein deutsches Requiem",
+    "versions": [
+      "Fassung mit Orchester",
+      "Klavierauszug",
+      "Arrangement für 1 Klavier zu 4 Händen"
+    ],
+    "positions": [
+      "Soli",
+      "Chor",
+      "Orchester",
+      "Orgel ad libitum"
+    ],
+    "components": [
+      "op. 45,1",
+      "op. 45,2",
+      "op. 45,3",
+      "op. 45,4",
+      "op. 45,5",
+      "op. 45,6",
+      "op. 45,7"
+    ],
+    "events": [
+      488,
+      489,
+      490,
+      491,
+      492,
+      493,
+      494,
+      495,
+      496,
+      497,
+      498,
+      499,
+      500,
+      501,
+      502,
+      503,
+      504,
+      505,
+      506,
+      507
+    ]
+  },
+  {
+    "id": "47",
+    "n": "47",
+    "identifier": "op. 46",
+    "prefix": "op.",
+    "opus": "46",
+    "title": "Vier Lieder",
+    "versions": [],
+    "positions": [
+      "1 Singstimme",
+      "Klavier"
+    ],
+    "components": [
+      "Die Kränze., op. 46, Nr.1",
+      "Magyarisch., op. 46, Nr.2",
+      "Die Schale der Vergessenheit., op. 46, Nr.3",
+      "An die Nachtigall., op. 46, Nr.4"
+    ],
+    "events": [
+      508,
+      509,
+      510,
+      511,
+      512,
+      513,
+      514
+    ]
+  },
+  {
+    "id": "48",
+    "n": "48",
+    "identifier": "op. 47",
+    "prefix": "op.",
+    "opus": "47",
+    "title": "Fünf Lieder",
+    "versions": [
+      "Liedfassung",
+      "Nr. 3: Fassung für dreistimmigen Frauenchor"
+    ],
+    "positions": [
+      "1 Singstimme",
+      "Klavier"
+    ],
+    "components": [
+      "Botschaft., op. 47, Nr.1",
+      "Liebesglut., op. 47, Nr.2",
+      "Sonntag., op. 47, Nr.3",
+      "O liebliche Wangen., op. 47, Nr.4",
+      "Die Liebende schreibt., op. 47, Nr.5"
+    ],
+    "events": [
+      515,
+      516,
+      517,
+      518,
+      519,
+      520,
+      521,
+      522,
+      523,
+      524,
+      525
+    ]
+  },
+  {
+    "id": "49",
+    "n": "49",
+    "identifier": "op. 48",
+    "prefix": "op.",
+    "opus": "48",
+    "title": "Sieben Lieder",
+    "versions": [
+      "Liedfassung",
+      "Nr 1: Fassung für dreistimmigen Frauenchor"
+    ],
+    "positions": [
+      "1 Singstimme",
+      "Klavier"
+    ],
+    "components": [
+      "Der Gang zum Liebchen., op. 48, Nr.1",
+      "Der Überläufer., op. 48, Nr.2",
+      "Liebesklage des Mädchen., op. 48, Nr.3",
+      "Gold überwiegt die Liebe., op. 48, Nr.4",
+      "Trost in Tränen., op. 48, Nr.5",
+      "Vergangen ist mir Glück und Heil., op. 48, Nr.6",
+      "Herbstgefühl., op. 48, Nr.7"
+    ],
+    "events": [
+      526,
+      527,
+      528,
+      529,
+      530
+    ]
+  },
+  {
+    "id": "50",
+    "n": "1",
+    "identifier": "op. 49",
+    "prefix": "op.",
+    "opus": "49",
+    "title": "Fünf Lieder",
+    "versions": [],
+    "positions": [
+      "1 Singstimme",
+      "Klavier"
+    ],
+    "components": [
+      "Am Sonntag Morgen., op. 49,1",
+      "An ein Veilchen., op. 49,2",
+      "Sehnsucht., op. 49,3",
+      "Wiegenlied., op. 49,4",
+      "Abenddämmerung., op. 49,5",
+      "Wiegenlied., op. 49,4",
+      "Wiegenlied., op. 49,4",
+      "Wiegenlied., op. 49,4",
+      "Wiegenlied., op. 49,4"
+    ],
+    "events": [
+      531,
+      532,
+      533,
+      534,
+      535,
+      536,
+      537,
+      538,
+      539,
+      540,
+      541,
+      542,
+      543,
+      544,
+      545,
+      546,
+      547,
+      548,
+      549,
+      550,
+      551,
+      552,
+      553,
+      554,
+      555,
+      556,
+      557,
+      558,
+      559
+    ]
+  },
+  {
+    "id": "51",
+    "n": "51",
+    "identifier": "op. 50",
+    "prefix": "op.",
+    "opus": "50",
+    "title": "Rinaldo. Kantate von Goethe",
+    "versions": [
+      "Fassung mit Orchester",
+      "Klavierauszug"
+    ],
+    "positions": [
+      "Tenor-Solo",
+      "Männerchor",
+      "Orchester"
+    ],
+    "components": [],
+    "events": [
+      560,
+      561,
+      562,
+      563,
+      564,
+      565,
+      566,
+      567
+    ]
+  },
+  {
+    "id": "52",
+    "n": "52",
+    "identifier": "op. 51",
+    "prefix": "op.",
+    "opus": "51",
+    "title": "Zwei Streichquartette",
+    "versions": [
+      "Streicherfassung",
+      "Arrangement für 1 Klavier zu 4 Händen"
+    ],
+    "positions": [
+      "2 Violinen",
+      "Viola",
+      "Violoncello"
+    ],
+    "components": [
+      "Nr. 1., op. 51, Nr.1",
+      "Nr. 2., op. 51, Nr.2"
+    ],
+    "events": [
+      568,
+      569,
+      570,
+      571,
+      572,
+      573,
+      574,
+      575,
+      576,
+      577,
+      578,
+      579,
+      580,
+      581,
+      582,
+      583,
+      584,
+      585,
+      586,
+      587,
+      588,
+      589,
+      590,
+      591,
+      592,
+      593,
+      594,
+      595,
+      596,
+      597,
+      598,
+      599,
+      600,
+      601,
+      602,
+      603,
+      604,
+      605,
+      606,
+      607,
+      608,
+      609,
+      610
+    ]
+  },
+  {
+    "id": "53",
+    "n": "53",
+    "identifier": "op. 52",
+    "prefix": "op.",
+    "opus": "52",
+    "title": "Liebeslieder. Walzer",
+    "versions": [
+      "Fassung für Gesang und 1 Klavier zu 4 Händen",
+      "Fassung ohne Klavier",
+      "Fassung für Gesang und Klavier zu 2 Händen",
+      "Teilfassung für Gesang und Orchester"
+    ],
+    "positions": [
+      "Gesang",
+      "1 Klavier zu 4 Händen ad libitum"
+    ],
+    "components": [
+      "op. 52,1",
+      "op. 52,2",
+      "op. 52,3",
+      "op. 52,4",
+      "op. 52,5",
+      "op. 52,6",
+      "op. 52,7",
+      "op. 52,8",
+      "op. 52,9",
+      "op. 52,10",
+      "op. 52,11",
+      "op. 52,12",
+      "op. 52,13",
+      "op. 52,14",
+      "op. 52,15",
+      "op. 52,16",
+      "op. 52,17",
+      "op. 52,18"
+    ],
+    "events": [
+      611,
+      612,
+      613,
+      614,
+      615,
+      616,
+      617,
+      618,
+      619,
+      620,
+      621
+    ]
+  },
+  {
+    "id": "54",
+    "n": "54",
+    "identifier": "op. 52a",
+    "prefix": "op.",
+    "opus": "52a",
+    "title": "Liebeslieder. Walzer",
+    "versions": [],
+    "positions": [
+      "1 Klavier zu 4 Händen"
+    ],
+    "components": [
+      "op. 52a,1",
+      "op. 52a,2",
+      "op. 52a,3",
+      "op. 52a,4",
+      "op. 52a,5",
+      "op. 52a,6",
+      "op. 52a,7",
+      "op. 52a,8",
+      "op. 52a,9",
+      "op. 52a,10",
+      "op. 52a,11",
+      "op. 52a,12",
+      "op. 52a,13",
+      "op. 52a,14",
+      "op. 52a,15",
+      "op. 52a,16",
+      "op. 52a,17",
+      "op. 52a,18"
+    ]
+  },
+  {
+    "id": "55",
+    "n": "55",
+    "identifier": "op. 53",
+    "prefix": "op.",
+    "opus": "53",
+    "title": "Alt-Rhapsodie. Fragment aus Goethes Harzreise im Winter",
+    "versions": [
+      "Fassung mit Orchester",
+      "Klavierauszug"
+    ],
+    "positions": [
+      "Alt-Solo",
+      "Männerchor",
+      "Orchester"
+    ],
+    "components": [],
+    "events": [
+      622,
+      623,
+      624,
+      625,
+      626,
+      627,
+      628,
+      629,
+      630,
+      631,
+      632,
+      633,
+      634,
+      635,
+      636,
+      637
+    ]
+  },
+  {
+    "id": "56",
+    "n": "56",
+    "identifier": "op. 54",
+    "prefix": "op.",
+    "opus": "54",
+    "title": "Schicksalslied",
+    "versions": [
+      "Fassung mit Orchester",
+      "Klavierauszug von Hermann Levi, von Brahms überarbeitet"
+    ],
+    "positions": [
+      "Chor",
+      "Orchester"
+    ],
+    "components": [],
+    "events": [
+      638,
+      639,
+      640,
+      641,
+      642,
+      643,
+      644,
+      645,
+      646,
+      647,
+      648,
+      649,
+      650
+    ]
+  },
+  {
+    "id": "57",
+    "n": "57",
+    "identifier": "op. 55",
+    "prefix": "op.",
+    "opus": "55",
+    "title": "Triumphlied",
+    "versions": [
+      "Fassung mit Orchester",
+      "Klavierauszug",
+      "Arrangement für 1 Klavier zu 4 Händen"
+    ],
+    "positions": [
+      "Doppelchor",
+      "Orchester",
+      "Orgel ad libitum"
+    ],
+    "components": [
+      "op. 55, Nr.1",
+      "op. 55, Nr.2",
+      "op. 55, Nr.3"
+    ],
+    "events": [
+      651,
+      652,
+      653,
+      654,
+      655,
+      656,
+      657,
+      658,
+      659,
+      660,
+      661,
+      662
+    ]
+  },
+  {
+    "id": "58",
+    "n": "58",
+    "identifier": "op. 56a",
+    "prefix": "op.",
+    "opus": "56a",
+    "title": "Variationen für Orchester B-Dur über ein Thema von Joseph Haydn",
+    "versions": [],
+    "positions": [
+      "Orchester"
+    ],
+    "components": [],
+    "events": [
+      663,
+      664,
+      665,
+      666,
+      667,
+      668,
+      669,
+      670
+    ]
+  },
+  {
+    "id": "59",
+    "n": "59",
+    "identifier": "op. 56b",
+    "prefix": "op.",
+    "opus": "56b",
+    "title": "Variationen für 2 Klaviere B-Dur über ein Thema von Joseph Haydn",
+    "versions": [],
+    "positions": [
+      "2 Klaviere zu 4 Händen"
+    ],
+    "components": []
+  },
+  {
+    "id": "60",
+    "n": "60",
+    "identifier": "op. 57",
+    "prefix": "op.",
+    "opus": "57",
+    "title": "Acht Lieder und Gesänge",
+    "versions": [],
+    "positions": [
+      "1 Singstimme",
+      "Klavier"
+    ],
+    "components": [
+      "op. 57, Nr.1",
+      "op. 57, Nr.2",
+      "op. 57, Nr.3",
+      "op. 57, Nr.4",
+      "op. 57, Nr.5",
+      "op. 57, Nr.6",
+      "op. 57, Nr.7",
+      "op. 57, Nr.8"
+    ],
+    "events": [
+      671,
+      672,
+      673
+    ]
+  },
+  {
+    "id": "61",
+    "n": "61",
+    "identifier": "op. 58",
+    "prefix": "op.",
+    "opus": "58",
+    "title": "Acht Lieder und Gesänge",
+    "versions": [],
+    "positions": [
+      "1 Singstimme",
+      "Klavier"
+    ],
+    "components": [
+      "Blinde Kuh., op. 58,1",
+      "Während des Regens., op. 58,2",
+      "Die Spröde., op. 58,3",
+      "O komme, holde Sommernacht., op. 58,4",
+      "Schwermut., op. 58,5",
+      "In der Gasse., op. 58,6",
+      "Vorüber., op. 58,7",
+      "Serenade., op. 58,8"
+    ]
+  },
+  {
+    "id": "62",
+    "n": "62",
+    "identifier": "op. 59",
+    "prefix": "op.",
+    "opus": "59",
+    "title": "Acht Lieder und Gesänge",
+    "versions": [],
+    "positions": [
+      "1 Singstimme",
+      "Klavier"
+    ],
+    "components": [
+      "Dämmerung., op. 59, Nr.1",
+      "Auf dem See., op. 59, Nr.2",
+      "Regenlied., op. 59, Nr.3",
+      "Nachklang., op. 59, Nr.4",
+      "Agnes., op. 59, Nr.5",
+      "Eine gute, gute Nacht., op. 59, Nr.6",
+      "Mein wundes Herz., op. 59, Nr.7",
+      "Dein blaues Auge., op. 59, Nr.8"
+    ],
+    "events": [
+      674,
+      675,
+      676,
+      677,
+      678,
+      679,
+      680,
+      681,
+      682
+    ]
+  },
+  {
+    "id": "63",
+    "n": "63",
+    "identifier": "op. 60",
+    "prefix": "op.",
+    "opus": "60",
+    "title": "Klavierquartett Nr. 3 c-Moll",
+    "versions": [],
+    "positions": [
+      "Violine",
+      "Viola",
+      "Violoncello",
+      "Klavier"
+    ],
+    "components": [],
+    "events": [
+      683,
+      684,
+      685,
+      686,
+      687,
+      688,
+      689,
+      690,
+      691,
+      692,
+      693
+    ]
+  },
+  {
+    "id": "64",
+    "n": "64",
+    "identifier": "op. 61",
+    "prefix": "op.",
+    "opus": "61",
+    "title": "Vier Duette",
+    "versions": [],
+    "positions": [
+      "Sopran",
+      "Alt",
+      "Klavier"
+    ],
+    "components": [
+      "Die Schwestern., op. 61, Nr.1",
+      "Klosterfräulein., op. 61, Nr.2",
+      "Phänomen., op. 61, Nr.3",
+      "Die Boten der Liebe., op. 61, Nr.4"
+    ],
+    "events": [
+      694
+    ]
+  },
+  {
+    "id": "65",
+    "n": "65",
+    "identifier": "op. 62",
+    "prefix": "op.",
+    "opus": "62",
+    "title": "Sieben Lieder",
+    "versions": [
+      "Fassung für gemischten Chor",
+      "Nr. 6: Fassung für vierstimmigen Frauenchor",
+      "Nr. 7: Fassung für Sopran-Solo und Chor"
+    ],
+    "positions": [
+      "gemischter Chor"
+    ],
+    "components": [
+      "Rosmarin., op. 62, Nr.1",
+      "Von alten Liebesliedern., op. 62, Nr.2",
+      "Waldesnacht., op. 62, Nr.3",
+      "Dein Herzlein mild., op. 62, Nr.4",
+      "All meine Herzgedanken., op. 62, Nr.5",
+      "Es geht ein Wehen., op. 62, Nr.6",
+      "Vergangen ist mir Glück und Heil., op. 62, Nr.7"
+    ],
+    "events": [
+      695,
+      696,
+      697,
+      698,
+      699,
+      700,
+      701,
+      702,
+      703,
+      704,
+      705
+    ]
+  },
+  {
+    "id": "66",
+    "n": "66",
+    "identifier": "op. 63",
+    "prefix": "op.",
+    "opus": "63",
+    "title": "Neun Lieder und Gesänge",
+    "versions": [],
+    "positions": [
+      "1 Singstimme",
+      "Klavier"
+    ],
+    "components": [
+      "Frühlingstrost., op. 63, Nr.1",
+      "Erinnerung., op. 63, Nr.2",
+      "An ein Bild., op. 63, Nr.3",
+      "An die Tauben., op. 63, Nr.4",
+      "Junge Lieder I., op. 63, Nr.5",
+      "Junge Lieder II., op. 63, Nr.6",
+      "Heimweh I., op. 63, Nr.7",
+      "Heimweh II., op. 63, Nr.8",
+      "Heimweh III., op. 63, Nr.9"
+    ],
+    "events": [
+      706,
+      707,
+      708,
+      709,
+      710,
+      711,
+      712,
+      713,
+      714,
+      715,
+      716,
+      717,
+      718,
+      719,
+      720,
+      721,
+      722,
+      723,
+      724,
+      725,
+      726,
+      727,
+      728
+    ]
+  },
+  {
+    "id": "67",
+    "n": "67",
+    "identifier": "op. 64",
+    "prefix": "op.",
+    "opus": "64",
+    "title": "Drei Quartette",
+    "versions": [],
+    "positions": [
+      "Sopran",
+      "Alt",
+      "Tenor",
+      "Bass",
+      "Klavier"
+    ],
+    "components": [
+      "An die Heimat., op. 64, Nr.1",
+      "Der Abend., op. 64, Nr.2",
+      "Fragen., op. 64, Nr.3"
+    ],
+    "events": [
+      729,
+      730,
+      731,
+      732,
+      733,
+      734,
+      735,
+      736,
+      737,
+      738
+    ]
+  },
+  {
+    "id": "68",
+    "n": "68",
+    "identifier": "op. 65",
+    "prefix": "op.",
+    "opus": "65",
+    "title": "Neue Liebeslieder. Walzer",
+    "versions": [
+      "Fassung für Gesang und 1 Klavier zu 4 Händen",
+      "Nr. 4: Fassung für Gesang und Klavier zu 2 Händen",
+      "Nr. 9: Fassung für Gesang und Orchester"
+    ],
+    "positions": [
+      "4 Singstimmen",
+      "1 Klavier zu 4 Händen"
+    ],
+    "components": [
+      "op. 65, Nr.1",
+      "op. 65, Nr.2",
+      "op. 65, Nr.3",
+      "op. 65, Nr.4",
+      "op. 65, Nr.5",
+      "op. 65, Nr.6",
+      "op. 65, Nr.7",
+      "op. 65, Nr.8",
+      "op. 65, Nr.9",
+      "op. 65, Nr.10",
+      "op. 65, Nr.11",
+      "op. 65, Nr.12",
+      "op. 65, Nr.13",
+      "op. 65, Nr.14",
+      "Zum Schluss., op. 65, Nr.15"
+    ],
+    "events": [
+      739,
+      740
+    ]
+  },
+  {
+    "id": "69",
+    "n": "69",
+    "identifier": "op. 65a",
+    "prefix": "op.",
+    "opus": "65a",
+    "title": "Neue Liebeslieder. Walzer",
+    "versions": [],
+    "positions": [
+      "1 Klavier zu 4 Händen"
+    ],
+    "components": [
+      "op. 65a, Nr.1",
+      "op. 65a, Nr.2",
+      "op. 65a, Nr.3",
+      "op. 65a, Nr.4",
+      "op. 65a, Nr.5",
+      "op. 65a, Nr.6",
+      "op. 65a, Nr.7",
+      "op. 65a, Nr.8",
+      "op. 65a, Nr.9",
+      "op. 65a, Nr.10",
+      "op. 65a, Nr.11",
+      "op. 65a, Nr.12",
+      "op. 65a, Nr.13",
+      "op. 65a, Nr.14",
+      "Zum Schluss., op. 65a, Nr.15"
+    ]
+  },
+  {
+    "id": "70",
+    "n": "70",
+    "identifier": "op. 66",
+    "prefix": "op.",
+    "opus": "66",
+    "title": "Fünf Duette",
+    "versions": [],
+    "positions": [
+      "Sopran",
+      "Alt",
+      "Klavier"
+    ],
+    "components": [
+      "Klänge., op. 66,1",
+      "Klänge II., op. 66,2",
+      "Am Strande., op. 66,3",
+      "Jägerlied., op. 66,4",
+      "Hüt du dich!, op. 66,5"
+    ]
+  },
+  {
+    "id": "71",
+    "n": "71",
+    "identifier": "op. 67",
+    "prefix": "op.",
+    "opus": "67",
+    "title": "Streichquartett Nr. 3 B-Dur",
+    "versions": [
+      "Streicherfassung",
+      "Arrangement für 1 Klavier zu 4 Händen"
+    ],
+    "positions": [
+      "2 Violinen",
+      "Viola",
+      "Violoncello"
+    ],
+    "components": [],
+    "events": [
+      741,
+      742,
+      743,
+      744,
+      745,
+      746,
+      747,
+      748,
+      749,
+      750,
+      751,
+      752
+    ]
+  },
+  {
+    "id": "72",
+    "n": "72",
+    "identifier": "op. 68",
+    "prefix": "op.",
+    "opus": "68",
+    "title": "Symphonie Nr. 1 c-Moll",
+    "versions": [
+      "Orchesterfassung",
+      "Arrangement für 1 Klavier zu 4 Händen"
+    ],
+    "positions": [
+      "Orchester"
+    ],
+    "components": [],
+    "events": [
+      753,
+      754,
+      755,
+      756,
+      757,
+      758,
+      759,
+      760,
+      761,
+      762,
+      763,
+      764,
+      765,
+      766,
+      767,
+      768,
+      769
+    ]
+  },
+  {
+    "id": "73",
+    "n": "73",
+    "identifier": "op. 69",
+    "prefix": "op.",
+    "opus": "69",
+    "title": "Neun Lieder und Gesänge",
+    "versions": [],
+    "positions": [
+      "1 Singstimme",
+      "Klavier"
+    ],
+    "components": [
+      "Klage., op. 69, Nr.1",
+      "Klage II., op. 69, Nr.2",
+      "Abschied., op. 69, Nr.3",
+      "Des Liebsten Schwur., op. 69, Nr.4",
+      "Tambourliedchen., op. 69, Nr.5",
+      "Vom Strande., op. 69, Nr.6",
+      "Über die See., op. 69, Nr.7",
+      "Salome., op. 69, Nr.8",
+      "Mädchenfluch., op. 69, Nr.9"
+    ],
+    "events": [
+      770,
+      771,
+      772,
+      773,
+      774,
+      775,
+      776
+    ]
+  },
+  {
+    "id": "74",
+    "n": "74",
+    "identifier": "op. 70",
+    "prefix": "op.",
+    "opus": "70",
+    "title": "Vier Lieder und Gesänge",
+    "versions": [],
+    "positions": [
+      "1 Singstimme",
+      "Klavier"
+    ],
+    "components": [
+      "Im Garten am Seegestade., op. 70, Nr.1",
+      "Lerchengesang., op. 70, Nr.2",
+      "Serenade., op. 70, Nr.3",
+      "Abendregen., op. 70, Nr.4"
+    ],
+    "events": [
+      777,
+      778,
+      779,
+      780
+    ]
+  },
+  {
+    "id": "75",
+    "n": "75",
+    "identifier": "op. 71",
+    "prefix": "op.",
+    "opus": "71",
+    "title": "Fünf Lieder und Gesänge",
+    "versions": [],
+    "positions": [
+      "1 Singstimme",
+      "Klavier"
+    ],
+    "components": [
+      "Es liebt sich so lieblich im Lenze!, op. 71, Nr.1",
+      "An den Mond., op. 71, Nr.2",
+      "Geheimnis., op. 71, Nr.3",
+      "Willst du, dass ich geh?, op. 71, Nr.4",
+      "Minnelied., op. 71, Nr.5"
+    ],
+    "events": [
+      781,
+      782,
+      783,
+      784,
+      785,
+      786,
+      787,
+      788,
+      789,
+      790,
+      791,
+      792,
+      793,
+      794,
+      795,
+      796,
+      797,
+      798,
+      799
+    ]
+  },
+  {
+    "id": "76",
+    "n": "76",
+    "identifier": "op. 72",
+    "prefix": "op.",
+    "opus": "72",
+    "title": "Fünf Lieder und Gesänge",
+    "versions": [],
+    "positions": [
+      "1 Singstimme",
+      "Klavier"
+    ],
+    "components": [
+      "Alte Liebe., op. 72, Nr.1",
+      "Sommerfäden., op. 72, Nr.2",
+      "O kühler Wald., op. 72, Nr.3",
+      "Verzagen., op. 72, Nr.4",
+      "Unüberwindlich., op. 72, Nr.5"
+    ],
+    "events": [
+      800,
+      801,
+      802,
+      803,
+      804
+    ]
+  },
+  {
+    "id": "77",
+    "n": "77",
+    "identifier": "op. 73",
+    "prefix": "op.",
+    "opus": "73",
+    "title": "Symphonie Nr. 2 D-Dur",
+    "versions": [
+      "Orchesterfassung",
+      "Arrangement für 1 Klavier zu 4 Händen"
+    ],
+    "positions": [
+      "Orchester"
+    ],
+    "components": [],
+    "events": [
+      805,
+      806,
+      807,
+      808,
+      809,
+      810,
+      811,
+      812,
+      813,
+      814
+    ]
+  },
+  {
+    "id": "78",
+    "n": "78",
+    "identifier": "op. 74",
+    "prefix": "op.",
+    "opus": "74",
+    "title": "Zwei Motetten",
+    "versions": [],
+    "positions": [
+      "gemischter Chor"
+    ],
+    "components": [
+      "Warum ist das Licht gegeben dem Mühseligen., op. 74, Nr.1",
+      "O Heiland, reiß die Himmel auf., op. 74, Nr.2"
+    ],
+    "events": [
+      815,
+      816
+    ]
+  },
+  {
+    "id": "79",
+    "n": "79",
+    "identifier": "op. 75",
+    "prefix": "op.",
+    "opus": "75",
+    "title": "Balladen und Romanzen",
+    "versions": [],
+    "positions": [
+      "2 Singstimmen",
+      "Klavier"
+    ],
+    "components": [
+      "Edward., op. 75, Nr.1",
+      "Guter Rat., op. 75, Nr.2",
+      "So laß uns wandern!, op. 75, Nr.3",
+      "Walpurgisnacht., op. 75, Nr.4"
+    ],
+    "events": [
+      817,
+      818,
+      819
+    ]
+  },
+  {
+    "id": "80",
+    "n": "80",
+    "identifier": "op. 76",
+    "prefix": "op.",
+    "opus": "76",
+    "title": "Acht Klavierstücke",
+    "versions": [],
+    "positions": [
+      "Klavier"
+    ],
+    "components": [
+      "Capriccio., op. 76,1",
+      "Capriccio., op. 76,2",
+      "Intermezzo., op. 76,3",
+      "Intermezzo., op. 76,4",
+      "Capriccio., op. 76,5",
+      "Intermzzo., op. 76,6",
+      "Intermezzo., op. 76,7",
+      "Capriccio., op. 76,8"
+    ]
+  },
+  {
+    "id": "81",
+    "n": "81",
+    "identifier": "op. 77",
+    "prefix": "op.",
+    "opus": "77",
+    "title": "Violinkonzert D-Dur",
+    "versions": [
+      "Fassung mit Orchester",
+      "Klavierauszug"
+    ],
+    "positions": [
+      "Violine",
+      "Orchester"
+    ],
+    "components": [],
+    "events": [
+      820,
+      821,
+      822,
+      823,
+      824,
+      825,
+      826,
+      827,
+      828,
+      829,
+      830,
+      831,
+      832,
+      833,
+      834,
+      835,
+      836,
+      837,
+      838,
+      839,
+      840,
+      841,
+      842,
+      843,
+      844,
+      845,
+      846,
+      847,
+      848,
+      849,
+      850,
+      851,
+      852,
+      853
+    ]
+  },
+  {
+    "id": "82",
+    "n": "82",
+    "identifier": "op. 78",
+    "prefix": "op.",
+    "opus": "78",
+    "title": "Violinsonate Nr. 1 G-Dur",
+    "versions": [],
+    "positions": [
+      "Klavier",
+      "Violine"
+    ],
+    "components": [],
+    "events": [
+      854,
+      855,
+      856,
+      857,
+      858,
+      859,
+      860,
+      861,
+      862,
+      863,
+      864,
+      865,
+      866
+    ]
+  },
+  {
+    "id": "83",
+    "n": "83",
+    "identifier": "op. 79",
+    "prefix": "op.",
+    "opus": "79",
+    "title": "Zwei Rhapsodien für Klavier",
+    "versions": [],
+    "positions": [
+      "Klavier"
+    ],
+    "components": [
+      "op. 79, Nr.1",
+      "op. 79, Nr.2"
+    ],
+    "events": [
+      867,
+      868,
+      869,
+      870,
+      871,
+      872,
+      873,
+      874,
+      875,
+      876,
+      877,
+      878,
+      879,
+      880,
+      881,
+      882,
+      883,
+      884,
+      885,
+      886,
+      887,
+      888,
+      889,
+      890,
+      891,
+      892,
+      893
+    ]
+  },
+  {
+    "id": "84",
+    "n": "84",
+    "identifier": "op. 80",
+    "prefix": "op.",
+    "opus": "80",
+    "title": "Akademische Festouvertüre c-Moll",
+    "versions": [
+      "Orchesterfassung",
+      "Arrangement für 1 Klavier zu 4 Händen"
+    ],
+    "positions": [
+      "Orchester"
+    ],
+    "components": [],
+    "events": [
+      894,
+      895,
+      896,
+      897,
+      898,
+      899,
+      900,
+      901,
+      902,
+      903,
+      904,
+      905,
+      906,
+      907,
+      908,
+      909,
+      910,
+      911,
+      912,
+      913,
+      914,
+      915,
+      916,
+      917,
+      918,
+      919
+    ]
+  },
+  {
+    "id": "85",
+    "n": "85",
+    "identifier": "op. 81",
+    "prefix": "op.",
+    "opus": "81",
+    "title": "Tragische Ouvertüre d-Moll",
+    "versions": [
+      "Orchesterfassung",
+      "Arrangement für 1 Klavier zu 4 Händen"
+    ],
+    "positions": [
+      "Orchester"
+    ],
+    "components": [],
+    "events": [
+      920,
+      921,
+      922,
+      923,
+      924,
+      925,
+      926,
+      927
+    ]
+  },
+  {
+    "id": "86",
+    "n": "86",
+    "identifier": "op. 82",
+    "prefix": "op.",
+    "opus": "82",
+    "title": "Nänie (von Friedrich Schiller)",
+    "versions": [
+      "Fassung mit Orchester",
+      "Klavierauszug"
+    ],
+    "positions": [
+      "Chor",
+      "Orchester",
+      "Harfe ad libitum"
+    ],
+    "components": [],
+    "events": [
+      928,
+      929,
+      930,
+      931,
+      932,
+      933
+    ]
+  },
+  {
+    "id": "87",
+    "n": "87",
+    "identifier": "op. 83",
+    "prefix": "op.",
+    "opus": "83",
+    "title": "Klavierkonzert Nr. 2 B-Dur",
+    "versions": [
+      "Fassung als Solokonzert",
+      "Arrangement für 2 Klaviere (Klavierauszug)"
+    ],
+    "positions": [
+      "Klavier",
+      "Orchester"
+    ],
+    "components": [],
+    "events": [
+      934,
+      935,
+      936,
+      937,
+      938,
+      939,
+      940,
+      941,
+      942,
+      943,
+      944,
+      945,
+      946,
+      947,
+      948,
+      949,
+      950,
+      951,
+      952
+    ]
+  },
+  {
+    "id": "88",
+    "n": "88",
+    "identifier": "op. 84",
+    "prefix": "op.",
+    "opus": "84",
+    "title": "Fünf Romanzen und Lieder",
+    "versions": [],
+    "positions": [
+      "1 oder 2 Singstimmen",
+      "Klavier"
+    ],
+    "components": [
+      "Sommerabend., op. 84, Nr.1",
+      "Der Kranz., op. 84, Nr.2",
+      "In den Beeren., op. 84, Nr.3",
+      "Vergebliches Ständchen., op. 84, Nr.4",
+      "Spannung., op. 84, Nr.5"
+    ],
+    "events": [
+      953,
+      954,
+      955,
+      956,
+      957,
+      958,
+      959,
+      960,
+      961,
+      962,
+      963,
+      964,
+      965,
+      966,
+      967,
+      968,
+      969,
+      970,
+      971,
+      972,
+      973,
+      974,
+      975,
+      976,
+      977,
+      978,
+      979,
+      980,
+      981,
+      982
+    ]
+  },
+  {
+    "id": "89",
+    "n": "89",
+    "identifier": "op. 85",
+    "prefix": "op.",
+    "opus": "85",
+    "title": "Sechs Lieder",
+    "versions": [],
+    "positions": [
+      "1 Singstimme",
+      "Klavier"
+    ],
+    "components": [
+      "Sommerabend., op. 85,1",
+      "Mondenschein., op. 85,2",
+      "Mädchenlied., op. 85,3",
+      "Ade!, op. 85,4",
+      "Frühlingslied., op. 85,5",
+      "In Waldeseinsamkeit., op. 85,6"
+    ]
+  },
+  {
+    "id": "90",
+    "n": "90",
+    "identifier": "op. 86",
+    "prefix": "op.",
+    "opus": "86",
+    "title": "Sechs Lieder",
+    "versions": [],
+    "positions": [
+      "1 Singstimme (tiefere Stimme)",
+      "Klavier"
+    ],
+    "components": [
+      "Therese., op. 86, Nr.1",
+      "Feldeinsamkeit., op. 86, Nr.2",
+      "Nachtwandler., op. 86, Nr.3",
+      "Über die Heide., op. 86, Nr.4",
+      "Versunken., op. 86, Nr.5",
+      "Todessehnen., op. 86, Nr.6"
+    ],
+    "events": [
+      983,
+      984,
+      985,
+      986,
+      987,
+      988,
+      989,
+      990,
+      991,
+      992,
+      993,
+      994,
+      995,
+      996,
+      997,
+      998,
+      999,
+      1000,
+      1001,
+      1002,
+      1003,
+      1004,
+      1005,
+      1006,
+      1007,
+      1008,
+      1009
+    ]
+  },
+  {
+    "id": "91",
+    "n": "91",
+    "identifier": "op. 87",
+    "prefix": "op.",
+    "opus": "87",
+    "title": "Klaviertrio Nr. 2 C-Dur",
+    "versions": [],
+    "positions": [
+      "Violine",
+      "Violoncello",
+      "Klavier"
+    ],
+    "components": [],
+    "events": [
+      1010,
+      1011,
+      1012,
+      1013,
+      1014,
+      1015,
+      1016,
+      1017,
+      1018
+    ]
+  },
+  {
+    "id": "92",
+    "n": "92",
+    "identifier": "op. 88",
+    "prefix": "op.",
+    "opus": "88",
+    "title": "Streichquintett Nr. 1 F-Dur",
+    "versions": [
+      "Streicherfassung",
+      "Arrangement für 1 Klavier zu 4 Händen"
+    ],
+    "positions": [
+      "2 Violinen",
+      "2 Violen",
+      "Violoncello"
+    ],
+    "components": [],
+    "events": [
+      1019,
+      1020,
+      1021,
+      1022,
+      1023,
+      1024,
+      1025,
+      1026,
+      1027,
+      1028,
+      1029
+    ]
+  },
+  {
+    "id": "93",
+    "n": "93",
+    "identifier": "op. 89",
+    "prefix": "op.",
+    "opus": "89",
+    "title": "Gesang der Parzen (von Goethe)",
+    "versions": [
+      "Fassung mit Orchester",
+      "Klavierauszug"
+    ],
+    "positions": [
+      "sechstimmiger Chor",
+      "Orchester"
+    ],
+    "components": [],
+    "events": [
+      1030,
+      1031,
+      1032
+    ]
+  },
+  {
+    "id": "94",
+    "n": "94",
+    "identifier": "op. 90",
+    "prefix": "op.",
+    "opus": "90",
+    "title": "Symphonie Nr. 3 F-Dur",
+    "versions": [
+      "Orchesterfassung",
+      "Arrangement für 2 Klaviere zu 4 Händen",
+      "Arrangement für 1 Klavier zu 4 Händen von Robert Keller, von Brahms umgearbeitet"
+    ],
+    "positions": [
+      "Orchester"
+    ],
+    "components": [],
+    "events": [
+      1033,
+      1034,
+      1035,
+      1036,
+      1037,
+      1038,
+      1039,
+      1040,
+      1041,
+      1042,
+      1043,
+      1044,
+      1045,
+      1046,
+      1047,
+      1048,
+      1049,
+      1050,
+      1051,
+      1052
+    ]
+  },
+  {
+    "id": "95",
+    "n": "95",
+    "identifier": "op. 91",
+    "prefix": "op.",
+    "opus": "91",
+    "title": "Zwei Gesänge",
+    "versions": [],
+    "positions": [
+      "Altstimme",
+      "Viola",
+      "Klavier"
+    ],
+    "components": [
+      "Gestillte Sehnsucht., op. 91, Nr.1",
+      "Geistliches Wiegenlied., op. 91, Nr.2"
+    ],
+    "events": [
+      1053,
+      1054,
+      1055,
+      1056,
+      1057,
+      1058
+    ]
+  },
+  {
+    "id": "96",
+    "n": "96",
+    "identifier": "op. 92",
+    "prefix": "op.",
+    "opus": "92",
+    "title": "Vier Quartette",
+    "versions": [],
+    "positions": [
+      "Sopran",
+      "Alt",
+      "Tenor",
+      "Bass",
+      "Klavier"
+    ],
+    "components": [
+      "O schöne Nacht., op. 92, Nr.1",
+      "Spätherbst., op. 92, Nr.2",
+      "Abendlied., op. 92, Nr.3",
+      "Warum?, op. 92, Nr.4"
+    ],
+    "events": [
+      1059
+    ]
+  },
+  {
+    "id": "97",
+    "n": "97",
+    "identifier": "op. 93a",
+    "prefix": "op.",
+    "opus": "93a",
+    "title": "Sechs Lieder und Romanzen",
+    "versions": [],
+    "positions": [
+      "gemischter Chor"
+    ],
+    "components": [
+      "Der bucklichte Fiedler., op. 93a, Nr.1",
+      "Das Mädchen., op. 93a, Nr.2",
+      "O süßer Mai., op. 93a, Nr.3",
+      "Fahr wohl!, op. 93a, Nr.4",
+      "Der Falke., op. 93a, Nr.5",
+      "Beherzigung., op. 93a, Nr.6"
+    ],
+    "events": [
+      1060,
+      1061,
+      1062,
+      1063,
+      1064,
+      1065,
+      1066,
+      1067,
+      1068,
+      1069
+    ]
+  },
+  {
+    "id": "98",
+    "n": "98",
+    "identifier": "op. 93b",
+    "prefix": "op.",
+    "opus": "93b",
+    "title": "Tafellied. Dank der Damen",
+    "versions": [],
+    "positions": [
+      "gemischter Chor",
+      "Klavier"
+    ],
+    "components": []
+  },
+  {
+    "id": "99",
+    "n": "99",
+    "identifier": "op. 94",
+    "prefix": "op.",
+    "opus": "94",
+    "title": "Fünf Lieder",
+    "versions": [],
+    "positions": [
+      "1 Singstimme (tiefe Stimme)",
+      "Klavier"
+    ],
+    "components": [
+      "Mit vierzig Jahren., op. 94, Nr.1",
+      "Steig auf, geliebter Schatten., op. 94, Nr.2",
+      "Mein Herz ist schwer., op. 94, Nr.3",
+      "Sapphische Ode., op. 94, Nr.4",
+      "Kein Haus, keine Heimat., op. 94, Nr.5"
+    ],
+    "events": [
+      1070,
+      1071,
+      1072,
+      1073,
+      1074,
+      1075,
+      1076,
+      1077,
+      1078,
+      1079,
+      1080,
+      1081,
+      1082,
+      1083,
+      1084,
+      1085,
+      1086,
+      1087,
+      1088,
+      1089,
+      1090,
+      1091,
+      1092
+    ]
+  },
+  {
+    "id": "100",
+    "n": "100",
+    "identifier": "op. 95",
+    "prefix": "op.",
+    "opus": "95",
+    "title": "Sieben Lieder",
+    "versions": [],
+    "positions": [
+      "1 Singstimme",
+      "Klavier"
+    ],
+    "components": [
+      "Das Mädchen., op. 95,1",
+      "Bei dir sind meine Gedanken., op. 95,2",
+      "Beim Abschied., op. 95,3",
+      "Der Jäger., op. 95,4",
+      "Vorschneller Schwur., op. 95,5",
+      "Mädchenlied., op. 95,6",
+      "Schön war, das ich dir weihte., op. 95,7"
+    ]
+  },
+  {
+    "id": "101",
+    "n": "101",
+    "identifier": "op. 96",
+    "prefix": "op.",
+    "opus": "96",
+    "title": "Vier Lieder",
+    "versions": [],
+    "positions": [
+      "1 Singstimme",
+      "Klavier"
+    ],
+    "components": [
+      "Der Tod, das ist die kühle Nacht., op. 96, Nr.1",
+      "Wir wandelten., op. 96, Nr.2",
+      "Es schauen die Blumen., op. 96, Nr.3",
+      "Meerfahrt., op. 96, Nr.4"
+    ],
+    "events": [
+      1093,
+      1094,
+      1095,
+      1096,
+      1097,
+      1098,
+      1099,
+      1100,
+      1101,
+      1102
+    ]
+  },
+  {
+    "id": "102",
+    "n": "102",
+    "identifier": "op. 97",
+    "prefix": "op.",
+    "opus": "97",
+    "title": "Sechs Lieder",
+    "versions": [],
+    "positions": [
+      "1 Singstimme",
+      "Klavier"
+    ],
+    "components": [
+      "Nachtigall., op. 97, Nr.1",
+      "Auf dem Schiffe., op. 97, Nr.2",
+      "Entführung., op. 97, Nr.3",
+      "Dort in den Weiden., op. 97, Nr.4",
+      "Komm bald., op. 97, Nr.5",
+      "Trennung., op. 97, Nr.6"
+    ],
+    "events": [
+      1103,
+      1104,
+      1105,
+      1106,
+      1107,
+      1108,
+      1109,
+      1110,
+      1111,
+      1112,
+      1113,
+      1114,
+      1115,
+      1116,
+      1117,
+      1118,
+      1119,
+      1120
+    ]
+  },
+  {
+    "id": "103",
+    "n": "103",
+    "identifier": "op. 98",
+    "prefix": "op.",
+    "opus": "98",
+    "title": "Symphonie Nr. 4 e-Moll",
+    "versions": [
+      "Orchesterfassung",
+      "Arrangement für 2 Klaviere zu 4 Händen",
+      "Arrangement für 1 Klavier zu 4 Händen"
+    ],
+    "positions": [
+      "Orchester"
+    ],
+    "components": [],
+    "events": [
+      1121,
+      1122,
+      1123,
+      1124,
+      1125,
+      1126,
+      1127,
+      1128,
+      1129,
+      1130,
+      1131,
+      1132,
+      1133,
+      1134
+    ]
+  },
+  {
+    "id": "104",
+    "n": "104",
+    "identifier": "op. 99",
+    "prefix": "op.",
+    "opus": "99",
+    "title": "Violoncellosonate Nr. 2 F-Dur",
+    "versions": [],
+    "positions": [
+      "Klavier",
+      "Violoncello"
+    ],
+    "components": [],
+    "events": [
+      1135,
+      1136,
+      1137,
+      1138,
+      1139
+    ]
+  },
+  {
+    "id": "105",
+    "n": "105",
+    "identifier": "op. 100",
+    "prefix": "op.",
+    "opus": "100",
+    "title": "Violinsonate Nr. 2 A-Dur",
+    "versions": [],
+    "positions": [
+      "Klavier",
+      "Violine"
+    ],
+    "components": [],
+    "events": [
+      1140,
+      1141,
+      1142,
+      1143,
+      1144,
+      1145,
+      1146,
+      1147,
+      1148,
+      1149,
+      1150,
+      1151
+    ]
+  },
+  {
+    "id": "106",
+    "n": "106",
+    "identifier": "op. 101",
+    "prefix": "op.",
+    "opus": "101",
+    "title": "Klaviertrio Nr. 3 c-Moll",
+    "versions": [],
+    "positions": [
+      "Violine",
+      "Violoncello",
+      "Klavier"
+    ],
+    "components": [],
+    "events": [
+      1152,
+      1153,
+      1154,
+      1155,
+      1156,
+      1157,
+      1158,
+      1159,
+      1160,
+      1161,
+      1162
+    ]
+  },
+  {
+    "id": "107",
+    "n": "107",
+    "identifier": "op. 102",
+    "prefix": "op.",
+    "opus": "102",
+    "title": "Doppelkonzert a-Moll",
+    "versions": [
+      "Fassung mit Orchester",
+      "Klavierauszug"
+    ],
+    "positions": [
+      "Violine",
+      "Violoncello",
+      "Orchester"
+    ],
+    "components": [],
+    "events": [
+      1163,
+      1164,
+      1165,
+      1166,
+      1167,
+      1168,
+      1169
+    ]
+  },
+  {
+    "id": "108",
+    "n": "108",
+    "identifier": "op. 103",
+    "prefix": "op.",
+    "opus": "103",
+    "title": "Zigeunerlieder",
+    "versions": [
+      "Fassung für 4 Singstimmen, Klavier",
+      "Nr. 1−7, 11: Fassung für 1 Singstimme und Klavier"
+    ],
+    "positions": [
+      "4 Singstimmen",
+      "Klavier"
+    ],
+    "components": [
+      "op. 103, Nr.1",
+      "op. 103, Nr.2",
+      "op. 103, Nr.3",
+      "op. 103, Nr.4",
+      "op. 103, Nr.5",
+      "op. 103, Nr.6",
+      "op. 103, Nr.7",
+      "op. 103, Nr.8",
+      "op. 103, Nr.9",
+      "op. 103, Nr.10",
+      "op. 103, Nr.11"
+    ],
+    "events": [
+      1170,
+      1171,
+      1172,
+      1173,
+      1174,
+      1175,
+      1176,
+      1177,
+      1178,
+      1179,
+      1180,
+      1181
+    ]
+  },
+  {
+    "id": "109",
+    "n": "109",
+    "identifier": "op. 104",
+    "prefix": "op.",
+    "opus": "104",
+    "title": "Fünf Gesänge",
+    "versions": [
+      "Chorfassung",
+      "Nr. 5: erste Fassung in a-Moll"
+    ],
+    "positions": [
+      "gemischter Chor"
+    ],
+    "components": [
+      "Nachtwache I., op. 104, Nr.1",
+      "Nachtwache II., op. 104, Nr.2",
+      "Letztes Glück., op. 104, Nr.3",
+      "Verlorene Jugend., op. 104, Nr.4",
+      "Im Herbst., op. 104, Nr.5"
+    ],
+    "events": [
+      1182,
+      1183,
+      1184
+    ]
+  },
+  {
+    "id": "110",
+    "n": "110",
+    "identifier": "op. 105",
+    "prefix": "op.",
+    "opus": "105",
+    "title": "Fünf Lieder",
+    "versions": [],
+    "positions": [
+      "1 Singstimme (tiefere Stimme)",
+      "Klavier"
+    ],
+    "components": [
+      "Wie Melodien zieht es mir., op. 105, Nr.1",
+      "Immer leiser wird mein Schlummer., op. 105, Nr.2",
+      "Klage., op. 105, Nr.3",
+      "Auf dem Kirchhofe., op. 105, Nr.4",
+      "Verrat., op. 105, Nr.5"
+    ],
+    "events": [
+      1185,
+      1186,
+      1187,
+      1188,
+      1189,
+      1190,
+      1191,
+      1192,
+      1193,
+      1194,
+      1195,
+      1196,
+      1197,
+      1198,
+      1199,
+      1200,
+      1201,
+      1202,
+      1203,
+      1204,
+      1205,
+      1206,
+      1207,
+      1208,
+      1209,
+      1210,
+      1211
+    ]
+  },
+  {
+    "id": "111",
+    "n": "111",
+    "identifier": "op. 106",
+    "prefix": "op.",
+    "opus": "106",
+    "title": "Fünf Lieder",
+    "versions": [],
+    "positions": [
+      "1 Singstimme",
+      "Klavier"
+    ],
+    "components": [
+      "Ständchen., op. 106, Nr.1",
+      "Auf dem See., op. 106, Nr.2",
+      "Es hing der Reif., op. 106, Nr.3",
+      "Meine Lieder., op. 106, Nr.4",
+      "Ein Wanderer., op. 106, Nr.5"
+    ],
+    "events": [
+      1212,
+      1213,
+      1214,
+      1215,
+      1216,
+      1217,
+      1218,
+      1219,
+      1220,
+      1221,
+      1222,
+      1223,
+      1224,
+      1225,
+      1226,
+      1227,
+      1228,
+      1229,
+      1230,
+      1231,
+      1232,
+      1233,
+      1234,
+      1235
+    ]
+  },
+  {
+    "id": "112",
+    "n": "112",
+    "identifier": "op. 107",
+    "prefix": "op.",
+    "opus": "107",
+    "title": "Fünf Lieder",
+    "versions": [],
+    "positions": [
+      "1 Singstimme",
+      "Klavier"
+    ],
+    "components": [
+      "An die Stolze., op. 107, Nr.1",
+      "Salamander., op. 107, Nr.2",
+      "Das Mädchen spricht., op. 107, Nr.3",
+      "Maienkätzchen., op. 107, Nr.4",
+      "Mädchenlied., op. 107, Nr.5"
+    ],
+    "events": [
+      1236,
+      1237,
+      1238,
+      1239,
+      1240,
+      1241,
+      1242,
+      1243,
+      1244,
+      1245
+    ]
+  },
+  {
+    "id": "113",
+    "n": "113",
+    "identifier": "op. 108",
+    "prefix": "op.",
+    "opus": "108",
+    "title": "Violinsonate Nr. 3 d-Moll",
+    "versions": [],
+    "positions": [
+      "Klavier",
+      "Violine"
+    ],
+    "components": [],
+    "events": [
+      1246,
+      1247,
+      1248,
+      1249,
+      1250,
+      1251,
+      1252,
+      1253,
+      1254
+    ]
+  },
+  {
+    "id": "114",
+    "n": "114",
+    "identifier": "op. 109",
+    "prefix": "op.",
+    "opus": "109",
+    "title": "Fest- und Gedenksprüche",
+    "versions": [],
+    "positions": [
+      "achtstimmiger Chor"
+    ],
+    "components": [
+      "op. 109,1",
+      "op. 109,2",
+      "op. 109,3"
+    ]
+  },
+  {
+    "id": "115",
+    "n": "115",
+    "identifier": "op. 110",
+    "prefix": "op.",
+    "opus": "110",
+    "title": "Drei Motetten",
+    "versions": [],
+    "positions": [
+      "vier-",
+      "achtstimmiger Chor a cappella"
+    ],
+    "components": [
+      "Ich aber bin elend., op. 110,1",
+      "Ach, arme Welt., op. 110,2",
+      "Wenn wir in höchsten Nöten sein., op. 110,3"
+    ]
+  },
+  {
+    "id": "116",
+    "n": "116",
+    "identifier": "op. 111",
+    "prefix": "op.",
+    "opus": "111",
+    "title": "Streichquintett Nr. 2 G-Dur",
+    "versions": [
+      "Streicherfassung",
+      "Arrangement für 1 Klavier zu 4 Händen"
+    ],
+    "positions": [
+      "2 Violinen",
+      "2 Violen",
+      "Violoncello"
+    ],
+    "components": [],
+    "events": [
+      1255,
+      1256,
+      1257,
+      1258,
+      1259,
+      1260,
+      1261,
+      1262,
+      1263,
+      1264,
+      1265
+    ]
+  },
+  {
+    "id": "117",
+    "n": "117",
+    "identifier": "op. 112",
+    "prefix": "op.",
+    "opus": "112",
+    "title": "Sechs Quartette",
+    "versions": [],
+    "positions": [
+      "Sopran",
+      "Alt",
+      "Tenor",
+      "Bass",
+      "Klavier"
+    ],
+    "components": [
+      "Sehnsucht., op. 112, Nr.1",
+      "Nächtens., op. 112, Nr.2",
+      "Vier Zigeunerlieder Nr. 1., op. 112, Nr.3",
+      "Vier Zigeunerlieder Nr. 2., op. 112, Nr.4",
+      "Vier Zigeunerlieder Nr. 3., op. 112, Nr.5",
+      "Vier Zigeunerlieder Nr. 4., op. 112, Nr.6"
+    ],
+    "events": [
+      1266
+    ]
+  },
+  {
+    "id": "118",
+    "n": "118",
+    "identifier": "op. 113",
+    "prefix": "op.",
+    "opus": "113",
+    "title": "13 Kanons",
+    "versions": [],
+    "positions": [
+      "Frauenstimmen"
+    ],
+    "components": [
+      "op. 113,1",
+      "op. 113,2",
+      "op. 113,3",
+      "op. 113,4",
+      "op. 113,5",
+      "op. 113,6",
+      "op. 113,7",
+      "op. 113,8",
+      "op. 113,9",
+      "Verzweiflung., op. 113,10",
+      "op. 113,11",
+      "Verzweiflung., op. 113,12",
+      "op. 113,13"
+    ]
+  },
+  {
+    "id": "119",
+    "n": "119",
+    "identifier": "op. 114",
+    "prefix": "op.",
+    "opus": "114",
+    "title": "Klarinettentrio a-Moll",
+    "versions": [
+      "Fassung mit Klarinette",
+      "Fassung mit Viola (statt Klarinette)"
+    ],
+    "positions": [
+      "Klarinette",
+      "Violoncello",
+      "Klavier"
+    ],
+    "components": [],
+    "events": [
+      1267,
+      1268,
+      1269,
+      1270,
+      1271,
+      1272,
+      1273
+    ]
+  },
+  {
+    "id": "120",
+    "n": "120",
+    "identifier": "op. 115",
+    "prefix": "op.",
+    "opus": "115",
+    "title": "Klarinettenquintett h-Moll",
+    "versions": [
+      "Fassung mit Klarinette",
+      "Fassung mit Viola (statt Klarinette)",
+      "Bearbeitung für Klavier"
+    ],
+    "positions": [
+      "Klarinette",
+      "2 Violinen",
+      "Viola",
+      "Violoncello"
+    ],
+    "components": [],
+    "events": [
+      1274,
+      1275,
+      1276,
+      1277,
+      1278,
+      1279,
+      1280,
+      1281,
+      1282,
+      1283,
+      1284,
+      1285,
+      1286,
+      1287,
+      1288,
+      1289,
+      1290,
+      1291,
+      1292,
+      1293,
+      1294
+    ]
+  },
+  {
+    "id": "121",
+    "n": "121",
+    "identifier": "op. 116",
+    "prefix": "op.",
+    "opus": "116",
+    "title": "Sieben Fantasien",
+    "versions": [],
+    "positions": [
+      "Klavier"
+    ],
+    "components": [
+      "Capriccio., op. 116, Nr.1",
+      "Intermezzo., op. 116, Nr.2",
+      "Capriccio., op. 116, Nr.3",
+      "Intermezzo., op. 116, Nr.4",
+      "Intermezzo., op. 116, Nr.5",
+      "Intermezzo., op. 116, Nr.6",
+      "Capriccio., op. 116, Nr.7"
+    ],
+    "events": [
+      1295,
+      1296,
+      1297,
+      1298,
+      1299,
+      1300,
+      1301,
+      1302,
+      1303
+    ]
+  },
+  {
+    "id": "122",
+    "n": "122",
+    "identifier": "op. 117",
+    "prefix": "op.",
+    "opus": "117",
+    "title": "Drei Intermezzi",
+    "versions": [],
+    "positions": [
+      "Klavier"
+    ],
+    "components": [
+      "op. 117, Nr.1",
+      "op. 117, Nr.2",
+      "op. 117, Nr.3"
+    ],
+    "events": [
+      1304,
+      1305,
+      1306,
+      1307,
+      1308,
+      1309,
+      1310,
+      1311,
+      1312
+    ]
+  },
+  {
+    "id": "123",
+    "n": "123",
+    "identifier": "op. 118",
+    "prefix": "op.",
+    "opus": "118",
+    "title": "Sechs Klavierstücke",
+    "versions": [],
+    "positions": [
+      "Klavier"
+    ],
+    "components": [
+      "Intermezzo., op. 118, Nr.1",
+      "Intermezzo., op. 118, Nr.2",
+      "Ballade., op. 118, Nr.3",
+      "Intermezzo., op. 118, Nr.4",
+      "Romanze., op. 118, Nr.5",
+      "Intermezzo., op. 118, Nr.6"
+    ],
+    "events": [
+      1313,
+      1314,
+      1315,
+      1316,
+      1317,
+      1318,
+      1319,
+      1320,
+      1321,
+      1322,
+      1323,
+      1324
+    ]
+  },
+  {
+    "id": "124",
+    "n": "124",
+    "identifier": "op. 119",
+    "prefix": "op.",
+    "opus": "119",
+    "title": "Vier Klavierstücke",
+    "versions": [],
+    "positions": [
+      "Klavier"
+    ],
+    "components": [
+      "Intermezzo., op. 119,1",
+      "Intermezzo., op. 119,2",
+      "Intermezzo., op. 119,3",
+      "Rhapsodie., op. 119,4"
+    ]
+  },
+  {
+    "id": "125",
+    "n": "125",
+    "identifier": "op. 120",
+    "prefix": "op.",
+    "opus": "120",
+    "title": "Zwei Klarinettensonaten",
+    "versions": [
+      "Fassung mit Klarinette",
+      "Fassung mit Viola (statt Klarinette)",
+      "Fassung mit Violine (statt Klarinette)"
+    ],
+    "positions": [
+      "Klarinette",
+      "Klavier"
+    ],
+    "components": [
+      "op. 120, Nr.1",
+      "op. 120, Nr.2"
+    ],
+    "events": [
+      1325,
+      1326,
+      1327,
+      1328,
+      1329,
+      1330,
+      1331,
+      1332,
+      1333,
+      1334
+    ]
+  },
+  {
+    "id": "126",
+    "n": "126",
+    "identifier": "op. 121",
+    "prefix": "op.",
+    "opus": "121",
+    "title": "Vier Ernste Gesänge",
+    "versions": [],
+    "positions": [
+      "Bassstimme",
+      "Klavier"
+    ],
+    "components": [
+      "(Prediger Salomo 3.), op. 121,1",
+      "(Prediger Salomo 4.), op. 121,2",
+      "(Jesus Sirach 41.), op. 121,3",
+      "(1 Korinther 13.), op. 121,4"
+    ]
+  },
+  {
+    "id": "127",
+    "n": "127",
+    "identifier": "op. posth. 122",
+    "prefix": "op.",
+    "opus": "posth. 122",
+    "title": "Elf Choralvorspiele",
+    "versions": [],
+    "positions": [
+      "Orgel"
+    ],
+    "components": [
+      "Mein Jesu, der du mich., op. 122,1",
+      "Herzliebster Jesu., op. 122,2",
+      "O Welt, ich muß dich lassen., op. 122,3",
+      "Herzlich tut mich erfreuen., op. 122,4",
+      "Schmücke dich, o liebe Seele., op. 122,5",
+      "O wie selig seid ihr doch, ihr Frommen., op. 122,6",
+      "O Gott, du frommer Gott., op. 122,7",
+      "Es ist ein Ros entsprungen., op. 122,8",
+      "Herzlich tut mich verlangen., op. 122,9",
+      "Herzlich tut mich verlangen., op. 122,10",
+      "O Welt, ich muß dich lassen., op. 122,11"
+    ]
+  },
+  {
+    "id": "128",
+    "n": "128",
+    "identifier": "WoO 1",
+    "prefix": "WoO",
+    "opus": "1",
+    "title": "Ungarische Tänze",
+    "versions": [
+      "Nr. 1-21: Fassung für 1 Klavier zu 4 Händen",
+      "Nr. 1−10: Fassung für Klavier zu 2 Händen",
+      "Nr. 1, 3 und 10: Fassung für Orchester"
+    ],
+    "positions": [
+      "[diverse Fassungen, siehe Expressions]"
+    ],
+    "components": [
+      "WoO 1,1",
+      "WoO 1,2",
+      "WoO 1,3",
+      "WoO 1,4",
+      "WoO 1,5",
+      "WoO 1,6",
+      "WoO 1,7",
+      "WoO 1,8",
+      "WoO 1,9",
+      "WoO 1,10",
+      "WoO 1,11",
+      "WoO 1,12",
+      "WoO 1,13",
+      "WoO 1,14",
+      "WoO 1,15",
+      "WoO 1,16",
+      "WoO 1,17",
+      "WoO 1,18",
+      "WoO 1,19",
+      "WoO 1,20",
+      "WoO 1,21"
+    ]
+  },
+  {
+    "id": "129",
+    "n": "129",
+    "identifier": "WoO posth. 2",
+    "prefix": "WoO",
+    "opus": "posth. 2",
+    "title": "Scherzosatz",
+    "versions": [],
+    "positions": [
+      "Klavier",
+      "Violine"
+    ],
+    "components": []
+  },
+  {
+    "id": "130",
+    "n": "130",
+    "identifier": "WoO posth. 3",
+    "prefix": "WoO",
+    "opus": "posth. 3",
+    "title": "Zwei Gavotten",
+    "versions": [],
+    "positions": [
+      "Klavier"
+    ],
+    "components": [
+      "WoO posth. 3,1",
+      "WoO posth. 3,2"
+    ]
+  },
+  {
+    "id": "131",
+    "n": "131",
+    "identifier": "WoO posth. 4",
+    "prefix": "WoO",
+    "opus": "posth. 4",
+    "title": "Zwei Giguen",
+    "versions": [],
+    "positions": [
+      "Klavier"
+    ],
+    "components": [
+      "WoO posth. 4,1",
+      "WoO posth. 4,2"
+    ]
+  },
+  {
+    "id": "132",
+    "n": "132",
+    "identifier": "WoO posth. 5",
+    "prefix": "WoO",
+    "opus": "posth. 5",
+    "title": "Zwei Sarabanden",
+    "versions": [],
+    "positions": [
+      "Klavier"
+    ],
+    "components": [
+      "WoO posth. 5,1",
+      "WoO posth. 5,2"
+    ]
+  },
+  {
+    "id": "133",
+    "n": "133",
+    "identifier": "WoO 6",
+    "prefix": "WoO",
+    "opus": "6",
+    "title": "51 Übungen",
+    "versions": [],
+    "positions": [
+      "Klavier"
+    ],
+    "components": [
+      "WoO 6, Nr.1a",
+      "WoO 6, Nr.1b",
+      "WoO 6, Nr.1c",
+      "WoO 6, Nr.1d",
+      "WoO 6, Nr.1e",
+      "WoO 6, Nr.1f",
+      "WoO 6, Nr.2a",
+      "WoO 6, Nr.2b",
+      "WoO 6, Nr.3",
+      "WoO 6, Nr.4",
+      "WoO 6, Nr.5",
+      "WoO 6, Nr.5a",
+      "WoO 6, Nr.6",
+      "WoO 6, Nr.6a",
+      "WoO 6, Nr.7",
+      "WoO 6, Nr.7a",
+      "WoO 6, Nr.7b",
+      "WoO 6, Nr.8a",
+      "WoO 6, Nr.8b",
+      "WoO 6, Nr.9a",
+      "WoO 6, Nr.9b",
+      "WoO 6, Nr.10",
+      "WoO 6, Nr.11a",
+      "WoO 6, Nr.11b",
+      "WoO 6, Nr.12",
+      "WoO 6, Nr.13",
+      "WoO 6, Nr.14",
+      "WoO 6, Nr.15",
+      "WoO 6, Nr.16a",
+      "WoO 6, Nr.16b",
+      "WoO 6, Nr.16c",
+      "WoO 6, Nr.17",
+      "WoO 6, Nr.18a",
+      "WoO 6, Nr.18b",
+      "WoO 6, Nr.19",
+      "WoO 6, Nr.20",
+      "WoO 6, Nr.21a",
+      "WoO 6, Nr.21b",
+      "WoO 6, Nr.22",
+      "WoO 6, Nr.23a",
+      "WoO 6, Nr.23b",
+      "WoO 6, Nr.23c",
+      "WoO 6, Nr.24a",
+      "WoO 6, Nr.24b",
+      "WoO 6, Nr.25a",
+      "WoO 6, Nr.25b",
+      "WoO 6, Nr.25c",
+      "WoO 6, Nr.26a",
+      "WoO 6, Nr.26b",
+      "WoO 6, Nr.26c",
+      "WoO 6, Nr.27",
+      "WoO 6, Nr.28",
+      "WoO 6, Nr.29",
+      "WoO 6, Nr.30",
+      "WoO 6, Nr.31a",
+      "WoO 6, Nr.31b",
+      "WoO 6, Nr.32a",
+      "WoO 6, Nr.32b",
+      "WoO 6, Nr.33a",
+      "WoO 6, Nr.33b",
+      "WoO 6, Nr.34a",
+      "WoO 6, Nr.34b",
+      "WoO 6, Nr.34c",
+      "WoO 6, Nr.35",
+      "WoO 6, Nr.36",
+      "WoO 6, Nr.37a",
+      "WoO 6, Nr.37b",
+      "WoO 6, Nr.38",
+      "WoO 6, Nr.39",
+      "WoO 6, Nr.40a",
+      "WoO 6, Nr.40b",
+      "WoO 6, Nr.41a",
+      "WoO 6, Nr.41b",
+      "WoO 6, Nr.42a",
+      "WoO 6, Nr.42b",
+      "WoO 6, Nr.43a",
+      "WoO 6, Nr.43b",
+      "WoO 6, Nr.44a",
+      "WoO 6, Nr.44b",
+      "WoO 6, Nr.45",
+      "WoO 6, Nr.46a",
+      "WoO 6, Nr.46b",
+      "WoO 6, Nr.47",
+      "WoO 6, Nr.48",
+      "WoO 6, Nr.49a",
+      "WoO 6, Nr.49b",
+      "WoO 6, Nr.50",
+      "WoO 6, Nr.51"
+    ]
+  },
+  {
+    "id": "134",
+    "n": "134",
+    "identifier": "WoO 7",
+    "prefix": "WoO",
+    "opus": "7",
+    "title": "Choralvorspiel und Fuge über \"O Traurigkeit, o Herzeleid\"",
+    "versions": [],
+    "positions": [
+      "Orgel"
+    ],
+    "components": [],
+    "events": [
+      1335,
+      1336
+    ]
+  },
+  {
+    "id": "135",
+    "n": "135",
+    "identifier": "WoO 8",
+    "prefix": "WoO",
+    "opus": "8",
+    "title": "Fuge as-Moll",
+    "versions": [],
+    "positions": [
+      "Orgel"
+    ],
+    "components": [],
+    "events": [
+      1337,
+      1338,
+      1339
+    ]
+  },
+  {
+    "id": "136",
+    "n": "136",
+    "identifier": "WoO posth. 9",
+    "prefix": "WoO",
+    "opus": "posth. 9",
+    "title": "Präludium und Fuge a-Moll",
+    "versions": [],
+    "positions": [
+      "Orgel"
+    ],
+    "components": []
+  },
+  {
+    "id": "137",
+    "n": "137",
+    "identifier": "WoO posth. 10",
+    "prefix": "WoO",
+    "opus": "posth. 10",
+    "title": "Präludium und Fuge g-Moll",
+    "versions": [],
+    "positions": [
+      "Orgel"
+    ],
+    "components": []
+  },
+  {
+    "id": "138",
+    "n": "138",
+    "identifier": "WoO posth. 11",
+    "prefix": "WoO",
+    "opus": "posth. 11",
+    "title": "Kadenz zum 3. Satz von J. S. Bachs Cembalokonzert d-Moll BWV 1052",
+    "versions": [],
+    "positions": [
+      "Klavier"
+    ],
+    "components": []
+  },
+  {
+    "id": "139",
+    "n": "139",
+    "identifier": "WoO posth. 12",
+    "prefix": "WoO",
+    "opus": "posth. 12",
+    "title": "Kadenzen zum 1. und 3. Satz von Beethovens Klavierkonzert Nr. 4 G-Dur op. 58",
+    "versions": [],
+    "positions": [
+      "Klavier"
+    ],
+    "components": [
+      "Zum ersten Satz., WoO 12,1",
+      "Zum Rondo., WoO 12,2"
+    ]
+  },
+  {
+    "id": "140",
+    "n": "140",
+    "identifier": "WoO posth. 13",
+    "prefix": "WoO",
+    "opus": "posth. 13",
+    "title": "Kadenzen zum 1. und 2. Satz von Mozarts Klavierkonzert G-Dur KV 453",
+    "versions": [],
+    "positions": [
+      "Klavier"
+    ],
+    "components": [
+      "Zum ersten Satz., WoO 13,1",
+      "Zum zweiten Satz., WoO 13,2"
+    ]
+  },
+  {
+    "id": "141",
+    "n": "141",
+    "identifier": "WoO posth. 14",
+    "prefix": "WoO",
+    "opus": "posth. 14",
+    "title": "Kadenz zum 1. Satz von Mozarts Klavierkonzert d-Moll KV 466",
+    "versions": [],
+    "positions": [
+      "Klavier"
+    ],
+    "components": []
+  },
+  {
+    "id": "142",
+    "n": "142",
+    "identifier": "WoO posth. 15",
+    "prefix": "WoO",
+    "opus": "posth. 15",
+    "title": "Kadenz zum 1. Satz von Mozarts Klavierkonzert c-Moll KV 491",
+    "versions": [],
+    "positions": [
+      "Klavier"
+    ],
+    "components": []
+  },
+  {
+    "id": "143",
+    "n": "143",
+    "identifier": "WoO posth. 16",
+    "prefix": "WoO",
+    "opus": "posth. 16",
+    "title": "Hochzeitswitz",
+    "versions": [],
+    "positions": [
+      "4 Singstimmen",
+      "Klavier"
+    ],
+    "components": []
+  },
+  {
+    "id": "144",
+    "n": "144",
+    "identifier": "WoO posth. 17",
+    "prefix": "WoO",
+    "opus": "posth. 17",
+    "title": "Kyrie g-Moll",
+    "versions": [],
+    "positions": [
+      "gemischter Chor",
+      "Basso continuo"
+    ],
+    "components": []
+  },
+  {
+    "id": "145",
+    "n": "145",
+    "identifier": "WoO posth. 18",
+    "prefix": "WoO",
+    "opus": "posth. 18",
+    "title": "Missa canonica",
+    "versions": [],
+    "positions": [
+      "gemischter Chor"
+    ],
+    "components": [
+      "Sanctus., WoO 18,1",
+      "Benedictus., WoO 18,2",
+      "Agnus Dei., WoO 18,3",
+      "Dona nobis pacem., WoO 18,4"
+    ]
+  },
+  {
+    "id": "146",
+    "n": "146",
+    "identifier": "WoO posth. 19",
+    "prefix": "WoO",
+    "opus": "posth. 19",
+    "title": "Dein Herzlein mild",
+    "versions": [],
+    "positions": [
+      "vierstimmiger Frauenchor"
+    ],
+    "components": []
+  },
+  {
+    "id": "147",
+    "n": "147",
+    "identifier": "WoO posth. 20",
+    "prefix": "WoO",
+    "opus": "posth. 20",
+    "title": "Dem dunkeln Schoß der heilgen Erde",
+    "versions": [],
+    "positions": [
+      "gemischter Chor"
+    ],
+    "components": []
+  },
+  {
+    "id": "148",
+    "n": "148",
+    "identifier": "WoO 21",
+    "prefix": "WoO",
+    "opus": "21",
+    "title": "Mondnacht",
+    "versions": [],
+    "positions": [
+      "1 Singstimme",
+      "Klavier"
+    ],
+    "components": [],
+    "events": [
+      1340
+    ]
+  },
+  {
+    "id": "149",
+    "n": "149",
+    "identifier": "WoO posth. 22",
+    "prefix": "WoO",
+    "opus": "posth. 22",
+    "title": "Ophelia-Lieder",
+    "versions": [],
+    "positions": [
+      "1 Singstimme",
+      "Klavier"
+    ],
+    "components": [
+      "WoO 22,1",
+      "WoO 22,2",
+      "WoO 22,3",
+      "WoO 22,4",
+      "WoO 22,5"
+    ]
+  },
+  {
+    "id": "150",
+    "n": "150",
+    "identifier": "WoO posth. 23",
+    "prefix": "WoO",
+    "opus": "posth. 23",
+    "title": "Regenlied",
+    "versions": [],
+    "positions": [
+      "1 Singstimme",
+      "Klavier"
+    ],
+    "components": []
+  },
+  {
+    "id": "151",
+    "n": "151",
+    "identifier": "WoO posth. 24",
+    "prefix": "WoO",
+    "opus": "posth. 24",
+    "title": "Grausam erweiset sich Amor (Kanon)",
+    "versions": [],
+    "positions": [
+      "4 Frauenstimmen"
+    ],
+    "components": []
+  },
+  {
+    "id": "152",
+    "n": "152",
+    "identifier": "WoO 25",
+    "prefix": "WoO",
+    "opus": "25",
+    "title": "Mir lächelt kein Frühling (Kanon)",
+    "versions": [],
+    "positions": [
+      "4 gemischte Stimmen"
+    ],
+    "components": []
+  },
+  {
+    "id": "153",
+    "n": "153",
+    "identifier": "WoO posth. 26",
+    "prefix": "WoO",
+    "opus": "posth. 26",
+    "title": "O wie sanft (Kanon)",
+    "versions": [],
+    "positions": [
+      "4 Frauenstimmen"
+    ],
+    "components": []
+  },
+  {
+    "id": "154",
+    "n": "154",
+    "identifier": "WoO posth. 27",
+    "prefix": "WoO",
+    "opus": "posth. 27",
+    "title": "Spruch: In dieser Welt des Trugs (Kanon)",
+    "versions": [],
+    "positions": [
+      "1 Singstimme",
+      "Viola"
+    ],
+    "components": []
+  },
+  {
+    "id": "155",
+    "n": "155",
+    "identifier": "WoO 28",
+    "prefix": "WoO",
+    "opus": "28",
+    "title": "Töne, lindernder Klang (Kanon)",
+    "versions": [],
+    "positions": [
+      "4 Singstimmen"
+    ],
+    "components": []
+  },
+  {
+    "id": "156",
+    "n": "156",
+    "identifier": "WoO posth. 29",
+    "prefix": "WoO",
+    "opus": "posth. 29",
+    "title": "Wann? (Kanon)",
+    "versions": [],
+    "positions": [
+      "Sopran",
+      "Alt"
+    ],
+    "components": []
+  },
+  {
+    "id": "157",
+    "n": "157",
+    "identifier": "WoO posth. 30",
+    "prefix": "WoO",
+    "opus": "posth. 30",
+    "title": "Zu Rauch muss werden (Kanon)",
+    "versions": [
+      "In der alten Gesamtausgabe wiedergegebene Fassung",
+      "Fassung in der Abschrift von Hermann Levi"
+    ],
+    "positions": [
+      "4 Singstimmen"
+    ],
+    "components": []
+  },
+  {
+    "id": "158",
+    "n": "158",
+    "identifier": "WoO 31",
+    "prefix": "WoO",
+    "opus": "31",
+    "title": "Volks-Kinderlieder",
+    "versions": [],
+    "positions": [
+      "1 Singstimme",
+      "Klavier"
+    ],
+    "components": [
+      "Dornröschen., WoO 31,1",
+      "Die Nachtigall., WoO 31,2",
+      "Die Henne., WoO 31,3",
+      "Sandmännchen., WoO 31,4",
+      "Der Mann., WoO 31,5",
+      "Heidenröslein., WoO 31,6",
+      "Das Schlaraffenland., WoO 31,7",
+      "Beim Ritt auf dem Knie., WoO 31,8",
+      "Der Jäger in dem Walde., WoO 31,9",
+      "Das Mädchen und die Hasel., WoO 31,10",
+      "Wiegenlied., WoO 31,11",
+      "Weihnachten., WoO 31,12",
+      "Marienwürmchen., WoO 31,13",
+      "Dem Schutzengel., WoO 31,14",
+      "Sommerlied., WoO 31,15"
+    ]
+  },
+  {
+    "id": "159",
+    "n": "159",
+    "identifier": "WoO posth. 32",
+    "prefix": "WoO",
+    "opus": "posth. 32",
+    "title": "28 Deutsche Volkslieder",
+    "versions": [],
+    "positions": [
+      "1 Singstimme",
+      "Klavier"
+    ],
+    "components": [
+      "Die Schnürbrust., WoO 32,1",
+      "Der Jäger., WoO 32,2",
+      "Drei Vögelein., WoO 32,3",
+      "Auf, gebet uns das Pfingstei., WoO 32,4",
+      "Des Markgrafen Töchterlein., WoO 32,5",
+      "Der Reiter., WoO 32,6",
+      "Die heilige Elisabeth., WoO 32,7",
+      "Der englische Gruß., WoO 32,8",
+      "Ich stund an einem Morgen., WoO 32,9",
+      "Gunhilde., WoO 32,10",
+      "Der tote Gast., WoO 32,11",
+      "Tageweis von einer schönen Frauen., WoO 32,12",
+      "Schifferlied., WoO 32,13",
+      "Nachtgesang., WoO 32,14",
+      "Die beiden Königskinder., WoO 32,15",
+      "Scheiden., WoO 32,16",
+      "Altes Minnelied., WoO 32,17",
+      "Der getreue Eckart., WoO 32,18a",
+      "Der getreue Eckart., WoO 32,18b",
+      "Die Versuchung., WoO 32,19",
+      "Der Tochter Wunsch., WoO 32,20",
+      "Schnitter Tod., WoO 32,21",
+      "Marias Wallfahrt., WoO 32,22",
+      "Das Mädchen und der Tod., WoO 32,23",
+      "Es ritt ein Ritter., WoO 32,24",
+      "Liebeslied., WoO 32,25",
+      "Guten Abend., WoO 32,26",
+      "Die Wollust in den Maien., WoO 32,27",
+      "Es reit ein Herr und auch sein Knecht., WoO 32,28"
+    ]
+  },
+  {
+    "id": "160",
+    "n": "160",
+    "identifier": "WoO 33",
+    "prefix": "WoO",
+    "opus": "33",
+    "title": "49 Deutsche Volkslieder",
+    "versions": [
+      "Hauptfassung (Erstausgabe)",
+      "Nr. 32a: Fassung mit anderer Klavierbegleitung"
+    ],
+    "positions": [
+      "1 Singstimme und Klavier (Nr. 1−42)",
+      "vierstimmiger Chor und Vorsänger (Nr. 43−49)"
+    ],
+    "components": [
+      "Sagt mir, o schönste Schäfrin mein., WoO 33, Nr.1",
+      "Erlaube mir, feins Mädchen., WoO 33, Nr.2",
+      "Gar lieblich hat sich gesellet., WoO 33, Nr.3",
+      "Guten Abend., WoO 33, Nr.4",
+      "Die Sonne scheint nicht mehr., WoO 33, Nr.5",
+      "Da unten im Tale., WoO 33, Nr.6",
+      "Gunhilde., WoO 33, Nr.7",
+      "Ach, englische Schäferin., WoO 33, Nr.8",
+      "Es war eine schöne Jüdin., WoO 33, Nr.9",
+      "Es ritt ein Ritter., WoO 33, Nr.10",
+      "Jungfräulein, soll ich mit euch gehn., WoO 33, Nr.11",
+      "Feinsliebchen, du sollst., WoO 33, Nr.12",
+      "Wach auf, mein Hort., WoO 33, Nr.13",
+      "Maria ging aus wandern., WoO 33, Nr.14",
+      "Schwesterlein., WoO 33, Nr.15",
+      "Wach auf mein Herzensschöne., WoO 33, Nr.16",
+      "Ach Gott, wie weh tut Scheiden., WoO 33, Nr.17",
+      "So wünsch ich ihr ein gute Nacht., WoO 33, Nr.18",
+      "Nur ein Gesicht auf Erden lebt., WoO 33, Nr.19",
+      "Schönster Schatz, mein Engel., WoO 33, Nr.20",
+      "Es ging ein Maidlein zarte., WoO 33, Nr.21",
+      "Wo gehst du hin, du Stolze?, WoO 33, Nr.22",
+      "Der Reiter., WoO 33, Nr.23",
+      "Mir ist ein schöns brauns Maidelein., WoO 33, Nr.24",
+      "Mein Mädel hat einen Rosenmund., WoO 33, Nr.25",
+      "Ach könnt ich diesen Abend., WoO 33, Nr.26",
+      "Ich stand auf hohem Berge., WoO 33, Nr.27",
+      "Es reit ein Herr und auch sein Knecht., WoO 33, Nr.28",
+      "Es war ein Markgraf überm Rhein., WoO 33, Nr.29",
+      "All mein Gedanken., WoO 33, Nr.30",
+      "Dort in den Weiden steht ein Haus., WoO 33, Nr.31",
+      "So will ich frisch und fröhlich sein., WoO 33, Nr.32",
+      "Och Moder, ich well en Ding han., WoO 33, Nr.33",
+      "We kumm ich dann de Pooz erenn?, WoO 33, Nr.34",
+      "Soll sich der Mond nicht heller scheinen., WoO 33, Nr.35",
+      "Es wohnet ein Fiedler., WoO 33, Nr.36",
+      "Du mein einzig Licht., WoO 33, Nr.37",
+      "Des Abends kann ich nicht schlafen gehn., WoO 33, Nr.38",
+      "Schöner Augen schöne Strahlen., WoO 33, Nr.39",
+      "Ich weiß mir'n Maidlein., WoO 33, Nr.40",
+      "Es steht ein Lind., WoO 33, Nr.41",
+      "In stiller Nacht., WoO 33, Nr.42",
+      "Es stunden drei Rosen., WoO 33, Nr.43",
+      "Dem Himmel will ich klagen., WoO 33, Nr.44",
+      "Es saß ein schneeweiß Vögelein., WoO 33, Nr.45",
+      "Es war einmal ein Zimmergesell., WoO 33, Nr.46",
+      "Es ging sich unsre Fraue., WoO 33, Nr.47",
+      "Nachtigall, sag., WoO 33, Nr.48",
+      "Verstohlen geht der Mond auf., WoO 33, Nr.49"
+    ],
+    "events": [
+      1341,
+      1342,
+      1343,
+      1344,
+      1345,
+      1346,
+      1347,
+      1348
+    ]
+  },
+  {
+    "id": "161",
+    "n": "161",
+    "identifier": "WoO 34",
+    "prefix": "WoO",
+    "opus": "34",
+    "title": "14 Deutsche Volkslieder",
+    "versions": [],
+    "positions": [
+      "gemischter Chor"
+    ],
+    "components": [
+      "Von edler Art., WoO 34,1",
+      "Mit Lust tät ich ausreiten., WoO 34,2",
+      "Bei nächtlicher Weil., WoO 34,3",
+      "Vom heiligen Martyrer Emmerano, Bischoffen zu Regenspurg., WoO 34,4",
+      "Täublein weiß., WoO 34,5",
+      "Ach lieber Herr Jesu Christ., WoO 34,6",
+      "Sankt Raphael., WoO 34,7",
+      "In stiller Nacht., WoO 34,8",
+      "Abschiedslied., WoO 34,9",
+      "Der tote Knabe., WoO 34,10",
+      "Die Wollust in den Maien., WoO 34,11",
+      "Morgengesang., WoO 34,12",
+      "Schnitter Tod., WoO 34,13",
+      "Der englische Jäger., WoO 34,14"
+    ],
+    "events": [
+      1349,
+      1350,
+      1351,
+      1352,
+      1353,
+      1354,
+      1355,
+      1356,
+      1357,
+      1358,
+      1359,
+      1360,
+      1361,
+      1362,
+      1363,
+      1364,
+      1365,
+      1366,
+      1367,
+      1368,
+      1369,
+      1370,
+      1371
+    ]
+  },
+  {
+    "id": "162",
+    "n": "162",
+    "identifier": "WoO posth. 35",
+    "prefix": "WoO",
+    "opus": "posth. 35",
+    "title": "12 Deutsche Volkslieder",
+    "versions": [],
+    "positions": [
+      "gemischter Chor"
+    ],
+    "components": [
+      "Scheiden., WoO 35, Nr.1",
+      "Wach auf!, WoO 35, Nr.2",
+      "Erlaube mir., WoO 35, Nr.3",
+      "Der Fiedler., WoO 35, Nr.4",
+      "Da unten im Tale., WoO 35, Nr.5",
+      "Des Abends., WoO 35, Nr.6",
+      "Wach auf! (2. Bearb.), WoO 35, Nr.7",
+      "Dort in den Weiden., WoO 35, Nr.8",
+      "Altes Volkslied., WoO 35, Nr.9",
+      "Der Ritter und die Feine., WoO 35, Nr.10",
+      "Der Zimmergesell., WoO 35, Nr.11",
+      "Altdeutsches Kampflied., WoO 35, Nr.12"
+    ],
+    "events": [
+      1372
+    ]
+  },
+  {
+    "id": "163",
+    "n": "163",
+    "identifier": "WoO posth. 36",
+    "prefix": "WoO",
+    "opus": "posth. 36",
+    "title": "8 Deutsche Volkslieder",
+    "versions": [],
+    "positions": [
+      "dreistimmiger Frauenchor",
+      "vierstimmiger Frauenchor"
+    ],
+    "components": [
+      "Totenklage., WoO 36,1",
+      "Minnelied., WoO 36,2",
+      "Der tote Knabe., WoO 36,3",
+      "Ich hab die Nacht geträumet., WoO 36,4",
+      "Altdeutsches Minnelied., WoO 36,5",
+      "Es waren zwei Königskinder., WoO 36,6",
+      "Spannung., WoO 36,7",
+      "Drei Vögelein., WoO 36,8"
+    ]
+  },
+  {
+    "id": "164",
+    "n": "164",
+    "identifier": "WoO posth. 37",
+    "prefix": "WoO",
+    "opus": "posth. 37",
+    "title": "16 Deutsche Volkslieder",
+    "versions": [],
+    "positions": [
+      "dreistimmiger Frauenchor",
+      "vierstimmiger Frauenchor"
+    ],
+    "components": [
+      "Schwesterlein, Schwesterlein., WoO 37,1",
+      "Ich hörte ein Sichlein rauschen., WoO 37,2",
+      "Der Ritter und die Feine., WoO 37,3",
+      "Ich stand auf hohem Berge., WoO 37,4",
+      "Gunhilde., WoO 37,5",
+      "Der bucklichte Fiedler., WoO 37,6",
+      "Die Versuchung., WoO 37,7",
+      "Altes Minnelied., WoO 37,8",
+      "Die Wollust in den Maien., WoO 37,9",
+      "Trennung., WoO 37,10",
+      "Der Jäger., WoO 37,11",
+      "Scheiden., WoO 37,12",
+      "Zu Straßburg auf der Schanz., WoO 37,13",
+      "Wach auf, mein Hort., WoO 37,14",
+      "der Ritter., WoO 37,15",
+      "Ständchen., WoO 37,16"
+    ]
+  },
+  {
+    "id": "165",
+    "n": "165",
+    "identifier": "WoO posth. 38",
+    "prefix": "WoO",
+    "opus": "posth. 38",
+    "title": "20 Deutsche Volkslieder",
+    "versions": [],
+    "positions": [
+      "dreistimmiger Frauenchor",
+      "vierstimmiger Frauenchor"
+    ],
+    "components": [
+      "Die Entführung., WoO 38,1",
+      "Gang zur Liebsten., WoO 38,2",
+      "Schifferlied., WoO 38,3",
+      "WoO 38,4",
+      "Schnitter Tod., WoO 38,5",
+      "Die Bernauerin., WoO 38,6",
+      "Das Lied vom eifersüchtigen Knaben., WoO 38,7",
+      "Der Baum im Odenwald., WoO 38,8",
+      "Des Markgrafen Töchterlein., WoO 38,9",
+      "Die stolze Jüdin., WoO 38,10",
+      "Der Zimmergesell., WoO 38,11",
+      "Liebeslied., WoO 38,12",
+      "Heimliche Liebe., WoO 38,13a",
+      "Heimliche Liebe., WoO 38,13b",
+      "Altes Liebeslied., WoO 38,14",
+      "Dauernde Liebe., WoO 38,15",
+      "Während der Trennung., WoO 38,16",
+      "WoO 38,17",
+      "Scheiden., WoO 38,18",
+      "Vor dem Fenster., WoO 38,19",
+      "Ständchen., WoO 38,20"
+    ]
+  },
+  {
+    "id": "166",
+    "n": "166",
+    "identifier": "Anh. 1a Nr. 1",
+    "prefix": "Anh.",
+    "opus": "1a Nr. 1",
+    "title": "Fünf Klavierstudien",
+    "versions": [],
+    "positions": [
+      "Klavier zu 2 Händen (Nr. 1−4) bzw. linke Hand (Nr. 5)"
+    ],
+    "components": [
+      "Anh. 1a, Nr.1/I",
+      "Anh. 1a, Nr.1/II",
+      "Anh. 1a, Nr.1/III",
+      "Anh. 1a, Nr.1/IV",
+      "Anh. 1a, Nr.1/V"
+    ],
+    "events": [
+      1373
+    ]
+  },
+  {
+    "id": "167",
+    "n": "167",
+    "identifier": "Anh. 1a Nr. 2",
+    "prefix": "Anh.",
+    "opus": "1a Nr. 2",
+    "title": "Christoph Willibald Gluck: Gavotte A-Dur aus der Oper \"Iphigénie en Aulide\"",
+    "versions": [],
+    "positions": [
+      "Klavier zu 2 Händen"
+    ],
+    "components": [],
+    "events": [
+      1374,
+      1375,
+      1376,
+      1377,
+      1378,
+      1379
+    ]
+  },
+  {
+    "id": "168",
+    "n": "168",
+    "identifier": "Anh. 1a Nr. 3",
+    "prefix": "Anh.",
+    "opus": "1a Nr. 3",
+    "title": "Joseph Joachim: Ouvertüre zu William Shakespeares \"Hamlet\" op. 4",
+    "versions": [],
+    "positions": [
+      "1 Klavier zu 4 Händen"
+    ],
+    "components": []
+  },
+  {
+    "id": "169",
+    "n": "169",
+    "identifier": "Anh. 1a Nr. 4",
+    "prefix": "Anh.",
+    "opus": "1a Nr. 4",
+    "title": "Joseph Joachim: Ouvertüre zu Herman Grimms \"Demetrius\" op. 6",
+    "versions": [],
+    "positions": [
+      "2 Klaviere zu 4 Händen"
+    ],
+    "components": []
+  },
+  {
+    "id": "170",
+    "n": "170",
+    "identifier": "Anh. 1a Nr. 5",
+    "prefix": "Anh.",
+    "opus": "1a Nr. 5",
+    "title": "Joseph Joachim: Ouvertüre zu William Shakespeares \"Heinrich IV.\" op. 7",
+    "versions": [],
+    "positions": [
+      "2 Klaviere zu 4 Händen"
+    ],
+    "components": []
+  },
+  {
+    "id": "171",
+    "n": "171",
+    "identifier": "Anh. 1a Nr. 6",
+    "prefix": "Anh.",
+    "opus": "1a Nr. 6",
+    "title": "Franz Schubert: 16 Ländler D 366 und 4 Ländler D 814",
+    "versions": [],
+    "positions": [
+      "Klavier zu 2 Händen (D 814)",
+      "für 1 Klavier zu 4 Händen (D 366)"
+    ],
+    "components": [
+      "Anh. 1a, 6,1",
+      "Anh. 1a, 6,2",
+      "Anh. 1a, 6,3",
+      "Anh. 1a, 6,4",
+      "Anh. 1a, 6,5",
+      "Anh. 1a, 6,6",
+      "Anh. 1a, 6,7",
+      "Anh. 1a, 6,8",
+      "Anh. 1a, 6,9",
+      "Anh. 1a, 6,10",
+      "Anh. 1a, 6,11",
+      "Anh. 1a, 6,12",
+      "Anh. 1a, 6,13",
+      "Anh. 1a, 6,14",
+      "Anh. 1a, 6,15",
+      "Anh. 1a, 6,16",
+      "Anh. 1a, 6,17",
+      "Anh. 1a, 6,18",
+      "Anh. 1a, 6,19",
+      "Anh. 1a, 6,20"
+    ]
+  },
+  {
+    "id": "172",
+    "n": "172",
+    "identifier": "Anh. 1a Nr. 7",
+    "prefix": "Anh.",
+    "opus": "1a Nr. 7",
+    "title": "Robert Schumann: Scherzo aus dem Klavierquintett Es-Dur op. 44",
+    "versions": [],
+    "positions": [
+      "Klavier zu 2 Händen"
+    ],
+    "components": []
+  },
+  {
+    "id": "173",
+    "n": "173",
+    "identifier": "Anh. 1a Nr. 8",
+    "prefix": "Anh.",
+    "opus": "1a Nr. 8",
+    "title": "Robert Schumann: Klavierquartett Es-Dur op. 47",
+    "versions": [],
+    "positions": [
+      "1 Klavier zu 4 Händen"
+    ],
+    "components": []
+  },
+  {
+    "id": "174",
+    "n": "174",
+    "identifier": "Anh. 1a Nr. 9",
+    "prefix": "Anh.",
+    "opus": "1a Nr. 9",
+    "title": "Johann Sebastian Bach: Choral \"Ach Gott, wie manches Herzeleid\" aus der Kantate BWV 44",
+    "versions": [],
+    "positions": [
+      "Gesang",
+      "Klavier"
+    ],
+    "components": []
+  },
+  {
+    "id": "175",
+    "n": "175",
+    "identifier": "Anh. 1a Nr. 10",
+    "prefix": "Anh.",
+    "opus": "1a Nr. 10",
+    "title": "Georg Friedrich Händel: Sieben Duette und zwei Trios",
+    "versions": [],
+    "positions": [
+      "Gesang",
+      "Klavier"
+    ],
+    "components": [
+      "Anh. 1a, 10,1",
+      "Anh. 1a, 10,2",
+      "Anh. 1a, 10,3",
+      "Anh. 1a, 10,4",
+      "Anh. 1a, 10,5",
+      "Anh. 1a, 10,6",
+      "Anh. 1a, 10,7",
+      "Anh. 1a, 10,8",
+      "Anh. 1a, 10,9"
+    ]
+  },
+  {
+    "id": "176",
+    "n": "176",
+    "identifier": "Anh. 1a Nr. 11",
+    "prefix": "Anh.",
+    "opus": "1a Nr. 11",
+    "title": "Georg Friedrich Händel: Sechs Duette",
+    "versions": [],
+    "positions": [
+      "Gesang",
+      "Klavier"
+    ],
+    "components": [
+      "Anh. 1a, Nr.11/1",
+      "Anh. 1a, Nr.11/2",
+      "Anh. 1a, Nr.11/3",
+      "Anh. 1a, Nr.11/4",
+      "Anh. 1a, Nr.11/5",
+      "Anh. 1a, Nr.11/6"
+    ],
+    "events": [
+      1380
+    ]
+  },
+  {
+    "id": "177",
+    "n": "177",
+    "identifier": "Anh. 1a Nr. 12",
+    "prefix": "Anh.",
+    "opus": "1a Nr. 12",
+    "title": "Franz Schubert: An Schwager Kronos op. 19 Nr. 1 D 369",
+    "versions": [
+      "Bearbeitung für Singstimme und Orchester",
+      "Bearbeitung für Männerchor unisono und Orchester (durch Ernst Frank?)"
+    ],
+    "positions": [
+      "Singstimme",
+      "Orchester"
+    ],
+    "components": []
+  },
+  {
+    "id": "178",
+    "n": "178",
+    "identifier": "Anh. 1a Nr. 13",
+    "prefix": "Anh.",
+    "opus": "1a Nr. 13",
+    "title": "Franz Schubert: Memnon op. 6 Nr. 1 D 541",
+    "versions": [],
+    "positions": [
+      "Singstimme",
+      "Orchester"
+    ],
+    "components": [],
+    "events": [
+      1381
+    ]
+  },
+  {
+    "id": "179",
+    "n": "179",
+    "identifier": "Anh. 1a Nr. 14",
+    "prefix": "Anh.",
+    "opus": "1a Nr. 14",
+    "title": "Franz Schubert: Gruppe aus dem Tartarus op. 24 Nr. 1 D 583",
+    "versions": [],
+    "positions": [
+      "Männerchor unisono (Singstimme)",
+      "Orchester"
+    ],
+    "components": [],
+    "events": [
+      1382,
+      1383,
+      1384
+    ]
+  },
+  {
+    "id": "180",
+    "n": "180",
+    "identifier": "Anh. 1a Nr. 15",
+    "prefix": "Anh.",
+    "opus": "1a Nr. 15",
+    "title": "Franz Schubert: Geheimes op. 14 Nr. 2 D 719",
+    "versions": [],
+    "positions": [
+      "Singstimme",
+      "Orchester"
+    ],
+    "components": [],
+    "events": [
+      1385
+    ]
+  },
+  {
+    "id": "181",
+    "n": "181",
+    "identifier": "Anh. 1a Nr. 16",
+    "prefix": "Anh.",
+    "opus": "1a Nr. 16",
+    "title": "Franz Schubert: Greisengesang op. 60 Nr. 1 D 778",
+    "versions": [],
+    "positions": [
+      "Singstimme",
+      "Orchester"
+    ],
+    "components": []
+  },
+  {
+    "id": "182",
+    "n": "182",
+    "identifier": "Anh. 1a Nr. 17",
+    "prefix": "Anh.",
+    "opus": "1a Nr. 17",
+    "title": "Franz Schubert: Ellens Zweiter Gesang op. 52 Nr. 2 D 838",
+    "versions": [
+      "Bearbeitung für Singstimme und Blasinstrumente",
+      "Bearbeitung für Sopran-Solo, Frauenchor und Blasinstrumente"
+    ],
+    "positions": [
+      "[siehe Expressions]"
+    ],
+    "components": []
+  },
+  {
+    "id": "183",
+    "n": "183",
+    "identifier": "Anh. 1a Nr. 18",
+    "prefix": "Anh.",
+    "opus": "1a Nr. 18",
+    "title": "Franz Schubert: Messe Es-Dur D 950",
+    "versions": [],
+    "positions": [
+      "Klavierauszug"
+    ],
+    "components": [
+      "Kyrie, Anh. 1a, 18,1",
+      "Gloria, Anh. 1a, 18,2",
+      "Credo, Anh. 1a, 18,3",
+      "Sanctus, Anh. 1a, 18,4",
+      "Benedictus, Anh. 1a, 18,5",
+      "Agnus Dei, Anh. 1a, 10,6"
+    ]
+  },
+  {
+    "id": "184",
+    "n": "184",
+    "identifier": "Anh. 1b Nr. 1",
+    "prefix": "Anh.",
+    "opus": "1b Nr. 1",
+    "title": "Johann Rudolf Ahle: Chorsatz \"Es ist genug\"",
+    "versions": [],
+    "positions": [],
+    "components": [],
+    "events": [
+      1386
+    ]
+  },
+  {
+    "id": "185",
+    "n": "185",
+    "identifier": "Anh. 1b Nr. 2",
+    "prefix": "Anh.",
+    "opus": "1b Nr. 2",
+    "title": "Johann Sebastian Bach: Kantate \"Christ lag in Todesbanden\" BWV 4",
+    "versions": [],
+    "positions": [],
+    "components": [],
+    "events": [
+      1387
+    ]
+  },
+  {
+    "id": "186",
+    "n": "186",
+    "identifier": "Anh. 1b Nr. 3",
+    "prefix": "Anh.",
+    "opus": "1b Nr. 3",
+    "title": "Johann Sebastian Bach: Kantate \"Liebster Gott, wann werd ich sterben\" BWV 8",
+    "versions": [],
+    "positions": [],
+    "components": [],
+    "events": [
+      1388,
+      1389,
+      1390
+    ]
+  },
+  {
+    "id": "187",
+    "n": "187",
+    "identifier": "Anh. 1b Nr. 4",
+    "prefix": "Anh.",
+    "opus": "1b Nr. 4",
+    "title": "Johann Sebastian Bach: Kantate \"Ich hatte viel Bekümmernis\" BWV 21",
+    "versions": [],
+    "positions": [],
+    "components": [],
+    "events": [
+      1391
+    ]
+  },
+  {
+    "id": "188",
+    "n": "188",
+    "identifier": "Anh. 1b Nr. 5",
+    "prefix": "Anh.",
+    "opus": "1b Nr. 5",
+    "title": "Johann Sebastian Bach: Kantate \"O ewiges Feuer\" BWV 34",
+    "versions": [],
+    "positions": [],
+    "components": [],
+    "events": [
+      1392
+    ]
+  },
+  {
+    "id": "189",
+    "n": "189",
+    "identifier": "Anh. 1b Nr. 6",
+    "prefix": "Anh.",
+    "opus": "1b Nr. 6",
+    "title": "Johann Sebastian Bach: Kantatensatz \"Nun ist das Heil und die Kraft\" BWV 50",
+    "versions": [],
+    "positions": [],
+    "components": [],
+    "events": [
+      1393,
+      1394,
+      1395,
+      1396
+    ]
+  },
+  {
+    "id": "190",
+    "n": "190",
+    "identifier": "Anh. 1b Nr. 7",
+    "prefix": "Anh.",
+    "opus": "1b Nr. 7",
+    "title": "Johann Sebastian Bach: Schlusschoral \"Es ist genug\" aus der Kantate \"O Ewigkeit, du Donnerwort\" BWV 60",
+    "versions": [],
+    "positions": [],
+    "components": [],
+    "events": [
+      1397,
+      1398
+    ]
+  },
+  {
+    "id": "191",
+    "n": "191",
+    "identifier": "Anh. 1b Nr. 8",
+    "prefix": "Anh.",
+    "opus": "1b Nr. 8",
+    "title": "Johann Sebastian Bach: Matthäus-Passion BWV 244",
+    "versions": [],
+    "positions": [],
+    "components": [],
+    "events": [
+      1399
+    ]
+  },
+  {
+    "id": "192",
+    "n": "192",
+    "identifier": "Anh. 1b Nr. 9",
+    "prefix": "Anh.",
+    "opus": "1b Nr. 9",
+    "title": "Johann Sebastian Bach: Weihnachtsoratorium BWV 248 (Teile)",
+    "versions": [],
+    "positions": [],
+    "components": [
+      "Teil I-III",
+      "Sinfonia aus Teil II"
+    ]
+  },
+  {
+    "id": "193",
+    "n": "193",
+    "identifier": "Anh. 1b Nr. 10",
+    "prefix": "Anh.",
+    "opus": "1b Nr. 10",
+    "title": "Ludwig van Beethoven: Klavierkonzert Nr. 5 Es-Dur op. 73",
+    "versions": [],
+    "positions": [],
+    "components": [],
+    "events": [
+      1400
+    ]
+  },
+  {
+    "id": "194",
+    "n": "194",
+    "identifier": "Anh. 1b Nr. 11",
+    "prefix": "Anh.",
+    "opus": "1b Nr. 11",
+    "title": "Ludwig van Beethoven: Chorphantasie c-Moll op. 80",
+    "versions": [],
+    "positions": [],
+    "components": [],
+    "events": [
+      1401
+    ]
+  },
+  {
+    "id": "195",
+    "n": "195",
+    "identifier": "Anh. 1b Nr. 12",
+    "prefix": "Anh.",
+    "opus": "1b Nr. 12",
+    "title": "Ludwig van Beethoven: Ouvertüre \"Zur Namensfeier\" op. 115",
+    "versions": [],
+    "positions": [],
+    "components": [],
+    "events": [
+      1402
+    ]
+  },
+  {
+    "id": "196",
+    "n": "196",
+    "identifier": "Anh. 1b Nr. 13",
+    "prefix": "Anh.",
+    "opus": "1b Nr. 13",
+    "title": "Ludwig van Beethoven: Missa solemnis op. 123",
+    "versions": [],
+    "positions": [],
+    "components": [],
+    "events": [
+      1403
+    ]
+  },
+  {
+    "id": "197",
+    "n": "197",
+    "identifier": "Anh. 1b Nr. 14",
+    "prefix": "Anh.",
+    "opus": "1b Nr. 14",
+    "title": "Ludwig van Beethoven: Chor \"Wo sich die Pulse jugendlich jagen\" WoO 98",
+    "versions": [],
+    "positions": [],
+    "components": [],
+    "events": [
+      1404
+    ]
+  },
+  {
+    "id": "198",
+    "n": "198",
+    "identifier": "Anh. 1b Nr. 15",
+    "prefix": "Anh.",
+    "opus": "1b Nr. 15",
+    "title": "Hector Berlioz: Symphonie \"Harold en Italie\" op. 16",
+    "versions": [],
+    "positions": [],
+    "components": [],
+    "events": [
+      1405
+    ]
+  },
+  {
+    "id": "199",
+    "n": "199",
+    "identifier": "Anh. 1b Nr. 16",
+    "prefix": "Anh.",
+    "opus": "1b Nr. 16",
+    "title": "Max Bruch: Oratorium \"Odysseus\" op. 41",
+    "versions": [],
+    "positions": [],
+    "components": [],
+    "events": [
+      1406,
+      1407
+    ]
+  },
+  {
+    "id": "200",
+    "n": "200",
+    "identifier": "Anh. 1b Nr. 17",
+    "prefix": "Anh.",
+    "opus": "1b Nr. 17",
+    "title": "Luigi Cherubini: Requiem c-Moll",
+    "versions": [],
+    "positions": [],
+    "components": [],
+    "events": [
+      1408,
+      1409
+    ]
+  },
+  {
+    "id": "201",
+    "n": "201",
+    "identifier": "Anh. 1b Nr. 18",
+    "prefix": "Anh.",
+    "opus": "1b Nr. 18",
+    "title": "Johannes Eccard: Chorsatz \"Übers Gebirg Maria geht\"",
+    "versions": [],
+    "positions": [],
+    "components": [],
+    "events": [
+      1410,
+      1411
+    ]
+  },
+  {
+    "id": "202",
+    "n": "202",
+    "identifier": "Anh. 1b Nr. 19",
+    "prefix": "Anh.",
+    "opus": "1b Nr. 19",
+    "title": "Johannes Eccard: Chorsatz \"Der Christen Triumphlied aufs Osterfest\"",
+    "versions": [],
+    "positions": [],
+    "components": []
+  },
+  {
+    "id": "203",
+    "n": "203",
+    "identifier": "Anh. 1b Nr. 20",
+    "prefix": "Anh.",
+    "opus": "1b Nr. 20",
+    "title": "Giovanni Gabrieli: Chorsatz \"Benedictus\"",
+    "versions": [],
+    "positions": [],
+    "components": []
+  },
+  {
+    "id": "204",
+    "n": "204",
+    "identifier": "Anh. 1b Nr. 21",
+    "prefix": "Anh.",
+    "opus": "1b Nr. 21",
+    "title": "Jacobus Gallus: Chorsatz \"Ecce quomodo moritur\"",
+    "versions": [],
+    "positions": [],
+    "components": [],
+    "events": [
+      1412
+    ]
+  },
+  {
+    "id": "205",
+    "n": "205",
+    "identifier": "Anh. 1b Nr. 22",
+    "prefix": "Anh.",
+    "opus": "1b Nr. 22",
+    "title": "Christoph Willibald Gluck: Szene der Alceste \"Wo bin ich?\" aus der Oper \"Alceste\"",
+    "versions": [],
+    "positions": [],
+    "components": [],
+    "events": [
+      1413
+    ]
+  },
+  {
+    "id": "206",
+    "n": "206",
+    "identifier": "Anh. 1b Nr. 23",
+    "prefix": "Anh.",
+    "opus": "1b Nr. 23",
+    "title": "Georg Friedrich Händel: Oratorium \"Alexanderfest\" HWV 75",
+    "versions": [],
+    "positions": [],
+    "components": [],
+    "events": [
+      1414
+    ]
+  },
+  {
+    "id": "207",
+    "n": "207",
+    "identifier": "Anh. 1b Nr. 24",
+    "prefix": "Anh.",
+    "opus": "1b Nr. 24",
+    "title": "Georg Friedrich Händel: \"Dettinger Te Deum\" HWV 283",
+    "versions": [],
+    "positions": [],
+    "components": [],
+    "events": [
+      1415
+    ]
+  },
+  {
+    "id": "208",
+    "n": "208",
+    "identifier": "Anh. 1b Nr. 25",
+    "prefix": "Anh.",
+    "opus": "1b Nr. 25",
+    "title": "Georg Friedrich Händel: Oratorium \"Salomo\" HWV 67",
+    "versions": [],
+    "positions": [],
+    "components": []
+  },
+  {
+    "id": "209",
+    "n": "209",
+    "identifier": "Anh. 1b Nr. 26",
+    "prefix": "Anh.",
+    "opus": "1b Nr. 26",
+    "title": "Georg Friedrich Händel: Oratorium \"Saul\" HWV 53",
+    "versions": [],
+    "positions": [],
+    "components": [],
+    "events": [
+      1416
+    ]
+  },
+  {
+    "id": "210",
+    "n": "210",
+    "identifier": "Anh. 1b Nr. 27",
+    "prefix": "Anh.",
+    "opus": "1b Nr. 27",
+    "title": "Georg Friedrich Händel: Orgelkonzert d-Moll op. 7 Nr. 4",
+    "versions": [],
+    "positions": [],
+    "components": [],
+    "events": [
+      1417
+    ]
+  },
+  {
+    "id": "211",
+    "n": "211",
+    "identifier": "Anh. 1b Nr. 28",
+    "prefix": "Anh.",
+    "opus": "1b Nr. 28",
+    "title": "Heinrich Isaac: Chorsatz \"Innsbruck, ich muss dich lassen\"",
+    "versions": [],
+    "positions": [],
+    "components": [],
+    "events": [
+      1418
+    ]
+  },
+  {
+    "id": "212",
+    "n": "212",
+    "identifier": "Anh. 1b Nr. 29",
+    "prefix": "Anh.",
+    "opus": "1b Nr. 29",
+    "title": "Wolfgang Amadeus Mozart: \"Venite populi\" KV 248a = 260",
+    "versions": [],
+    "positions": [],
+    "components": [],
+    "events": [
+      1419
+    ]
+  },
+  {
+    "id": "213",
+    "n": "213",
+    "identifier": "Anh. 1b Nr. 30",
+    "prefix": "Anh.",
+    "opus": "1b Nr. 30",
+    "title": "Wolfgang Amadeus Mozart: Arie aus \"Davidde penitente\" KV 469",
+    "versions": [],
+    "positions": [],
+    "components": []
+  },
+  {
+    "id": "214",
+    "n": "214",
+    "identifier": "Anh. 1b Nr. 31",
+    "prefix": "Anh.",
+    "opus": "1b Nr. 31",
+    "title": "Wolfgang Amadeus Mozart: Szene mit Rondo \"Ch'io mi scordi di te?\" KV 505",
+    "versions": [],
+    "positions": [],
+    "components": [],
+    "events": [
+      1420
+    ]
+  },
+  {
+    "id": "215",
+    "n": "215",
+    "identifier": "Anh. 1b Nr. 32",
+    "prefix": "Anh.",
+    "opus": "1b Nr. 32",
+    "title": "Giovanni Rovetta: Chorsatz \"Salve Regina\"",
+    "versions": [],
+    "positions": [],
+    "components": []
+  },
+  {
+    "id": "216",
+    "n": "216",
+    "identifier": "Anh. 1b Nr. 33",
+    "prefix": "Anh.",
+    "opus": "1b Nr. 33",
+    "title": "Franz Schubert: Kyrie und Credo aus der Messe As-Dur D 678",
+    "versions": [],
+    "positions": [],
+    "components": [],
+    "events": [
+      1421
+    ]
+  },
+  {
+    "id": "217",
+    "n": "217",
+    "identifier": "Anh. 1b Nr. 34",
+    "prefix": "Anh.",
+    "opus": "1b Nr. 34",
+    "title": "Franz Schubert: Arie \"Der Tag entflieht\" zu Hérolds Oper \"Das Zauberglöckchen\" D 723/II",
+    "versions": [],
+    "positions": [],
+    "components": [],
+    "events": [
+      1422
+    ]
+  },
+  {
+    "id": "218",
+    "n": "218",
+    "identifier": "Anh. 1b Nr. 35",
+    "prefix": "Anh.",
+    "opus": "1b Nr. 35",
+    "title": "Robert Schumann: Musik zu Manfred op. 115",
+    "versions": [],
+    "positions": [],
+    "components": [],
+    "events": [
+      1423
+    ]
+  },
+  {
+    "id": "219",
+    "n": "219",
+    "identifier": "Anh. 1b Nr. 36",
+    "prefix": "Anh.",
+    "opus": "1b Nr. 36",
+    "title": "Heinrich Schütz: \"Sauli Bekehrung\" SWV 415",
+    "versions": [],
+    "positions": [],
+    "components": []
+  },
+  {
+    "id": "220",
+    "n": "220",
+    "identifier": "Anh. 2a Nr. 1",
+    "prefix": "Anh.",
+    "opus": "2a Nr. 1",
+    "title": "Adagio und Scherzo",
+    "versions": [],
+    "positions": [
+      "Violine",
+      "Orchester"
+    ],
+    "components": []
+  },
+  {
+    "id": "221",
+    "n": "221",
+    "identifier": "Anh. 2a Nr. 2",
+    "prefix": "Anh.",
+    "opus": "2a Nr. 2",
+    "title": "Symphonie/Sonate für 2 Klaviere",
+    "versions": [],
+    "positions": [
+      "Orchester/2 Klaviere zu 4 Händen"
+    ],
+    "components": []
+  },
+  {
+    "id": "222",
+    "n": "222",
+    "identifier": "Anh. 2a Nr. 3",
+    "prefix": "Anh.",
+    "opus": "2a Nr. 3",
+    "title": "Ouvertüre F-Dur",
+    "versions": [],
+    "positions": [
+      "Orchester"
+    ],
+    "components": []
+  },
+  {
+    "id": "223",
+    "n": "223",
+    "identifier": "Anh. 2a Nr. 4",
+    "prefix": "Anh.",
+    "opus": "2a Nr. 4",
+    "title": "Adagio/Andante cis-Moll",
+    "versions": [],
+    "positions": [
+      "Violine",
+      "Viola",
+      "Violoncello",
+      "Klavier"
+    ],
+    "components": []
+  },
+  {
+    "id": "224",
+    "n": "224",
+    "identifier": "Anh. 2a Nr. 5",
+    "prefix": "Anh.",
+    "opus": "2a Nr. 5",
+    "title": "Streichquartett h-Moll",
+    "versions": [],
+    "positions": [],
+    "components": []
+  },
+  {
+    "id": "225",
+    "n": "225",
+    "identifier": "Anh. 2a Nr. 6",
+    "prefix": "Anh.",
+    "opus": "2a Nr. 6",
+    "title": "Klaviertrios",
+    "versions": [],
+    "positions": [
+      "Violine",
+      "Violoncello",
+      "Klavier"
+    ],
+    "components": []
+  },
+  {
+    "id": "226",
+    "n": "226",
+    "identifier": "Anh. 2a Nr. 7",
+    "prefix": "Anh.",
+    "opus": "2a Nr. 7",
+    "title": "Klaviertrio Es-Dur, 1. Satz",
+    "versions": [],
+    "positions": [
+      "Violine",
+      "Violoncello",
+      "Klavier"
+    ],
+    "components": []
+  },
+  {
+    "id": "227",
+    "n": "227",
+    "identifier": "Anh. 2a Nr. 8",
+    "prefix": "Anh.",
+    "opus": "2a Nr. 8",
+    "title": "Violinsonate a-Moll",
+    "versions": [],
+    "positions": [
+      "Klavier",
+      "Violine"
+    ],
+    "components": []
+  },
+  {
+    "id": "228",
+    "n": "228",
+    "identifier": "Anh. 2a Nr. 9",
+    "prefix": "Anh.",
+    "opus": "2a Nr. 9",
+    "title": "Adagio",
+    "versions": [],
+    "positions": [
+      "Klavier",
+      "Violoncello"
+    ],
+    "components": []
+  },
+  {
+    "id": "229",
+    "n": "229",
+    "identifier": "Anh. 2a Nr. 10",
+    "prefix": "Anh.",
+    "opus": "2a Nr. 10",
+    "title": "Duo",
+    "versions": [],
+    "positions": [
+      "Klavier",
+      "Violoncello"
+    ],
+    "components": []
+  },
+  {
+    "id": "230",
+    "n": "230",
+    "identifier": "Anh. 2a Nr. 11",
+    "prefix": "Anh.",
+    "opus": "2a Nr. 11",
+    "title": "Klavierstücke \"Blätter aus dem Tagebuche eines Musikers\"",
+    "versions": [],
+    "positions": [
+      "Klavier"
+    ],
+    "components": []
+  },
+  {
+    "id": "231",
+    "n": "231",
+    "identifier": "Anh. 2a Nr. 12",
+    "prefix": "Anh.",
+    "opus": "2a Nr. 12",
+    "title": "[Klavierstück c-Moll: entfällt, da identisch mit dem Klavierstück e-Moll op. 116 Nr. 5]",
+    "versions": [],
+    "positions": [],
+    "components": []
+  },
+  {
+    "id": "232",
+    "n": "232",
+    "identifier": "Anh. 2a Nr. 13",
+    "prefix": "Anh.",
+    "opus": "2a Nr. 13",
+    "title": "Phantasie über einen beliebten Walzer",
+    "versions": [],
+    "positions": [
+      "Klavier"
+    ],
+    "components": []
+  },
+  {
+    "id": "233",
+    "n": "233",
+    "identifier": "Anh. 2a Nr. 14",
+    "prefix": "Anh.",
+    "opus": "2a Nr. 14",
+    "title": "Präludium und Aria a-Moll",
+    "versions": [],
+    "positions": [
+      "Klavier"
+    ],
+    "components": []
+  },
+  {
+    "id": "234",
+    "n": "234",
+    "identifier": "Anh. 2a Nr. 15",
+    "prefix": "Anh.",
+    "opus": "2a Nr. 15",
+    "title": "Klaviersonate g-Moll",
+    "versions": [],
+    "positions": [
+      "Klavier"
+    ],
+    "components": []
+  },
+  {
+    "id": "235",
+    "n": "235",
+    "identifier": "Anh. 2a Nr. 16",
+    "prefix": "Anh.",
+    "opus": "2a Nr. 16",
+    "title": "Ungarische Tänze",
+    "versions": [],
+    "positions": [
+      "Klavier"
+    ],
+    "components": [],
+    "events": [
+      1424,
+      1425
+    ]
+  },
+  {
+    "id": "236",
+    "n": "236",
+    "identifier": "Anh. 2a Nr. 1* (Nachtrag instrumental)",
+    "prefix": "Anh.",
+    "opus": "2a Nr. 1* (Nachtrag instrumental)",
+    "title": "Symphonie d-Moll",
+    "versions": [],
+    "positions": [
+      "Orchester"
+    ],
+    "components": []
+  },
+  {
+    "id": "237",
+    "n": "237",
+    "identifier": "Anh. 2a Nr. 2* (Nachtrag instrumental)",
+    "prefix": "Anh.",
+    "opus": "2a Nr. 2* (Nachtrag instrumental)",
+    "title": "Klavierduett",
+    "versions": [],
+    "positions": [
+      "1 Klavier zu 4 Händen"
+    ],
+    "components": []
+  },
+  {
+    "id": "238",
+    "n": "238",
+    "identifier": "Anh. 2a Nr. 3* (Nachtrag instrumental)",
+    "prefix": "Anh.",
+    "opus": "2a Nr. 3* (Nachtrag instrumental)",
+    "title": "Improvisationen über Walzer von Strauß",
+    "versions": [],
+    "positions": [
+      "Klavier"
+    ],
+    "components": []
+  },
+  {
+    "id": "239",
+    "n": "239",
+    "identifier": "Anh. 2a Nr. 4* (Nachtrag instrumental)",
+    "prefix": "Anh.",
+    "opus": "2a Nr. 4* (Nachtrag instrumental)",
+    "title": "Präludium as-Moll",
+    "versions": [],
+    "positions": [
+      "Orgel"
+    ],
+    "components": []
+  },
+  {
+    "id": "240",
+    "n": "240",
+    "identifier": "Anh. 2a Nr. 17",
+    "prefix": "Anh.",
+    "opus": "2a Nr. 17",
+    "title": "Psalm 22",
+    "versions": [],
+    "positions": [
+      "Bariton-Solo",
+      "Doppelchor",
+      "Orchester"
+    ],
+    "components": []
+  },
+  {
+    "id": "241",
+    "n": "241",
+    "identifier": "Anh. 2a Nr. 18",
+    "prefix": "Anh.",
+    "opus": "2a Nr. 18",
+    "title": "Ursprünglicher Schlusschor zu Rinaldo op. 50",
+    "versions": [],
+    "positions": [
+      "Chor",
+      "Orchester"
+    ],
+    "components": []
+  },
+  {
+    "id": "242",
+    "n": "242",
+    "identifier": "Anh. 2a Nr. 19",
+    "prefix": "Anh.",
+    "opus": "2a Nr. 19",
+    "title": "[Notturno: entfällt, da identisch mit dem Vokalquartett op. 92 Nr. 1]",
+    "versions": [],
+    "positions": [],
+    "components": []
+  },
+  {
+    "id": "243",
+    "n": "243",
+    "identifier": "Anh. 2a Nr. 20",
+    "prefix": "Anh.",
+    "opus": "2a Nr. 20",
+    "title": "Credo",
+    "versions": [],
+    "positions": [
+      "gemischter Chor"
+    ],
+    "components": []
+  },
+  {
+    "id": "244",
+    "n": "244",
+    "identifier": "Anh. 2a Nr. 21",
+    "prefix": "Anh.",
+    "opus": "2a Nr. 21",
+    "title": "[Morgenständchen: entfällt, da aus verschiedenen bekannten Werken zusammengesetzt]",
+    "versions": [],
+    "positions": [],
+    "components": []
+  },
+  {
+    "id": "245",
+    "n": "245",
+    "identifier": "Anh. 2a Nr. 22",
+    "prefix": "Anh.",
+    "opus": "2a Nr. 22",
+    "title": "Motette",
+    "versions": [],
+    "positions": [
+      "gemischter Chor?"
+    ],
+    "components": []
+  },
+  {
+    "id": "246",
+    "n": "246",
+    "identifier": "Anh. 2a Nr. 23",
+    "prefix": "Anh.",
+    "opus": "2a Nr. 23",
+    "title": "Drei Lieder für Männerchor: Des Postillons Morgenlied, ABC-Lied, Abschied von Winsen",
+    "versions": [],
+    "positions": [
+      "Männerchor"
+    ],
+    "components": []
+  },
+  {
+    "id": "247",
+    "n": "247",
+    "identifier": "Anh. 2a Nr. 24",
+    "prefix": "Anh.",
+    "opus": "2a Nr. 24",
+    "title": "Kanons",
+    "versions": [],
+    "positions": [
+      "Singstimmen"
+    ],
+    "components": []
+  },
+  {
+    "id": "248",
+    "n": "248",
+    "identifier": "Anh. 2a Nr. 25",
+    "prefix": "Anh.",
+    "opus": "2a Nr. 25",
+    "title": "Zwei Frühlingslieder von Geibel: Nun ringt bei Frühlingswettern, Über die Berge wandelt",
+    "versions": [],
+    "positions": [
+      "1 Singstimme",
+      "Klavier"
+    ],
+    "components": []
+  },
+  {
+    "id": "249",
+    "n": "249",
+    "identifier": "Anh. 2a Nr. 26",
+    "prefix": "Anh.",
+    "opus": "2a Nr. 26",
+    "title": "Nachtigall \"O Nachtigall, dein süßer Schall\"",
+    "versions": [],
+    "positions": [
+      "1 Singstimme",
+      "Klavier"
+    ],
+    "components": []
+  },
+  {
+    "id": "250",
+    "n": "250",
+    "identifier": "Anh. 2a Nr. 27",
+    "prefix": "Anh.",
+    "opus": "2a Nr. 27",
+    "title": "Wie der Mond (Heine)",
+    "versions": [],
+    "positions": [
+      "1 Singstimme",
+      "Klavier"
+    ],
+    "components": []
+  },
+  {
+    "id": "251",
+    "n": "251",
+    "identifier": "Anh. 2a Nr. 28",
+    "prefix": "Anh.",
+    "opus": "2a Nr. 28",
+    "title": "Winternacht \"Um mich ist Nacht und Dunkel\" (Halm)",
+    "versions": [],
+    "positions": [
+      "1 Singstimme",
+      "Klavier"
+    ],
+    "components": []
+  },
+  {
+    "id": "252",
+    "n": "252",
+    "identifier": "Anh. 2a Nr. 29",
+    "prefix": "Anh.",
+    "opus": "2a Nr. 29",
+    "title": "Brautlied \"Welch ein Scheiden ist seliger\" (Heyse)",
+    "versions": [],
+    "positions": [
+      "1 Singstimme",
+      "Klavier?"
+    ],
+    "components": []
+  },
+  {
+    "id": "253",
+    "n": "253",
+    "identifier": "Anh. 2a Nr. 1* (Nachtrag vokal)",
+    "prefix": "Anh.",
+    "opus": "2a Nr. 1* (Nachtrag vokal)",
+    "title": "Lied (für den Gesangverein Hildesheim)",
+    "versions": [],
+    "positions": [
+      "gemischter (?) Chor"
+    ],
+    "components": []
+  },
+  {
+    "id": "254",
+    "n": "254",
+    "identifier": "Anh. 2a Nr. 2* (Nachtrag vokal)",
+    "prefix": "Anh.",
+    "opus": "2a Nr. 2* (Nachtrag vokal)",
+    "title": "Abendlied des Wanderers \"Wie sich Schatten dehnen\" (Rückert)",
+    "versions": [],
+    "positions": [
+      "gemischter Chor"
+    ],
+    "components": []
+  },
+  {
+    "id": "255",
+    "n": "255",
+    "identifier": "Anh. 2a Nr. 3* (Nachtrag vokal)",
+    "prefix": "Anh.",
+    "opus": "2a Nr. 3* (Nachtrag vokal)",
+    "title": "Frühling Liebster (Rückert)",
+    "versions": [],
+    "positions": [
+      "1 Singstimme",
+      "Klavier"
+    ],
+    "components": []
+  },
+  {
+    "id": "256",
+    "n": "256",
+    "identifier": "Anh. 2a Nr. 4* (Nachtrag vokal)",
+    "prefix": "Anh.",
+    "opus": "2a Nr. 4* (Nachtrag vokal)",
+    "title": "Tränen (A. von Chamisso)",
+    "versions": [],
+    "positions": [
+      "1 Singstimme",
+      "Klavier"
+    ],
+    "components": []
+  },
+  {
+    "id": "257",
+    "n": "257",
+    "identifier": "Anh. 2a Nr. 5* (Nachtrag vokal)",
+    "prefix": "Anh.",
+    "opus": "2a Nr. 5* (Nachtrag vokal)",
+    "title": "Ballade",
+    "versions": [],
+    "positions": [
+      "2 Singstimmen",
+      "Klavier"
+    ],
+    "components": []
+  },
+  {
+    "id": "258",
+    "n": "258",
+    "identifier": "Anh. 2a Nr. 6* (Nachtrag vokal)",
+    "prefix": "Anh.",
+    "opus": "2a Nr. 6* (Nachtrag vokal)",
+    "title": "Was weht mir um die Schläfe (Halm)",
+    "versions": [],
+    "positions": [
+      "1 Singstimme",
+      "Klavier"
+    ],
+    "components": []
+  },
+  {
+    "id": "259",
+    "n": "259",
+    "identifier": "Anh. 2a Nr. 7* (Nachtrag vokal)",
+    "prefix": "Anh.",
+    "opus": "2a Nr. 7* (Nachtrag vokal)",
+    "title": "Das Hüttchen \"Ich hab ein kleines Hüttchen nur\" (Gleim)",
+    "versions": [],
+    "positions": [
+      "1 Singstimme",
+      "Klavier"
+    ],
+    "components": []
+  },
+  {
+    "id": "260",
+    "n": "260",
+    "identifier": "Anh. 2a Nr. 8* (Nachtrag vokal)",
+    "prefix": "Anh.",
+    "opus": "2a Nr. 8* (Nachtrag vokal)",
+    "title": "Fanchon \"Komm, falsche Dirn\" (Daumer)",
+    "versions": [],
+    "positions": [
+      "1 Singstimme",
+      "Klavier"
+    ],
+    "components": []
+  },
+  {
+    "id": "261",
+    "n": "261",
+    "identifier": "Anh. 2a Nr. 9* (Nachtrag vokal)",
+    "prefix": "Anh.",
+    "opus": "2a Nr. 9* (Nachtrag vokal)",
+    "title": "Kornblume \"Glaub mir Blümchen\" (H. Schmidt)",
+    "versions": [],
+    "positions": [
+      "1 Singstimme",
+      "Klavier"
+    ],
+    "components": []
+  },
+  {
+    "id": "262",
+    "n": "262",
+    "identifier": "Anh. 2a Nr. 10* (Nachtrag vokal)",
+    "prefix": "Anh.",
+    "opus": "2a Nr. 10* (Nachtrag vokal)",
+    "title": "Schöne Maiennacht \"Wo die Liebe wacht (Rückert)",
+    "versions": [],
+    "positions": [
+      "1 Singstimme",
+      "Klavier"
+    ],
+    "components": []
+  },
+  {
+    "id": "263",
+    "n": "263",
+    "identifier": "Anh. 2a Nr. 11* (Nachtrag vokal)",
+    "prefix": "Anh.",
+    "opus": "2a Nr. 11* (Nachtrag vokal)",
+    "title": "Venetianisches Liedchen \"In der Gondel gestern abend\" (Rückert)",
+    "versions": [],
+    "positions": [
+      "1 Singstimme",
+      "Klavier"
+    ],
+    "components": []
+  },
+  {
+    "id": "264",
+    "n": "264",
+    "identifier": "Anh. 2a Nr. 12* (Nachtrag vokal)",
+    "prefix": "Anh.",
+    "opus": "2a Nr. 12* (Nachtrag vokal)",
+    "title": "Du bist wie eine Blume (Heine)",
+    "versions": [],
+    "positions": [
+      "1 Singstimme",
+      "Klavier"
+    ],
+    "components": []
+  },
+  {
+    "id": "265",
+    "n": "265",
+    "identifier": "Anh. 2a Nr. 13* (Nachtrag vokal)",
+    "prefix": "Anh.",
+    "opus": "2a Nr. 13* (Nachtrag vokal)",
+    "title": "Liebesdienst",
+    "versions": [],
+    "positions": [
+      "1 Singstimme",
+      "Klavier"
+    ],
+    "components": []
+  },
+  {
+    "id": "266",
+    "n": "266",
+    "identifier": "Anh. 2b Nr. 1",
+    "prefix": "Anh.",
+    "opus": "2b Nr. 1",
+    "title": "Johann Sebastian Bach: Orgeltoccata F-Dur aus BWV 540 sowie weitere Orgelwerke",
+    "versions": [],
+    "positions": [
+      "Klavier zu 2 Händen"
+    ],
+    "components": [],
+    "events": [
+      1426
+    ]
+  },
+  {
+    "id": "267",
+    "n": "267",
+    "identifier": "Anh. 2b Nr. 2",
+    "prefix": "Anh.",
+    "opus": "2b Nr. 2",
+    "title": "Ludwig van Beethoven: Finale aus dem Streichquartett C-Dur op. 59 Nr. 3",
+    "versions": [],
+    "positions": [
+      "Klavier zu 2 Händen"
+    ],
+    "components": [],
+    "events": [
+      1427
+    ]
+  },
+  {
+    "id": "268",
+    "n": "268",
+    "identifier": "Anh. 2b Nr. 3",
+    "prefix": "Anh.",
+    "opus": "2b Nr. 3",
+    "title": "Franz Schubert: Zwei vierhändige Märsche C-Dur op. posth. 121 D 968B (866)",
+    "versions": [],
+    "positions": [
+      "Klavier zu 2 Händen"
+    ],
+    "components": [],
+    "events": [
+      1428,
+      1429,
+      1430
+    ]
+  },
+  {
+    "id": "269",
+    "n": "269",
+    "identifier": "Anh. 2b Nr. 4",
+    "prefix": "Anh.",
+    "opus": "2b Nr. 4",
+    "title": "Franz Schubert: Scherzo aus dem Oktett op. post. 166 D 803",
+    "versions": [],
+    "positions": [
+      "Klavier zu 2 Händen"
+    ],
+    "components": [],
+    "events": [
+      1431
+    ]
+  },
+  {
+    "id": "270",
+    "n": "270",
+    "identifier": "Anh. 2b Nr. 5",
+    "prefix": "Anh.",
+    "opus": "2b Nr. 5",
+    "title": "Robert Schumann: Klavierquintett Es-Dur op. 44",
+    "versions": [],
+    "positions": [
+      "1 Klavier zu 4 Händen"
+    ],
+    "components": []
+  },
+  {
+    "id": "271",
+    "n": "271",
+    "identifier": "Anh. 2b Nr. 6",
+    "prefix": "Anh.",
+    "opus": "2b Nr. 6",
+    "title": "Ständchen",
+    "versions": [],
+    "positions": [
+      "zweistimmiger Kinderchor (Winsen)"
+    ],
+    "components": []
+  },
+  {
+    "id": "272",
+    "n": "272",
+    "identifier": "Anh. 2b Nr. 7",
+    "prefix": "Anh.",
+    "opus": "2b Nr. 7",
+    "title": "Zwei Volkslieder",
+    "versions": [],
+    "positions": [
+      "Männerchor (Winsen)"
+    ],
+    "components": []
+  },
+  {
+    "id": "273",
+    "n": "273",
+    "identifier": "Anh. 3 Nr. 1",
+    "prefix": "Anh.",
+    "opus": "3 Nr. 1",
+    "title": "[Anh. 3 = Varia, Fragmente und Skizzen: in der Rezeptions-Datenbank bisher bis auf 1 Fall (siehe unten) irrelevant]",
+    "versions": [],
+    "positions": [],
+    "components": []
+  },
+  {
+    "id": "274",
+    "n": "274",
+    "identifier": "Anh. 3 Nr. 2",
+    "prefix": "Anh.",
+    "opus": "3 Nr. 2",
+    "title": "",
+    "versions": [],
+    "positions": [],
+    "components": []
+  },
+  {
+    "id": "275",
+    "n": "275",
+    "identifier": "Anh. 3 Nr. 3",
+    "prefix": "Anh.",
+    "opus": "3 Nr. 3",
+    "title": "",
+    "versions": [],
+    "positions": [],
+    "components": []
+  },
+  {
+    "id": "276",
+    "n": "276",
+    "identifier": "Anh. 3 Nr. 4",
+    "prefix": "Anh.",
+    "opus": "3 Nr. 4",
+    "title": "",
+    "versions": [],
+    "positions": [],
+    "components": []
+  },
+  {
+    "id": "277",
+    "n": "277",
+    "identifier": "Anh. 3 Nr. 5",
+    "prefix": "Anh.",
+    "opus": "3 Nr. 5",
+    "title": "",
+    "versions": [],
+    "positions": [],
+    "components": []
+  },
+  {
+    "id": "278",
+    "n": "278",
+    "identifier": "Anh. 3 Nr. 6",
+    "prefix": "Anh.",
+    "opus": "3 Nr. 6",
+    "title": "",
+    "versions": [],
+    "positions": [],
+    "components": []
+  },
+  {
+    "id": "279",
+    "n": "279",
+    "identifier": "Anh. 3 Nr. 7",
+    "prefix": "Anh.",
+    "opus": "3 Nr. 7",
+    "title": "",
+    "versions": [],
+    "positions": [],
+    "components": []
+  },
+  {
+    "id": "280",
+    "n": "280",
+    "identifier": "Anh. 3 Nr. 8",
+    "prefix": "Anh.",
+    "opus": "3 Nr. 8",
+    "title": "",
+    "versions": [],
+    "positions": [],
+    "components": []
+  },
+  {
+    "id": "281",
+    "n": "281",
+    "identifier": "Anh. 3 Nr. 9",
+    "prefix": "Anh.",
+    "opus": "3 Nr. 9",
+    "title": "",
+    "versions": [],
+    "positions": [],
+    "components": []
+  },
+  {
+    "id": "282",
+    "n": "282",
+    "identifier": "Anh. 3 Nr. 10",
+    "prefix": "Anh.",
+    "opus": "3 Nr. 10",
+    "title": "Rákóczi-Marsch a-Moll",
+    "versions": [],
+    "positions": [
+      "Klavier"
+    ],
+    "components": []
+  },
+  {
+    "id": "283",
+    "n": "283",
+    "identifier": "Anh. 3 Nr. 11",
+    "prefix": "Anh.",
+    "opus": "3 Nr. 11",
+    "title": "",
+    "versions": [],
+    "positions": [],
+    "components": []
+  },
+  {
+    "id": "284",
+    "n": "284",
+    "identifier": "Anh. 3 Nr. 12",
+    "prefix": "Anh.",
+    "opus": "3 Nr. 12",
+    "title": "",
+    "versions": [],
+    "positions": [],
+    "components": []
+  },
+  {
+    "id": "285",
+    "n": "285",
+    "identifier": "Anh. 3 Nr. 13",
+    "prefix": "Anh.",
+    "opus": "3 Nr. 13",
+    "title": "",
+    "versions": [],
+    "positions": [],
+    "components": []
+  },
+  {
+    "id": "286",
+    "n": "286",
+    "identifier": "Anh. 3 Nr. 14",
+    "prefix": "Anh.",
+    "opus": "3 Nr. 14",
+    "title": "",
+    "versions": [],
+    "positions": [],
+    "components": []
+  },
+  {
+    "id": "287",
+    "n": "287",
+    "identifier": "Anh. 3 Nr. 15",
+    "prefix": "Anh.",
+    "opus": "3 Nr. 15",
+    "title": "",
+    "versions": [],
+    "positions": [],
+    "components": []
+  },
+  {
+    "id": "288",
+    "n": "288",
+    "identifier": "Anh. 3 Nr. 16",
+    "prefix": "Anh.",
+    "opus": "3 Nr. 16",
+    "title": "",
+    "versions": [],
+    "positions": [],
+    "components": []
+  },
+  {
+    "id": "289",
+    "n": "289",
+    "identifier": "Anh. 3 Nr. 17",
+    "prefix": "Anh.",
+    "opus": "3 Nr. 17",
+    "title": "",
+    "versions": [],
+    "positions": [],
+    "components": []
+  },
+  {
+    "id": "290",
+    "n": "290",
+    "identifier": "Anh. 3 Nr. 18",
+    "prefix": "Anh.",
+    "opus": "3 Nr. 18",
+    "title": "",
+    "versions": [],
+    "positions": [],
+    "components": []
+  },
+  {
+    "id": "291",
+    "n": "291",
+    "identifier": "Anh. 3 Nr. 19",
+    "prefix": "Anh.",
+    "opus": "3 Nr. 19",
+    "title": "",
+    "versions": [],
+    "positions": [],
+    "components": []
+  },
+  {
+    "id": "292",
+    "n": "292",
+    "identifier": "Anh. 4 Nr. 1",
+    "prefix": "Anh.",
+    "opus": "4 Nr. 1",
+    "title": "[Anh. 4 = Zweifelhafte und untergeschobene Werke: in der Rezeptions-Datenbank bisher irrelevant]",
+    "versions": [],
+    "positions": [],
+    "components": [
+      "Anh. 4, 1,1",
+      "Anh. 4, 1,2",
+      "Anh. 4, 1,3",
+      "Anh. 4, 1,4",
+      "Anh. 4, 1,5",
+      "Anh. 4, 1,6",
+      "Anh. 4, 1,7",
+      "Anh. 4, 1,8",
+      "Anh. 4, 1,9",
+      "Anh. 4, 1,10",
+      "Anh. 4, 1,11",
+      "Anh. 4, 1,12"
+    ]
+  },
+  {
+    "id": "293",
+    "n": "293",
+    "identifier": "Anh. 4 Nr. 2",
+    "prefix": "Anh.",
+    "opus": "4 Nr. 2",
+    "title": "",
+    "versions": [],
+    "positions": [],
+    "components": []
+  },
+  {
+    "id": "294",
+    "n": "294",
+    "identifier": "Anh. 4 Nr. 3",
+    "prefix": "Anh.",
+    "opus": "4 Nr. 3",
+    "title": "",
+    "versions": [],
+    "positions": [],
+    "components": []
+  },
+  {
+    "id": "295",
+    "n": "295",
+    "identifier": "Anh. 4 Nr. 4",
+    "prefix": "Anh.",
+    "opus": "4 Nr. 4",
+    "title": "",
+    "versions": [],
+    "positions": [],
+    "components": []
+  },
+  {
+    "id": "296",
+    "n": "296",
+    "identifier": "Anh. 4 Nr. 5",
+    "prefix": "Anh.",
+    "opus": "4 Nr. 5",
+    "title": "",
+    "versions": [],
+    "positions": [],
+    "components": []
+  },
+  {
+    "id": "297",
+    "n": "297",
+    "identifier": "Anh. 4 Nr. 6",
+    "prefix": "Anh.",
+    "opus": "4 Nr. 6",
+    "title": "",
+    "versions": [],
+    "positions": [],
+    "components": [
+      "Hymne national russe de Lvoff, Anh. 4, 6,1",
+      "Chansonette de Titoff, Anh. 4, 6,2",
+      "Romance de Warlamoff, Anh. 4, 6,3",
+      "\"Le Rossignol\" de A. Alabieff, Anh. 4, 6,4",
+      "Chant bohémien, Anh. 4, 6,5",
+      "\"KOCA\" Chant bohémien, Anh. 4, 6,6"
+    ]
+  },
+  {
+    "id": "298",
+    "n": "298",
+    "identifier": "Anh. 4 Nr. 7",
+    "prefix": "Anh.",
+    "opus": "4 Nr. 7",
+    "title": "",
+    "versions": [],
+    "positions": [],
+    "components": []
+  },
+  {
+    "id": "299",
+    "n": "299",
+    "identifier": "Anh. 5a Nr. 1",
+    "prefix": "Anh.",
+    "opus": "5a Nr. 1",
+    "title": "[Anh. 5 = Eigenhändige Sammlungen/Abschriften: in der Rezeptions-Datenbank irrelevant; hier nur erfasst, wenn irrtümliche Angabe im Brahms-Werkverzeichnis (recte: Bearbeitung)]",
+    "versions": [],
+    "positions": [],
+    "components": []
+  },
+  {
+    "id": "300",
+    "n": "300",
+    "identifier": "Anh. 5a Nr. 2",
+    "prefix": "Anh.",
+    "opus": "5a Nr. 2",
+    "title": "",
+    "versions": [],
+    "positions": [],
+    "components": []
+  },
+  {
+    "id": "301",
+    "n": "301",
+    "identifier": "Anh. 5a Nr. 3",
+    "prefix": "Anh.",
+    "opus": "5a Nr. 3",
+    "title": "",
+    "versions": [],
+    "positions": [],
+    "components": []
+  },
+  {
+    "id": "302",
+    "n": "302",
+    "identifier": "Anh. 5a Nr. 4",
+    "prefix": "Anh.",
+    "opus": "5a Nr. 4",
+    "title": "",
+    "versions": [],
+    "positions": [],
+    "components": []
+  },
+  {
+    "id": "303",
+    "n": "303",
+    "identifier": "Anh. 5a Nr. 5",
+    "prefix": "Anh.",
+    "opus": "5a Nr. 5",
+    "title": "",
+    "versions": [],
+    "positions": [],
+    "components": []
+  },
+  {
+    "id": "304",
+    "n": "304",
+    "identifier": "Anh. 5a Nr. 6",
+    "prefix": "Anh.",
+    "opus": "5a Nr. 6",
+    "title": "",
+    "versions": [],
+    "positions": [],
+    "components": []
+  },
+  {
+    "id": "305",
+    "n": "305",
+    "identifier": "Anh. 5a Nr. 7",
+    "prefix": "Anh.",
+    "opus": "5a Nr. 7",
+    "title": "",
+    "versions": [],
+    "positions": [],
+    "components": []
+  },
+  {
+    "id": "306",
+    "n": "306",
+    "identifier": "Anh. 5a Nr. 8",
+    "prefix": "Anh.",
+    "opus": "5a Nr. 8",
+    "title": "",
+    "versions": [],
+    "positions": [],
+    "components": []
+  },
+  {
+    "id": "307",
+    "n": "307",
+    "identifier": "Anh. 5a Nr. 9",
+    "prefix": "Anh.",
+    "opus": "5a Nr. 9",
+    "title": "",
+    "versions": [],
+    "positions": [],
+    "components": []
+  },
+  {
+    "id": "308",
+    "n": "308",
+    "identifier": "Anh. 5a Nr. 10",
+    "prefix": "Anh.",
+    "opus": "5a Nr. 10",
+    "title": "",
+    "versions": [],
+    "positions": [],
+    "components": []
+  },
+  {
+    "id": "309",
+    "n": "309",
+    "identifier": "Anh. 5a Nr. 11",
+    "prefix": "Anh.",
+    "opus": "5a Nr. 11",
+    "title": "",
+    "versions": [],
+    "positions": [],
+    "components": []
+  },
+  {
+    "id": "310",
+    "n": "310",
+    "identifier": "Anh. 5a Nr. 12",
+    "prefix": "Anh.",
+    "opus": "5a Nr. 12",
+    "title": "",
+    "versions": [],
+    "positions": [],
+    "components": []
+  },
+  {
+    "id": "311",
+    "n": "311",
+    "identifier": "Anh. 5a Nr. 13",
+    "prefix": "Anh.",
+    "opus": "5a Nr. 13",
+    "title": "",
+    "versions": [],
+    "positions": [],
+    "components": []
+  },
+  {
+    "id": "312",
+    "n": "312",
+    "identifier": "Anh. 5a Nr. 14",
+    "prefix": "Anh.",
+    "opus": "5a Nr. 14",
+    "title": "",
+    "versions": [],
+    "positions": [],
+    "components": []
+  },
+  {
+    "id": "313",
+    "n": "313",
+    "identifier": "Anh. 5a Nr. 15",
+    "prefix": "Anh.",
+    "opus": "5a Nr. 15",
+    "title": "",
+    "versions": [],
+    "positions": [],
+    "components": []
+  },
+  {
+    "id": "314",
+    "n": "314",
+    "identifier": "Anh. 5a Nr. 16",
+    "prefix": "Anh.",
+    "opus": "5a Nr. 16",
+    "title": "",
+    "versions": [],
+    "positions": [],
+    "components": []
+  },
+  {
+    "id": "315",
+    "n": "315",
+    "identifier": "Anh. 5a Nr. 17",
+    "prefix": "Anh.",
+    "opus": "5a Nr. 17",
+    "title": "Carl Czerny: Etüde D-Dur op. 139 Nr. 42",
+    "versions": [],
+    "positions": [
+      "Klavier zu 2 Händen"
+    ],
+    "components": []
+  },
+  {
+    "id": "316",
+    "n": "316",
+    "identifier": "Anh. 5a Nr. 18",
+    "prefix": "Anh.",
+    "opus": "5a Nr. 18",
+    "title": "",
+    "versions": [],
+    "positions": [],
+    "components": []
+  },
+  {
+    "id": "317",
+    "n": "317",
+    "identifier": "Anh. 5a Nr. 19",
+    "prefix": "Anh.",
+    "opus": "5a Nr. 19",
+    "title": "Christoph Willibald Gluck: Gratieux sans Lenteur C-Dur aus der Oper \"Iphigénie en Aulide\"",
+    "versions": [],
+    "positions": [
+      "Klavier zu 2 Händen"
+    ],
+    "components": []
+  },
+  {
+    "id": "318",
+    "n": "318",
+    "identifier": "Anh. 5a Nr. 20",
+    "prefix": "Anh.",
+    "opus": "5a Nr. 20",
+    "title": "",
+    "versions": [],
+    "positions": [],
+    "components": []
+  },
+  {
+    "id": "319",
+    "n": "319",
+    "identifier": "Anh. 5a Nr. 21",
+    "prefix": "Anh.",
+    "opus": "5a Nr. 21",
+    "title": "",
+    "versions": [],
+    "positions": [],
+    "components": []
+  },
+  {
+    "id": "320",
+    "n": "320",
+    "identifier": "Anh. 5b Nr. 1",
+    "prefix": "Anh.",
+    "opus": "5b Nr. 1",
+    "title": "",
+    "versions": [],
+    "positions": [],
+    "components": []
+  },
+  {
+    "id": "321",
+    "n": "321",
+    "identifier": "Anh. 5b Nr. 2",
+    "prefix": "Anh.",
+    "opus": "5b Nr. 2",
+    "title": "",
+    "versions": [],
+    "positions": [],
+    "components": []
+  },
+  {
+    "id": "322",
+    "n": "322",
+    "identifier": "Anh. 5b Nr. 3",
+    "prefix": "Anh.",
+    "opus": "5b Nr. 3",
+    "title": "",
+    "versions": [],
+    "positions": [],
+    "components": []
+  },
+  {
+    "id": "323",
+    "n": "323",
+    "identifier": "Anh. 6 Nr. 1",
+    "prefix": "Anh.",
+    "opus": "6 Nr. 1",
+    "title": "C. Ph. E. Bach: Nr. 1, 4 und 5 aus den \"VI Concerti per il cembalo\" Wq 43",
+    "versions": [],
+    "positions": [],
+    "components": []
+  },
+  {
+    "id": "324",
+    "n": "324",
+    "identifier": "Anh. 6 Nr. 2",
+    "prefix": "Anh.",
+    "opus": "6 Nr. 2",
+    "title": "C. Ph. E. Bach: Violinsonaten h-Moll Wq 76 und c-Moll Wq 78",
+    "versions": [],
+    "positions": [],
+    "components": []
+  },
+  {
+    "id": "325",
+    "n": "325",
+    "identifier": "Anh. 6 Nr. 3",
+    "prefix": "Anh.",
+    "opus": "6 Nr. 3",
+    "title": "Wilhelm Friedemann Bach: Sonate für zwei Klaviere F-Dur Falck Nr. 10",
+    "versions": [],
+    "positions": [],
+    "components": []
+  },
+  {
+    "id": "326",
+    "n": "326",
+    "identifier": "Anh. 6 Nr. 4",
+    "prefix": "Anh.",
+    "opus": "6 Nr. 4",
+    "title": "Ludwig van Beethoven: Klaviersonate As-Dur op. 110",
+    "versions": [],
+    "positions": [],
+    "components": []
+  },
+  {
+    "id": "327",
+    "n": "327",
+    "identifier": "Anh. 6 Nr. 5",
+    "prefix": "Anh.",
+    "opus": "6 Nr. 5",
+    "title": "Fryderyk Chopin: Diverse Werke",
+    "versions": [],
+    "positions": [],
+    "components": [],
+    "events": [
+      1432
+    ]
+  },
+  {
+    "id": "328",
+    "n": "328",
+    "identifier": "Anh. 6 Nr. 6",
+    "prefix": "Anh.",
+    "opus": "6 Nr. 6",
+    "title": "François Couperin: Pièces de Clavecin, Livres 1 und 2",
+    "versions": [],
+    "positions": [],
+    "components": []
+  },
+  {
+    "id": "329",
+    "n": "329",
+    "identifier": "Anh. 6 deest Mozart 1",
+    "prefix": "Anh.",
+    "opus": "6 deest Mozart 1",
+    "title": "Wolfgang Amadeus Mozart: Venite populi KV 248a = 260",
+    "versions": [],
+    "positions": [],
+    "components": []
+  },
+  {
+    "id": "330",
+    "n": "330",
+    "identifier": "Anh. 6 Nr. 7",
+    "prefix": "Anh.",
+    "opus": "6 Nr. 7",
+    "title": "Wolfgang Amadeus Mozart: Requiem KV 626",
+    "versions": [],
+    "positions": [],
+    "components": [],
+    "events": [
+      1433
+    ]
+  },
+  {
+    "id": "331",
+    "n": "331",
+    "identifier": "Anh. 6 Nr. 8",
+    "prefix": "Anh.",
+    "opus": "6 Nr. 8",
+    "title": "Franz Schubert: 16 Ländler D 366 und 4 Ländler D 814",
+    "versions": [],
+    "positions": [],
+    "components": []
+  },
+  {
+    "id": "332",
+    "n": "332",
+    "identifier": "Anh. 6 Nr. 9",
+    "prefix": "Anh.",
+    "opus": "6 Nr. 9",
+    "title": "Franz Schubert: Der Strom D 565",
+    "versions": [],
+    "positions": [],
+    "components": []
+  },
+  {
+    "id": "333",
+    "n": "333",
+    "identifier": "Anh. 6 Nr. 10",
+    "prefix": "Anh.",
+    "opus": "6 Nr. 10",
+    "title": "Franz Schubert: Streichquartettsatz c-Moll D 703",
+    "versions": [],
+    "positions": [],
+    "components": []
+  },
+  {
+    "id": "334",
+    "n": "334",
+    "identifier": "Anh. 6 Nr. 11",
+    "prefix": "Anh.",
+    "opus": "6 Nr. 11",
+    "title": "Franz Schubert: Zwölf Deutsche Tänze/Ländler op. posth. 171 D 790",
+    "versions": [],
+    "positions": [],
+    "components": []
+  },
+  {
+    "id": "335",
+    "n": "335",
+    "identifier": "Anh. 6 Nr. 12",
+    "prefix": "Anh.",
+    "opus": "6 Nr. 12",
+    "title": "Franz Schubert: Drei Klavierstücke D 946",
+    "versions": [],
+    "positions": [],
+    "components": []
+  },
+  {
+    "id": "336",
+    "n": "336",
+    "identifier": "Anh. 6 Nr. 13",
+    "prefix": "Anh.",
+    "opus": "6 Nr. 13",
+    "title": "Franz Schubert: Symphonien Nr. 1−8",
+    "versions": [],
+    "positions": [],
+    "components": [],
+    "events": [
+      1434
+    ]
+  },
+  {
+    "id": "337",
+    "n": "337",
+    "identifier": "Anh. 6 Nr. 14",
+    "prefix": "Anh.",
+    "opus": "6 Nr. 14",
+    "title": "Robert Schumann: Fünf nachgelassene Sätze zu den Symphonischen Etüden op. 13",
+    "versions": [],
+    "positions": [],
+    "components": []
+  },
+  {
+    "id": "338",
+    "n": "338",
+    "identifier": "Anh. 6 Nr. 15",
+    "prefix": "Anh.",
+    "opus": "6 Nr. 15",
+    "title": "Robert Schumann: Scherzo f-Moll und \"Presto passionato\" g-Moll",
+    "versions": [],
+    "positions": [],
+    "components": []
+  },
+  {
+    "id": "339",
+    "n": "339",
+    "identifier": "Anh. 6 Nr. 16",
+    "prefix": "Anh.",
+    "opus": "6 Nr. 16",
+    "title": "Robert Schumann: \"Vom Pagen und der Königstochter\" op. 140",
+    "versions": [],
+    "positions": [],
+    "components": []
+  },
+  {
+    "id": "340",
+    "n": "340",
+    "identifier": "Anh. 6 Nr. 17",
+    "prefix": "Anh.",
+    "opus": "6 Nr. 17",
+    "title": "Robert Schumann: Nachgelassene Werke; Frühfassung der Symphonie Nr. 4 d-Moll",
+    "versions": [],
+    "positions": [],
+    "components": []
+  },
+  {
+    "id": "341",
+    "n": "341",
+    "identifier": "Anh. 6 Nr. 18",
+    "prefix": "Anh.",
+    "opus": "6 Nr. 18",
+    "title": "Anna de Dobjansky: Nocturnes für Klavier op. 1−4",
+    "versions": [],
+    "positions": [],
+    "components": []
+  },
+  {
+    "id": "342",
+    "n": "342",
+    "identifier": "Anh. 6 Nr. 19",
+    "prefix": "Anh.",
+    "opus": "6 Nr. 19",
+    "title": "Joseph Joachim: Violinkonzert g-Moll op. 3, Klavierauszug",
+    "versions": [],
+    "positions": [],
+    "components": []
   }
 ]
